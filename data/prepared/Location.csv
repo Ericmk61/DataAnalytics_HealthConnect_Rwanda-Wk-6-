@@ -1,0 +1,481 @@
+﻿Region,CountryName,CountryID,Currency,ProvinceName,ProvinceID,DistrictName,DistrictID,SectorName,SectorID,VillageName,VillageID
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 1,S001,Village 1,V0001
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 1,S001,Village 2,V0002
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 1,S001,Village 3,V0003
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 1,S001,Village 4,V0004
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 2,S002,Village 5,V0005
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 2,S002,Village 6,V0006
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 2,S002,Village 7,V0007
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 2,S002,Village 8,V0008
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 3,S003,Village 9,V0009
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 3,S003,Village 10,V0010
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 3,S003,Village 11,V0011
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 3,S003,Village 12,V0012
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 4,S004,Village 13,V0013
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 4,S004,Village 14,V0014
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 4,S004,Village 15,V0015
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 1,D001,Sector 4,S004,Village 16,V0016
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 21,S021,Village 81,V0081
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 21,S021,Village 82,V0082
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 21,S021,Village 83,V0083
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 21,S021,Village 84,V0084
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 22,S022,Village 85,V0085
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 22,S022,Village 86,V0086
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 22,S022,Village 87,V0087
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 22,S022,Village 88,V0088
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 23,S023,Village 89,V0089
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 23,S023,Village 90,V0090
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 23,S023,Village 91,V0091
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 23,S023,Village 92,V0092
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 24,S024,Village 93,V0093
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 24,S024,Village 94,V0094
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 24,S024,Village 95,V0095
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 6,D006,Sector 24,S024,Village 96,V0096
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 41,S041,Village 161,V0161
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 41,S041,Village 162,V0162
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 41,S041,Village 163,V0163
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 41,S041,Village 164,V0164
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 42,S042,Village 165,V0165
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 42,S042,Village 166,V0166
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 42,S042,Village 167,V0167
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 42,S042,Village 168,V0168
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 43,S043,Village 169,V0169
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 43,S043,Village 170,V0170
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 43,S043,Village 171,V0171
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 43,S043,Village 172,V0172
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 44,S044,Village 173,V0173
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 44,S044,Village 174,V0174
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 44,S044,Village 175,V0175
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 11,D011,Sector 44,S044,Village 176,V0176
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 61,S061,Village 241,V0241
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 61,S061,Village 242,V0242
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 61,S061,Village 243,V0243
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 61,S061,Village 244,V0244
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 62,S062,Village 245,V0245
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 62,S062,Village 246,V0246
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 62,S062,Village 247,V0247
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 62,S062,Village 248,V0248
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 63,S063,Village 249,V0249
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 63,S063,Village 250,V0250
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 63,S063,Village 251,V0251
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 63,S063,Village 252,V0252
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 64,S064,Village 253,V0253
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 64,S064,Village 254,V0254
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 64,S064,Village 255,V0255
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 16,D016,Sector 64,S064,Village 256,V0256
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 81,S081,Village 321,V0321
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 81,S081,Village 322,V0322
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 81,S081,Village 323,V0323
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 81,S081,Village 324,V0324
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 82,S082,Village 325,V0325
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 82,S082,Village 326,V0326
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 82,S082,Village 327,V0327
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 82,S082,Village 328,V0328
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 83,S083,Village 329,V0329
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 83,S083,Village 330,V0330
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 83,S083,Village 331,V0331
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 83,S083,Village 332,V0332
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 84,S084,Village 333,V0333
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 84,S084,Village 334,V0334
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 84,S084,Village 335,V0335
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 21,D021,Sector 84,S084,Village 336,V0336
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 101,S101,Village 401,V0401
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 101,S101,Village 402,V0402
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 101,S101,Village 403,V0403
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 101,S101,Village 404,V0404
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 102,S102,Village 405,V0405
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 102,S102,Village 406,V0406
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 102,S102,Village 407,V0407
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 102,S102,Village 408,V0408
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 103,S103,Village 409,V0409
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 103,S103,Village 410,V0410
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 103,S103,Village 411,V0411
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 103,S103,Village 412,V0412
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 104,S104,Village 413,V0413
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 104,S104,Village 414,V0414
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 104,S104,Village 415,V0415
+East Africa,Rwanda,RW001,RWF,Kigali City,PV001,District 26,D026,Sector 104,S104,Village 416,V0416
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 5,S005,Village 17,V0017
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 5,S005,Village 18,V0018
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 5,S005,Village 19,V0019
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 5,S005,Village 20,V0020
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 6,S006,Village 21,V0021
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 6,S006,Village 22,V0022
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 6,S006,Village 23,V0023
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 6,S006,Village 24,V0024
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 7,S007,Village 25,V0025
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 7,S007,Village 26,V0026
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 7,S007,Village 27,V0027
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 7,S007,Village 28,V0028
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 8,S008,Village 29,V0029
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 8,S008,Village 30,V0030
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 8,S008,Village 31,V0031
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 2,D002,Sector 8,S008,Village 32,V0032
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 25,S025,Village 97,V0097
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 25,S025,Village 98,V0098
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 25,S025,Village 99,V0099
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 25,S025,Village 100,V0100
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 26,S026,Village 101,V0101
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 26,S026,Village 102,V0102
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 26,S026,Village 103,V0103
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 26,S026,Village 104,V0104
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 27,S027,Village 105,V0105
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 27,S027,Village 106,V0106
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 27,S027,Village 107,V0107
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 27,S027,Village 108,V0108
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 28,S028,Village 109,V0109
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 28,S028,Village 110,V0110
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 28,S028,Village 111,V0111
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 7,D007,Sector 28,S028,Village 112,V0112
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 45,S045,Village 177,V0177
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 45,S045,Village 178,V0178
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 45,S045,Village 179,V0179
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 45,S045,Village 180,V0180
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 46,S046,Village 181,V0181
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 46,S046,Village 182,V0182
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 46,S046,Village 183,V0183
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 46,S046,Village 184,V0184
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 47,S047,Village 185,V0185
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 47,S047,Village 186,V0186
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 47,S047,Village 187,V0187
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 47,S047,Village 188,V0188
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 48,S048,Village 189,V0189
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 48,S048,Village 190,V0190
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 48,S048,Village 191,V0191
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 12,D012,Sector 48,S048,Village 192,V0192
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 65,S065,Village 257,V0257
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 65,S065,Village 258,V0258
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 65,S065,Village 259,V0259
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 65,S065,Village 260,V0260
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 66,S066,Village 261,V0261
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 66,S066,Village 262,V0262
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 66,S066,Village 263,V0263
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 66,S066,Village 264,V0264
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 67,S067,Village 265,V0265
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 67,S067,Village 266,V0266
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 67,S067,Village 267,V0267
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 67,S067,Village 268,V0268
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 68,S068,Village 269,V0269
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 68,S068,Village 270,V0270
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 68,S068,Village 271,V0271
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 17,D017,Sector 68,S068,Village 272,V0272
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 85,S085,Village 337,V0337
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 85,S085,Village 338,V0338
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 85,S085,Village 339,V0339
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 85,S085,Village 340,V0340
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 86,S086,Village 341,V0341
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 86,S086,Village 342,V0342
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 86,S086,Village 343,V0343
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 86,S086,Village 344,V0344
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 87,S087,Village 345,V0345
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 87,S087,Village 346,V0346
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 87,S087,Village 347,V0347
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 87,S087,Village 348,V0348
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 88,S088,Village 349,V0349
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 88,S088,Village 350,V0350
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 88,S088,Village 351,V0351
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 22,D022,Sector 88,S088,Village 352,V0352
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 105,S105,Village 417,V0417
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 105,S105,Village 418,V0418
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 105,S105,Village 419,V0419
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 105,S105,Village 420,V0420
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 106,S106,Village 421,V0421
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 106,S106,Village 422,V0422
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 106,S106,Village 423,V0423
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 106,S106,Village 424,V0424
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 107,S107,Village 425,V0425
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 107,S107,Village 426,V0426
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 107,S107,Village 427,V0427
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 107,S107,Village 428,V0428
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 108,S108,Village 429,V0429
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 108,S108,Village 430,V0430
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 108,S108,Village 431,V0431
+East Africa,Rwanda,RW001,RWF,Eastern,PV002,District 27,D027,Sector 108,S108,Village 432,V0432
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 9,S009,Village 33,V0033
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 9,S009,Village 34,V0034
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 9,S009,Village 35,V0035
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 9,S009,Village 36,V0036
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 10,S010,Village 37,V0037
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 10,S010,Village 38,V0038
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 10,S010,Village 39,V0039
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 10,S010,Village 40,V0040
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 11,S011,Village 41,V0041
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 11,S011,Village 42,V0042
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 11,S011,Village 43,V0043
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 11,S011,Village 44,V0044
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 12,S012,Village 45,V0045
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 12,S012,Village 46,V0046
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 12,S012,Village 47,V0047
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 3,D003,Sector 12,S012,Village 48,V0048
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 29,S029,Village 113,V0113
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 29,S029,Village 114,V0114
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 29,S029,Village 115,V0115
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 29,S029,Village 116,V0116
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 30,S030,Village 117,V0117
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 30,S030,Village 118,V0118
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 30,S030,Village 119,V0119
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 30,S030,Village 120,V0120
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 31,S031,Village 121,V0121
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 31,S031,Village 122,V0122
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 31,S031,Village 123,V0123
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 31,S031,Village 124,V0124
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 32,S032,Village 125,V0125
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 32,S032,Village 126,V0126
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 32,S032,Village 127,V0127
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 8,D008,Sector 32,S032,Village 128,V0128
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 49,S049,Village 193,V0193
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 49,S049,Village 194,V0194
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 49,S049,Village 195,V0195
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 49,S049,Village 196,V0196
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 50,S050,Village 197,V0197
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 50,S050,Village 198,V0198
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 50,S050,Village 199,V0199
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 50,S050,Village 200,V0200
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 51,S051,Village 201,V0201
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 51,S051,Village 202,V0202
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 51,S051,Village 203,V0203
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 51,S051,Village 204,V0204
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 52,S052,Village 205,V0205
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 52,S052,Village 206,V0206
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 52,S052,Village 207,V0207
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 13,D013,Sector 52,S052,Village 208,V0208
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 69,S069,Village 273,V0273
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 69,S069,Village 274,V0274
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 69,S069,Village 275,V0275
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 69,S069,Village 276,V0276
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 70,S070,Village 277,V0277
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 70,S070,Village 278,V0278
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 70,S070,Village 279,V0279
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 70,S070,Village 280,V0280
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 71,S071,Village 281,V0281
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 71,S071,Village 282,V0282
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 71,S071,Village 283,V0283
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 71,S071,Village 284,V0284
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 72,S072,Village 285,V0285
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 72,S072,Village 286,V0286
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 72,S072,Village 287,V0287
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 18,D018,Sector 72,S072,Village 288,V0288
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 89,S089,Village 353,V0353
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 89,S089,Village 354,V0354
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 89,S089,Village 355,V0355
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 89,S089,Village 356,V0356
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 90,S090,Village 357,V0357
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 90,S090,Village 358,V0358
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 90,S090,Village 359,V0359
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 90,S090,Village 360,V0360
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 91,S091,Village 361,V0361
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 91,S091,Village 362,V0362
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 91,S091,Village 363,V0363
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 91,S091,Village 364,V0364
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 92,S092,Village 365,V0365
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 92,S092,Village 366,V0366
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 92,S092,Village 367,V0367
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 23,D023,Sector 92,S092,Village 368,V0368
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 109,S109,Village 433,V0433
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 109,S109,Village 434,V0434
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 109,S109,Village 435,V0435
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 109,S109,Village 436,V0436
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 110,S110,Village 437,V0437
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 110,S110,Village 438,V0438
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 110,S110,Village 439,V0439
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 110,S110,Village 440,V0440
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 111,S111,Village 441,V0441
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 111,S111,Village 442,V0442
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 111,S111,Village 443,V0443
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 111,S111,Village 444,V0444
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 112,S112,Village 445,V0445
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 112,S112,Village 446,V0446
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 112,S112,Village 447,V0447
+East Africa,Rwanda,RW001,RWF,Northern,PV003,District 28,D028,Sector 112,S112,Village 448,V0448
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 13,S013,Village 49,V0049
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 13,S013,Village 50,V0050
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 13,S013,Village 51,V0051
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 13,S013,Village 52,V0052
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 14,S014,Village 53,V0053
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 14,S014,Village 54,V0054
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 14,S014,Village 55,V0055
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 14,S014,Village 56,V0056
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 15,S015,Village 57,V0057
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 15,S015,Village 58,V0058
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 15,S015,Village 59,V0059
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 15,S015,Village 60,V0060
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 16,S016,Village 61,V0061
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 16,S016,Village 62,V0062
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 16,S016,Village 63,V0063
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 4,D004,Sector 16,S016,Village 64,V0064
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 33,S033,Village 129,V0129
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 33,S033,Village 130,V0130
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 33,S033,Village 131,V0131
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 33,S033,Village 132,V0132
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 34,S034,Village 133,V0133
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 34,S034,Village 134,V0134
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 34,S034,Village 135,V0135
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 34,S034,Village 136,V0136
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 35,S035,Village 137,V0137
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 35,S035,Village 138,V0138
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 35,S035,Village 139,V0139
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 35,S035,Village 140,V0140
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 36,S036,Village 141,V0141
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 36,S036,Village 142,V0142
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 36,S036,Village 143,V0143
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 9,D009,Sector 36,S036,Village 144,V0144
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 53,S053,Village 209,V0209
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 53,S053,Village 210,V0210
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 53,S053,Village 211,V0211
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 53,S053,Village 212,V0212
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 54,S054,Village 213,V0213
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 54,S054,Village 214,V0214
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 54,S054,Village 215,V0215
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 54,S054,Village 216,V0216
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 55,S055,Village 217,V0217
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 55,S055,Village 218,V0218
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 55,S055,Village 219,V0219
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 55,S055,Village 220,V0220
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 56,S056,Village 221,V0221
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 56,S056,Village 222,V0222
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 56,S056,Village 223,V0223
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 14,D014,Sector 56,S056,Village 224,V0224
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 73,S073,Village 289,V0289
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 73,S073,Village 290,V0290
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 73,S073,Village 291,V0291
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 73,S073,Village 292,V0292
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 74,S074,Village 293,V0293
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 74,S074,Village 294,V0294
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 74,S074,Village 295,V0295
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 74,S074,Village 296,V0296
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 75,S075,Village 297,V0297
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 75,S075,Village 298,V0298
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 75,S075,Village 299,V0299
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 75,S075,Village 300,V0300
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 76,S076,Village 301,V0301
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 76,S076,Village 302,V0302
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 76,S076,Village 303,V0303
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 19,D019,Sector 76,S076,Village 304,V0304
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 93,S093,Village 369,V0369
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 93,S093,Village 370,V0370
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 93,S093,Village 371,V0371
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 93,S093,Village 372,V0372
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 94,S094,Village 373,V0373
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 94,S094,Village 374,V0374
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 94,S094,Village 375,V0375
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 94,S094,Village 376,V0376
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 95,S095,Village 377,V0377
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 95,S095,Village 378,V0378
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 95,S095,Village 379,V0379
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 95,S095,Village 380,V0380
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 96,S096,Village 381,V0381
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 96,S096,Village 382,V0382
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 96,S096,Village 383,V0383
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 24,D024,Sector 96,S096,Village 384,V0384
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 113,S113,Village 449,V0449
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 113,S113,Village 450,V0450
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 113,S113,Village 451,V0451
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 113,S113,Village 452,V0452
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 114,S114,Village 453,V0453
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 114,S114,Village 454,V0454
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 114,S114,Village 455,V0455
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 114,S114,Village 456,V0456
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 115,S115,Village 457,V0457
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 115,S115,Village 458,V0458
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 115,S115,Village 459,V0459
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 115,S115,Village 460,V0460
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 116,S116,Village 461,V0461
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 116,S116,Village 462,V0462
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 116,S116,Village 463,V0463
+East Africa,Rwanda,RW001,RWF,Southern,PV004,District 29,D029,Sector 116,S116,Village 464,V0464
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 17,S017,Village 65,V0065
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 17,S017,Village 66,V0066
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 17,S017,Village 67,V0067
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 17,S017,Village 68,V0068
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 18,S018,Village 69,V0069
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 18,S018,Village 70,V0070
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 18,S018,Village 71,V0071
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 18,S018,Village 72,V0072
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 19,S019,Village 73,V0073
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 19,S019,Village 74,V0074
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 19,S019,Village 75,V0075
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 19,S019,Village 76,V0076
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 20,S020,Village 77,V0077
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 20,S020,Village 78,V0078
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 20,S020,Village 79,V0079
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 5,D005,Sector 20,S020,Village 80,V0080
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 37,S037,Village 145,V0145
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 37,S037,Village 146,V0146
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 37,S037,Village 147,V0147
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 37,S037,Village 148,V0148
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 38,S038,Village 149,V0149
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 38,S038,Village 150,V0150
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 38,S038,Village 151,V0151
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 38,S038,Village 152,V0152
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 39,S039,Village 153,V0153
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 39,S039,Village 154,V0154
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 39,S039,Village 155,V0155
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 39,S039,Village 156,V0156
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 40,S040,Village 157,V0157
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 40,S040,Village 158,V0158
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 40,S040,Village 159,V0159
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 10,D010,Sector 40,S040,Village 160,V0160
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 57,S057,Village 225,V0225
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 57,S057,Village 226,V0226
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 57,S057,Village 227,V0227
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 57,S057,Village 228,V0228
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 58,S058,Village 229,V0229
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 58,S058,Village 230,V0230
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 58,S058,Village 231,V0231
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 58,S058,Village 232,V0232
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 59,S059,Village 233,V0233
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 59,S059,Village 234,V0234
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 59,S059,Village 235,V0235
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 59,S059,Village 236,V0236
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 60,S060,Village 237,V0237
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 60,S060,Village 238,V0238
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 60,S060,Village 239,V0239
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 15,D015,Sector 60,S060,Village 240,V0240
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 77,S077,Village 305,V0305
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 77,S077,Village 306,V0306
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 77,S077,Village 307,V0307
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 77,S077,Village 308,V0308
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 78,S078,Village 309,V0309
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 78,S078,Village 310,V0310
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 78,S078,Village 311,V0311
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 78,S078,Village 312,V0312
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 79,S079,Village 313,V0313
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 79,S079,Village 314,V0314
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 79,S079,Village 315,V0315
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 79,S079,Village 316,V0316
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 80,S080,Village 317,V0317
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 80,S080,Village 318,V0318
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 80,S080,Village 319,V0319
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 20,D020,Sector 80,S080,Village 320,V0320
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 97,S097,Village 385,V0385
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 97,S097,Village 386,V0386
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 97,S097,Village 387,V0387
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 97,S097,Village 388,V0388
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 98,S098,Village 389,V0389
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 98,S098,Village 390,V0390
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 98,S098,Village 391,V0391
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 98,S098,Village 392,V0392
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 99,S099,Village 393,V0393
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 99,S099,Village 394,V0394
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 99,S099,Village 395,V0395
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 99,S099,Village 396,V0396
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 100,S100,Village 397,V0397
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 100,S100,Village 398,V0398
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 100,S100,Village 399,V0399
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 25,D025,Sector 100,S100,Village 400,V0400
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 117,S117,Village 465,V0465
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 117,S117,Village 466,V0466
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 117,S117,Village 467,V0467
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 117,S117,Village 468,V0468
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 118,S118,Village 469,V0469
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 118,S118,Village 470,V0470
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 118,S118,Village 471,V0471
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 118,S118,Village 472,V0472
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 119,S119,Village 473,V0473
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 119,S119,Village 474,V0474
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 119,S119,Village 475,V0475
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 119,S119,Village 476,V0476
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 120,S120,Village 477,V0477
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 120,S120,Village 478,V0478
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 120,S120,Village 479,V0479
+East Africa,Rwanda,RW001,RWF,Western,PV005,District 30,D030,Sector 120,S120,Village 480,V0480

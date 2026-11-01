@@ -1,0 +1,2001 @@
+﻿FacilityID,DepartmentName,DepartmentID,RoomName,RoomID,BedID,Status,EquipmentID,EquipmentName
+HF001,Emergency,DEP001,Emergency Room 1,RM0001,BED00001,Available,EQ0001,Emergency Equipment
+HF001,Emergency,DEP001,Emergency Room 1,RM0001,BED00002,Available,EQ0001,Emergency Equipment
+HF001,Emergency,DEP001,Emergency Room 1,RM0001,BED00003,Available,EQ0001,Emergency Equipment
+HF001,Emergency,DEP001,Emergency Room 1,RM0001,BED00004,Available,EQ0001,Emergency Equipment
+HF001,Emergency,DEP001,Emergency Room 1,RM0001,BED00005,Available,EQ0001,Emergency Equipment
+HF002,Emergency,DEP011,Emergency Room 1,RM0021,BED00101,Available,EQ0011,Emergency Equipment
+HF002,Emergency,DEP011,Emergency Room 1,RM0021,BED00102,Available,EQ0011,Emergency Equipment
+HF002,Emergency,DEP011,Emergency Room 1,RM0021,BED00103,Available,EQ0011,Emergency Equipment
+HF002,Emergency,DEP011,Emergency Room 1,RM0021,BED00104,Available,EQ0011,Emergency Equipment
+HF002,Emergency,DEP011,Emergency Room 1,RM0021,BED00105,Available,EQ0011,Emergency Equipment
+HF003,Emergency,DEP021,Emergency Room 1,RM0041,BED00201,Available,EQ0021,Emergency Equipment
+HF003,Emergency,DEP021,Emergency Room 1,RM0041,BED00202,Available,EQ0021,Emergency Equipment
+HF003,Emergency,DEP021,Emergency Room 1,RM0041,BED00203,Available,EQ0021,Emergency Equipment
+HF003,Emergency,DEP021,Emergency Room 1,RM0041,BED00204,Available,EQ0021,Emergency Equipment
+HF003,Emergency,DEP021,Emergency Room 1,RM0041,BED00205,Available,EQ0021,Emergency Equipment
+HF004,Emergency,DEP031,Emergency Room 1,RM0061,BED00301,Available,EQ0031,Emergency Equipment
+HF004,Emergency,DEP031,Emergency Room 1,RM0061,BED00302,Available,EQ0031,Emergency Equipment
+HF004,Emergency,DEP031,Emergency Room 1,RM0061,BED00303,Available,EQ0031,Emergency Equipment
+HF004,Emergency,DEP031,Emergency Room 1,RM0061,BED00304,Available,EQ0031,Emergency Equipment
+HF004,Emergency,DEP031,Emergency Room 1,RM0061,BED00305,Available,EQ0031,Emergency Equipment
+HF005,Emergency,DEP041,Emergency Room 1,RM0081,BED00401,Available,EQ0041,Emergency Equipment
+HF005,Emergency,DEP041,Emergency Room 1,RM0081,BED00402,Available,EQ0041,Emergency Equipment
+HF005,Emergency,DEP041,Emergency Room 1,RM0081,BED00403,Available,EQ0041,Emergency Equipment
+HF005,Emergency,DEP041,Emergency Room 1,RM0081,BED00404,Available,EQ0041,Emergency Equipment
+HF005,Emergency,DEP041,Emergency Room 1,RM0081,BED00405,Available,EQ0041,Emergency Equipment
+HF006,Emergency,DEP051,Emergency Room 1,RM0101,BED00501,Available,EQ0051,Emergency Equipment
+HF006,Emergency,DEP051,Emergency Room 1,RM0101,BED00502,Available,EQ0051,Emergency Equipment
+HF006,Emergency,DEP051,Emergency Room 1,RM0101,BED00503,Available,EQ0051,Emergency Equipment
+HF006,Emergency,DEP051,Emergency Room 1,RM0101,BED00504,Available,EQ0051,Emergency Equipment
+HF006,Emergency,DEP051,Emergency Room 1,RM0101,BED00505,Available,EQ0051,Emergency Equipment
+HF007,Emergency,DEP061,Emergency Room 1,RM0121,BED00601,Available,EQ0061,Emergency Equipment
+HF007,Emergency,DEP061,Emergency Room 1,RM0121,BED00602,Available,EQ0061,Emergency Equipment
+HF007,Emergency,DEP061,Emergency Room 1,RM0121,BED00603,Available,EQ0061,Emergency Equipment
+HF007,Emergency,DEP061,Emergency Room 1,RM0121,BED00604,Available,EQ0061,Emergency Equipment
+HF007,Emergency,DEP061,Emergency Room 1,RM0121,BED00605,Available,EQ0061,Emergency Equipment
+HF008,Emergency,DEP071,Emergency Room 1,RM0141,BED00701,Available,EQ0071,Emergency Equipment
+HF008,Emergency,DEP071,Emergency Room 1,RM0141,BED00702,Available,EQ0071,Emergency Equipment
+HF008,Emergency,DEP071,Emergency Room 1,RM0141,BED00703,Available,EQ0071,Emergency Equipment
+HF008,Emergency,DEP071,Emergency Room 1,RM0141,BED00704,Available,EQ0071,Emergency Equipment
+HF008,Emergency,DEP071,Emergency Room 1,RM0141,BED00705,Available,EQ0071,Emergency Equipment
+HF009,Emergency,DEP081,Emergency Room 1,RM0161,BED00801,Available,EQ0081,Emergency Equipment
+HF009,Emergency,DEP081,Emergency Room 1,RM0161,BED00802,Available,EQ0081,Emergency Equipment
+HF009,Emergency,DEP081,Emergency Room 1,RM0161,BED00803,Available,EQ0081,Emergency Equipment
+HF009,Emergency,DEP081,Emergency Room 1,RM0161,BED00804,Available,EQ0081,Emergency Equipment
+HF009,Emergency,DEP081,Emergency Room 1,RM0161,BED00805,Available,EQ0081,Emergency Equipment
+HF010,Emergency,DEP091,Emergency Room 1,RM0181,BED00901,Available,EQ0091,Emergency Equipment
+HF010,Emergency,DEP091,Emergency Room 1,RM0181,BED00902,Available,EQ0091,Emergency Equipment
+HF010,Emergency,DEP091,Emergency Room 1,RM0181,BED00903,Available,EQ0091,Emergency Equipment
+HF010,Emergency,DEP091,Emergency Room 1,RM0181,BED00904,Available,EQ0091,Emergency Equipment
+HF010,Emergency,DEP091,Emergency Room 1,RM0181,BED00905,Available,EQ0091,Emergency Equipment
+HF011,Emergency,DEP101,Emergency Room 1,RM0201,BED01001,Available,EQ0101,Emergency Equipment
+HF011,Emergency,DEP101,Emergency Room 1,RM0201,BED01002,Available,EQ0101,Emergency Equipment
+HF011,Emergency,DEP101,Emergency Room 1,RM0201,BED01003,Available,EQ0101,Emergency Equipment
+HF011,Emergency,DEP101,Emergency Room 1,RM0201,BED01004,Available,EQ0101,Emergency Equipment
+HF011,Emergency,DEP101,Emergency Room 1,RM0201,BED01005,Available,EQ0101,Emergency Equipment
+HF012,Emergency,DEP111,Emergency Room 1,RM0221,BED01101,Available,EQ0111,Emergency Equipment
+HF012,Emergency,DEP111,Emergency Room 1,RM0221,BED01102,Available,EQ0111,Emergency Equipment
+HF012,Emergency,DEP111,Emergency Room 1,RM0221,BED01103,Available,EQ0111,Emergency Equipment
+HF012,Emergency,DEP111,Emergency Room 1,RM0221,BED01104,Available,EQ0111,Emergency Equipment
+HF012,Emergency,DEP111,Emergency Room 1,RM0221,BED01105,Available,EQ0111,Emergency Equipment
+HF013,Emergency,DEP121,Emergency Room 1,RM0241,BED01201,Available,EQ0121,Emergency Equipment
+HF013,Emergency,DEP121,Emergency Room 1,RM0241,BED01202,Available,EQ0121,Emergency Equipment
+HF013,Emergency,DEP121,Emergency Room 1,RM0241,BED01203,Available,EQ0121,Emergency Equipment
+HF013,Emergency,DEP121,Emergency Room 1,RM0241,BED01204,Available,EQ0121,Emergency Equipment
+HF013,Emergency,DEP121,Emergency Room 1,RM0241,BED01205,Available,EQ0121,Emergency Equipment
+HF014,Emergency,DEP131,Emergency Room 1,RM0261,BED01301,Available,EQ0131,Emergency Equipment
+HF014,Emergency,DEP131,Emergency Room 1,RM0261,BED01302,Available,EQ0131,Emergency Equipment
+HF014,Emergency,DEP131,Emergency Room 1,RM0261,BED01303,Available,EQ0131,Emergency Equipment
+HF014,Emergency,DEP131,Emergency Room 1,RM0261,BED01304,Available,EQ0131,Emergency Equipment
+HF014,Emergency,DEP131,Emergency Room 1,RM0261,BED01305,Available,EQ0131,Emergency Equipment
+HF015,Emergency,DEP141,Emergency Room 1,RM0281,BED01401,Available,EQ0141,Emergency Equipment
+HF015,Emergency,DEP141,Emergency Room 1,RM0281,BED01402,Available,EQ0141,Emergency Equipment
+HF015,Emergency,DEP141,Emergency Room 1,RM0281,BED01403,Available,EQ0141,Emergency Equipment
+HF015,Emergency,DEP141,Emergency Room 1,RM0281,BED01404,Available,EQ0141,Emergency Equipment
+HF015,Emergency,DEP141,Emergency Room 1,RM0281,BED01405,Available,EQ0141,Emergency Equipment
+HF016,Emergency,DEP151,Emergency Room 1,RM0301,BED01501,Available,EQ0151,Emergency Equipment
+HF016,Emergency,DEP151,Emergency Room 1,RM0301,BED01502,Available,EQ0151,Emergency Equipment
+HF016,Emergency,DEP151,Emergency Room 1,RM0301,BED01503,Available,EQ0151,Emergency Equipment
+HF016,Emergency,DEP151,Emergency Room 1,RM0301,BED01504,Available,EQ0151,Emergency Equipment
+HF016,Emergency,DEP151,Emergency Room 1,RM0301,BED01505,Available,EQ0151,Emergency Equipment
+HF017,Emergency,DEP161,Emergency Room 1,RM0321,BED01601,Available,EQ0161,Emergency Equipment
+HF017,Emergency,DEP161,Emergency Room 1,RM0321,BED01602,Available,EQ0161,Emergency Equipment
+HF017,Emergency,DEP161,Emergency Room 1,RM0321,BED01603,Available,EQ0161,Emergency Equipment
+HF017,Emergency,DEP161,Emergency Room 1,RM0321,BED01604,Available,EQ0161,Emergency Equipment
+HF017,Emergency,DEP161,Emergency Room 1,RM0321,BED01605,Available,EQ0161,Emergency Equipment
+HF018,Emergency,DEP171,Emergency Room 1,RM0341,BED01701,Available,EQ0171,Emergency Equipment
+HF018,Emergency,DEP171,Emergency Room 1,RM0341,BED01702,Available,EQ0171,Emergency Equipment
+HF018,Emergency,DEP171,Emergency Room 1,RM0341,BED01703,Available,EQ0171,Emergency Equipment
+HF018,Emergency,DEP171,Emergency Room 1,RM0341,BED01704,Available,EQ0171,Emergency Equipment
+HF018,Emergency,DEP171,Emergency Room 1,RM0341,BED01705,Available,EQ0171,Emergency Equipment
+HF019,Emergency,DEP181,Emergency Room 1,RM0361,BED01801,Available,EQ0181,Emergency Equipment
+HF019,Emergency,DEP181,Emergency Room 1,RM0361,BED01802,Available,EQ0181,Emergency Equipment
+HF019,Emergency,DEP181,Emergency Room 1,RM0361,BED01803,Available,EQ0181,Emergency Equipment
+HF019,Emergency,DEP181,Emergency Room 1,RM0361,BED01804,Available,EQ0181,Emergency Equipment
+HF019,Emergency,DEP181,Emergency Room 1,RM0361,BED01805,Available,EQ0181,Emergency Equipment
+HF020,Emergency,DEP191,Emergency Room 1,RM0381,BED01901,Available,EQ0191,Emergency Equipment
+HF020,Emergency,DEP191,Emergency Room 1,RM0381,BED01902,Available,EQ0191,Emergency Equipment
+HF020,Emergency,DEP191,Emergency Room 1,RM0381,BED01903,Available,EQ0191,Emergency Equipment
+HF020,Emergency,DEP191,Emergency Room 1,RM0381,BED01904,Available,EQ0191,Emergency Equipment
+HF020,Emergency,DEP191,Emergency Room 1,RM0381,BED01905,Available,EQ0191,Emergency Equipment
+HF001,Emergency,DEP001,Emergency Room 2,RM0002,BED00006,Available,EQ0001,Emergency Equipment
+HF001,Emergency,DEP001,Emergency Room 2,RM0002,BED00007,Available,EQ0001,Emergency Equipment
+HF001,Emergency,DEP001,Emergency Room 2,RM0002,BED00008,Available,EQ0001,Emergency Equipment
+HF001,Emergency,DEP001,Emergency Room 2,RM0002,BED00009,Available,EQ0001,Emergency Equipment
+HF001,Emergency,DEP001,Emergency Room 2,RM0002,BED00010,Available,EQ0001,Emergency Equipment
+HF002,Emergency,DEP011,Emergency Room 2,RM0022,BED00106,Available,EQ0011,Emergency Equipment
+HF002,Emergency,DEP011,Emergency Room 2,RM0022,BED00107,Available,EQ0011,Emergency Equipment
+HF002,Emergency,DEP011,Emergency Room 2,RM0022,BED00108,Available,EQ0011,Emergency Equipment
+HF002,Emergency,DEP011,Emergency Room 2,RM0022,BED00109,Available,EQ0011,Emergency Equipment
+HF002,Emergency,DEP011,Emergency Room 2,RM0022,BED00110,Available,EQ0011,Emergency Equipment
+HF003,Emergency,DEP021,Emergency Room 2,RM0042,BED00206,Available,EQ0021,Emergency Equipment
+HF003,Emergency,DEP021,Emergency Room 2,RM0042,BED00207,Available,EQ0021,Emergency Equipment
+HF003,Emergency,DEP021,Emergency Room 2,RM0042,BED00208,Available,EQ0021,Emergency Equipment
+HF003,Emergency,DEP021,Emergency Room 2,RM0042,BED00209,Available,EQ0021,Emergency Equipment
+HF003,Emergency,DEP021,Emergency Room 2,RM0042,BED00210,Available,EQ0021,Emergency Equipment
+HF004,Emergency,DEP031,Emergency Room 2,RM0062,BED00306,Available,EQ0031,Emergency Equipment
+HF004,Emergency,DEP031,Emergency Room 2,RM0062,BED00307,Available,EQ0031,Emergency Equipment
+HF004,Emergency,DEP031,Emergency Room 2,RM0062,BED00308,Available,EQ0031,Emergency Equipment
+HF004,Emergency,DEP031,Emergency Room 2,RM0062,BED00309,Available,EQ0031,Emergency Equipment
+HF004,Emergency,DEP031,Emergency Room 2,RM0062,BED00310,Available,EQ0031,Emergency Equipment
+HF005,Emergency,DEP041,Emergency Room 2,RM0082,BED00406,Available,EQ0041,Emergency Equipment
+HF005,Emergency,DEP041,Emergency Room 2,RM0082,BED00407,Available,EQ0041,Emergency Equipment
+HF005,Emergency,DEP041,Emergency Room 2,RM0082,BED00408,Available,EQ0041,Emergency Equipment
+HF005,Emergency,DEP041,Emergency Room 2,RM0082,BED00409,Available,EQ0041,Emergency Equipment
+HF005,Emergency,DEP041,Emergency Room 2,RM0082,BED00410,Available,EQ0041,Emergency Equipment
+HF006,Emergency,DEP051,Emergency Room 2,RM0102,BED00506,Available,EQ0051,Emergency Equipment
+HF006,Emergency,DEP051,Emergency Room 2,RM0102,BED00507,Available,EQ0051,Emergency Equipment
+HF006,Emergency,DEP051,Emergency Room 2,RM0102,BED00508,Available,EQ0051,Emergency Equipment
+HF006,Emergency,DEP051,Emergency Room 2,RM0102,BED00509,Available,EQ0051,Emergency Equipment
+HF006,Emergency,DEP051,Emergency Room 2,RM0102,BED00510,Available,EQ0051,Emergency Equipment
+HF007,Emergency,DEP061,Emergency Room 2,RM0122,BED00606,Available,EQ0061,Emergency Equipment
+HF007,Emergency,DEP061,Emergency Room 2,RM0122,BED00607,Available,EQ0061,Emergency Equipment
+HF007,Emergency,DEP061,Emergency Room 2,RM0122,BED00608,Available,EQ0061,Emergency Equipment
+HF007,Emergency,DEP061,Emergency Room 2,RM0122,BED00609,Available,EQ0061,Emergency Equipment
+HF007,Emergency,DEP061,Emergency Room 2,RM0122,BED00610,Available,EQ0061,Emergency Equipment
+HF008,Emergency,DEP071,Emergency Room 2,RM0142,BED00706,Available,EQ0071,Emergency Equipment
+HF008,Emergency,DEP071,Emergency Room 2,RM0142,BED00707,Available,EQ0071,Emergency Equipment
+HF008,Emergency,DEP071,Emergency Room 2,RM0142,BED00708,Available,EQ0071,Emergency Equipment
+HF008,Emergency,DEP071,Emergency Room 2,RM0142,BED00709,Available,EQ0071,Emergency Equipment
+HF008,Emergency,DEP071,Emergency Room 2,RM0142,BED00710,Available,EQ0071,Emergency Equipment
+HF009,Emergency,DEP081,Emergency Room 2,RM0162,BED00806,Available,EQ0081,Emergency Equipment
+HF009,Emergency,DEP081,Emergency Room 2,RM0162,BED00807,Available,EQ0081,Emergency Equipment
+HF009,Emergency,DEP081,Emergency Room 2,RM0162,BED00808,Available,EQ0081,Emergency Equipment
+HF009,Emergency,DEP081,Emergency Room 2,RM0162,BED00809,Available,EQ0081,Emergency Equipment
+HF009,Emergency,DEP081,Emergency Room 2,RM0162,BED00810,Available,EQ0081,Emergency Equipment
+HF010,Emergency,DEP091,Emergency Room 2,RM0182,BED00906,Available,EQ0091,Emergency Equipment
+HF010,Emergency,DEP091,Emergency Room 2,RM0182,BED00907,Available,EQ0091,Emergency Equipment
+HF010,Emergency,DEP091,Emergency Room 2,RM0182,BED00908,Available,EQ0091,Emergency Equipment
+HF010,Emergency,DEP091,Emergency Room 2,RM0182,BED00909,Available,EQ0091,Emergency Equipment
+HF010,Emergency,DEP091,Emergency Room 2,RM0182,BED00910,Available,EQ0091,Emergency Equipment
+HF011,Emergency,DEP101,Emergency Room 2,RM0202,BED01006,Available,EQ0101,Emergency Equipment
+HF011,Emergency,DEP101,Emergency Room 2,RM0202,BED01007,Available,EQ0101,Emergency Equipment
+HF011,Emergency,DEP101,Emergency Room 2,RM0202,BED01008,Available,EQ0101,Emergency Equipment
+HF011,Emergency,DEP101,Emergency Room 2,RM0202,BED01009,Available,EQ0101,Emergency Equipment
+HF011,Emergency,DEP101,Emergency Room 2,RM0202,BED01010,Available,EQ0101,Emergency Equipment
+HF012,Emergency,DEP111,Emergency Room 2,RM0222,BED01106,Available,EQ0111,Emergency Equipment
+HF012,Emergency,DEP111,Emergency Room 2,RM0222,BED01107,Available,EQ0111,Emergency Equipment
+HF012,Emergency,DEP111,Emergency Room 2,RM0222,BED01108,Available,EQ0111,Emergency Equipment
+HF012,Emergency,DEP111,Emergency Room 2,RM0222,BED01109,Available,EQ0111,Emergency Equipment
+HF012,Emergency,DEP111,Emergency Room 2,RM0222,BED01110,Available,EQ0111,Emergency Equipment
+HF013,Emergency,DEP121,Emergency Room 2,RM0242,BED01206,Available,EQ0121,Emergency Equipment
+HF013,Emergency,DEP121,Emergency Room 2,RM0242,BED01207,Available,EQ0121,Emergency Equipment
+HF013,Emergency,DEP121,Emergency Room 2,RM0242,BED01208,Available,EQ0121,Emergency Equipment
+HF013,Emergency,DEP121,Emergency Room 2,RM0242,BED01209,Available,EQ0121,Emergency Equipment
+HF013,Emergency,DEP121,Emergency Room 2,RM0242,BED01210,Available,EQ0121,Emergency Equipment
+HF014,Emergency,DEP131,Emergency Room 2,RM0262,BED01306,Available,EQ0131,Emergency Equipment
+HF014,Emergency,DEP131,Emergency Room 2,RM0262,BED01307,Available,EQ0131,Emergency Equipment
+HF014,Emergency,DEP131,Emergency Room 2,RM0262,BED01308,Available,EQ0131,Emergency Equipment
+HF014,Emergency,DEP131,Emergency Room 2,RM0262,BED01309,Available,EQ0131,Emergency Equipment
+HF014,Emergency,DEP131,Emergency Room 2,RM0262,BED01310,Available,EQ0131,Emergency Equipment
+HF015,Emergency,DEP141,Emergency Room 2,RM0282,BED01406,Available,EQ0141,Emergency Equipment
+HF015,Emergency,DEP141,Emergency Room 2,RM0282,BED01407,Available,EQ0141,Emergency Equipment
+HF015,Emergency,DEP141,Emergency Room 2,RM0282,BED01408,Available,EQ0141,Emergency Equipment
+HF015,Emergency,DEP141,Emergency Room 2,RM0282,BED01409,Available,EQ0141,Emergency Equipment
+HF015,Emergency,DEP141,Emergency Room 2,RM0282,BED01410,Available,EQ0141,Emergency Equipment
+HF016,Emergency,DEP151,Emergency Room 2,RM0302,BED01506,Available,EQ0151,Emergency Equipment
+HF016,Emergency,DEP151,Emergency Room 2,RM0302,BED01507,Available,EQ0151,Emergency Equipment
+HF016,Emergency,DEP151,Emergency Room 2,RM0302,BED01508,Available,EQ0151,Emergency Equipment
+HF016,Emergency,DEP151,Emergency Room 2,RM0302,BED01509,Available,EQ0151,Emergency Equipment
+HF016,Emergency,DEP151,Emergency Room 2,RM0302,BED01510,Available,EQ0151,Emergency Equipment
+HF017,Emergency,DEP161,Emergency Room 2,RM0322,BED01606,Available,EQ0161,Emergency Equipment
+HF017,Emergency,DEP161,Emergency Room 2,RM0322,BED01607,Available,EQ0161,Emergency Equipment
+HF017,Emergency,DEP161,Emergency Room 2,RM0322,BED01608,Available,EQ0161,Emergency Equipment
+HF017,Emergency,DEP161,Emergency Room 2,RM0322,BED01609,Available,EQ0161,Emergency Equipment
+HF017,Emergency,DEP161,Emergency Room 2,RM0322,BED01610,Available,EQ0161,Emergency Equipment
+HF018,Emergency,DEP171,Emergency Room 2,RM0342,BED01706,Available,EQ0171,Emergency Equipment
+HF018,Emergency,DEP171,Emergency Room 2,RM0342,BED01707,Available,EQ0171,Emergency Equipment
+HF018,Emergency,DEP171,Emergency Room 2,RM0342,BED01708,Available,EQ0171,Emergency Equipment
+HF018,Emergency,DEP171,Emergency Room 2,RM0342,BED01709,Available,EQ0171,Emergency Equipment
+HF018,Emergency,DEP171,Emergency Room 2,RM0342,BED01710,Available,EQ0171,Emergency Equipment
+HF019,Emergency,DEP181,Emergency Room 2,RM0362,BED01806,Available,EQ0181,Emergency Equipment
+HF019,Emergency,DEP181,Emergency Room 2,RM0362,BED01807,Available,EQ0181,Emergency Equipment
+HF019,Emergency,DEP181,Emergency Room 2,RM0362,BED01808,Available,EQ0181,Emergency Equipment
+HF019,Emergency,DEP181,Emergency Room 2,RM0362,BED01809,Available,EQ0181,Emergency Equipment
+HF019,Emergency,DEP181,Emergency Room 2,RM0362,BED01810,Available,EQ0181,Emergency Equipment
+HF020,Emergency,DEP191,Emergency Room 2,RM0382,BED01906,Available,EQ0191,Emergency Equipment
+HF020,Emergency,DEP191,Emergency Room 2,RM0382,BED01907,Available,EQ0191,Emergency Equipment
+HF020,Emergency,DEP191,Emergency Room 2,RM0382,BED01908,Available,EQ0191,Emergency Equipment
+HF020,Emergency,DEP191,Emergency Room 2,RM0382,BED01909,Available,EQ0191,Emergency Equipment
+HF020,Emergency,DEP191,Emergency Room 2,RM0382,BED01910,Available,EQ0191,Emergency Equipment
+HF001,Internal Medicine,DEP002,Internal Medicine Room 2,RM0004,BED00016,Available,EQ0002,Internal Medicine Equipment
+HF001,Internal Medicine,DEP002,Internal Medicine Room 2,RM0004,BED00017,Available,EQ0002,Internal Medicine Equipment
+HF001,Internal Medicine,DEP002,Internal Medicine Room 2,RM0004,BED00018,Available,EQ0002,Internal Medicine Equipment
+HF001,Internal Medicine,DEP002,Internal Medicine Room 2,RM0004,BED00019,Available,EQ0002,Internal Medicine Equipment
+HF001,Internal Medicine,DEP002,Internal Medicine Room 2,RM0004,BED00020,Available,EQ0002,Internal Medicine Equipment
+HF002,Internal Medicine,DEP012,Internal Medicine Room 2,RM0024,BED00116,Available,EQ0012,Internal Medicine Equipment
+HF002,Internal Medicine,DEP012,Internal Medicine Room 2,RM0024,BED00117,Available,EQ0012,Internal Medicine Equipment
+HF002,Internal Medicine,DEP012,Internal Medicine Room 2,RM0024,BED00118,Available,EQ0012,Internal Medicine Equipment
+HF002,Internal Medicine,DEP012,Internal Medicine Room 2,RM0024,BED00119,Available,EQ0012,Internal Medicine Equipment
+HF002,Internal Medicine,DEP012,Internal Medicine Room 2,RM0024,BED00120,Available,EQ0012,Internal Medicine Equipment
+HF003,Internal Medicine,DEP022,Internal Medicine Room 2,RM0044,BED00216,Available,EQ0022,Internal Medicine Equipment
+HF003,Internal Medicine,DEP022,Internal Medicine Room 2,RM0044,BED00217,Available,EQ0022,Internal Medicine Equipment
+HF003,Internal Medicine,DEP022,Internal Medicine Room 2,RM0044,BED00218,Available,EQ0022,Internal Medicine Equipment
+HF003,Internal Medicine,DEP022,Internal Medicine Room 2,RM0044,BED00219,Available,EQ0022,Internal Medicine Equipment
+HF003,Internal Medicine,DEP022,Internal Medicine Room 2,RM0044,BED00220,Available,EQ0022,Internal Medicine Equipment
+HF004,Internal Medicine,DEP032,Internal Medicine Room 2,RM0064,BED00316,Available,EQ0032,Internal Medicine Equipment
+HF004,Internal Medicine,DEP032,Internal Medicine Room 2,RM0064,BED00317,Available,EQ0032,Internal Medicine Equipment
+HF004,Internal Medicine,DEP032,Internal Medicine Room 2,RM0064,BED00318,Available,EQ0032,Internal Medicine Equipment
+HF004,Internal Medicine,DEP032,Internal Medicine Room 2,RM0064,BED00319,Available,EQ0032,Internal Medicine Equipment
+HF004,Internal Medicine,DEP032,Internal Medicine Room 2,RM0064,BED00320,Available,EQ0032,Internal Medicine Equipment
+HF005,Internal Medicine,DEP042,Internal Medicine Room 2,RM0084,BED00416,Available,EQ0042,Internal Medicine Equipment
+HF005,Internal Medicine,DEP042,Internal Medicine Room 2,RM0084,BED00417,Available,EQ0042,Internal Medicine Equipment
+HF005,Internal Medicine,DEP042,Internal Medicine Room 2,RM0084,BED00418,Available,EQ0042,Internal Medicine Equipment
+HF005,Internal Medicine,DEP042,Internal Medicine Room 2,RM0084,BED00419,Available,EQ0042,Internal Medicine Equipment
+HF005,Internal Medicine,DEP042,Internal Medicine Room 2,RM0084,BED00420,Available,EQ0042,Internal Medicine Equipment
+HF006,Internal Medicine,DEP052,Internal Medicine Room 2,RM0104,BED00516,Available,EQ0052,Internal Medicine Equipment
+HF006,Internal Medicine,DEP052,Internal Medicine Room 2,RM0104,BED00517,Available,EQ0052,Internal Medicine Equipment
+HF006,Internal Medicine,DEP052,Internal Medicine Room 2,RM0104,BED00518,Available,EQ0052,Internal Medicine Equipment
+HF006,Internal Medicine,DEP052,Internal Medicine Room 2,RM0104,BED00519,Available,EQ0052,Internal Medicine Equipment
+HF006,Internal Medicine,DEP052,Internal Medicine Room 2,RM0104,BED00520,Available,EQ0052,Internal Medicine Equipment
+HF007,Internal Medicine,DEP062,Internal Medicine Room 2,RM0124,BED00616,Available,EQ0062,Internal Medicine Equipment
+HF007,Internal Medicine,DEP062,Internal Medicine Room 2,RM0124,BED00617,Available,EQ0062,Internal Medicine Equipment
+HF007,Internal Medicine,DEP062,Internal Medicine Room 2,RM0124,BED00618,Available,EQ0062,Internal Medicine Equipment
+HF007,Internal Medicine,DEP062,Internal Medicine Room 2,RM0124,BED00619,Available,EQ0062,Internal Medicine Equipment
+HF007,Internal Medicine,DEP062,Internal Medicine Room 2,RM0124,BED00620,Available,EQ0062,Internal Medicine Equipment
+HF008,Internal Medicine,DEP072,Internal Medicine Room 2,RM0144,BED00716,Available,EQ0072,Internal Medicine Equipment
+HF008,Internal Medicine,DEP072,Internal Medicine Room 2,RM0144,BED00717,Available,EQ0072,Internal Medicine Equipment
+HF008,Internal Medicine,DEP072,Internal Medicine Room 2,RM0144,BED00718,Available,EQ0072,Internal Medicine Equipment
+HF008,Internal Medicine,DEP072,Internal Medicine Room 2,RM0144,BED00719,Available,EQ0072,Internal Medicine Equipment
+HF008,Internal Medicine,DEP072,Internal Medicine Room 2,RM0144,BED00720,Available,EQ0072,Internal Medicine Equipment
+HF009,Internal Medicine,DEP082,Internal Medicine Room 2,RM0164,BED00816,Available,EQ0082,Internal Medicine Equipment
+HF009,Internal Medicine,DEP082,Internal Medicine Room 2,RM0164,BED00817,Available,EQ0082,Internal Medicine Equipment
+HF009,Internal Medicine,DEP082,Internal Medicine Room 2,RM0164,BED00818,Available,EQ0082,Internal Medicine Equipment
+HF009,Internal Medicine,DEP082,Internal Medicine Room 2,RM0164,BED00819,Available,EQ0082,Internal Medicine Equipment
+HF009,Internal Medicine,DEP082,Internal Medicine Room 2,RM0164,BED00820,Available,EQ0082,Internal Medicine Equipment
+HF010,Internal Medicine,DEP092,Internal Medicine Room 2,RM0184,BED00916,Available,EQ0092,Internal Medicine Equipment
+HF010,Internal Medicine,DEP092,Internal Medicine Room 2,RM0184,BED00917,Available,EQ0092,Internal Medicine Equipment
+HF010,Internal Medicine,DEP092,Internal Medicine Room 2,RM0184,BED00918,Available,EQ0092,Internal Medicine Equipment
+HF010,Internal Medicine,DEP092,Internal Medicine Room 2,RM0184,BED00919,Available,EQ0092,Internal Medicine Equipment
+HF010,Internal Medicine,DEP092,Internal Medicine Room 2,RM0184,BED00920,Available,EQ0092,Internal Medicine Equipment
+HF011,Internal Medicine,DEP102,Internal Medicine Room 2,RM0204,BED01016,Available,EQ0102,Internal Medicine Equipment
+HF011,Internal Medicine,DEP102,Internal Medicine Room 2,RM0204,BED01017,Available,EQ0102,Internal Medicine Equipment
+HF011,Internal Medicine,DEP102,Internal Medicine Room 2,RM0204,BED01018,Available,EQ0102,Internal Medicine Equipment
+HF011,Internal Medicine,DEP102,Internal Medicine Room 2,RM0204,BED01019,Available,EQ0102,Internal Medicine Equipment
+HF011,Internal Medicine,DEP102,Internal Medicine Room 2,RM0204,BED01020,Available,EQ0102,Internal Medicine Equipment
+HF012,Internal Medicine,DEP112,Internal Medicine Room 2,RM0224,BED01116,Available,EQ0112,Internal Medicine Equipment
+HF012,Internal Medicine,DEP112,Internal Medicine Room 2,RM0224,BED01117,Available,EQ0112,Internal Medicine Equipment
+HF012,Internal Medicine,DEP112,Internal Medicine Room 2,RM0224,BED01118,Available,EQ0112,Internal Medicine Equipment
+HF012,Internal Medicine,DEP112,Internal Medicine Room 2,RM0224,BED01119,Available,EQ0112,Internal Medicine Equipment
+HF012,Internal Medicine,DEP112,Internal Medicine Room 2,RM0224,BED01120,Available,EQ0112,Internal Medicine Equipment
+HF013,Internal Medicine,DEP122,Internal Medicine Room 2,RM0244,BED01216,Available,EQ0122,Internal Medicine Equipment
+HF013,Internal Medicine,DEP122,Internal Medicine Room 2,RM0244,BED01217,Available,EQ0122,Internal Medicine Equipment
+HF013,Internal Medicine,DEP122,Internal Medicine Room 2,RM0244,BED01218,Available,EQ0122,Internal Medicine Equipment
+HF013,Internal Medicine,DEP122,Internal Medicine Room 2,RM0244,BED01219,Available,EQ0122,Internal Medicine Equipment
+HF013,Internal Medicine,DEP122,Internal Medicine Room 2,RM0244,BED01220,Available,EQ0122,Internal Medicine Equipment
+HF014,Internal Medicine,DEP132,Internal Medicine Room 2,RM0264,BED01316,Available,EQ0132,Internal Medicine Equipment
+HF014,Internal Medicine,DEP132,Internal Medicine Room 2,RM0264,BED01317,Available,EQ0132,Internal Medicine Equipment
+HF014,Internal Medicine,DEP132,Internal Medicine Room 2,RM0264,BED01318,Available,EQ0132,Internal Medicine Equipment
+HF014,Internal Medicine,DEP132,Internal Medicine Room 2,RM0264,BED01319,Available,EQ0132,Internal Medicine Equipment
+HF014,Internal Medicine,DEP132,Internal Medicine Room 2,RM0264,BED01320,Available,EQ0132,Internal Medicine Equipment
+HF015,Internal Medicine,DEP142,Internal Medicine Room 2,RM0284,BED01416,Available,EQ0142,Internal Medicine Equipment
+HF015,Internal Medicine,DEP142,Internal Medicine Room 2,RM0284,BED01417,Available,EQ0142,Internal Medicine Equipment
+HF015,Internal Medicine,DEP142,Internal Medicine Room 2,RM0284,BED01418,Available,EQ0142,Internal Medicine Equipment
+HF015,Internal Medicine,DEP142,Internal Medicine Room 2,RM0284,BED01419,Available,EQ0142,Internal Medicine Equipment
+HF015,Internal Medicine,DEP142,Internal Medicine Room 2,RM0284,BED01420,Available,EQ0142,Internal Medicine Equipment
+HF016,Internal Medicine,DEP152,Internal Medicine Room 2,RM0304,BED01516,Available,EQ0152,Internal Medicine Equipment
+HF016,Internal Medicine,DEP152,Internal Medicine Room 2,RM0304,BED01517,Available,EQ0152,Internal Medicine Equipment
+HF016,Internal Medicine,DEP152,Internal Medicine Room 2,RM0304,BED01518,Available,EQ0152,Internal Medicine Equipment
+HF016,Internal Medicine,DEP152,Internal Medicine Room 2,RM0304,BED01519,Available,EQ0152,Internal Medicine Equipment
+HF016,Internal Medicine,DEP152,Internal Medicine Room 2,RM0304,BED01520,Available,EQ0152,Internal Medicine Equipment
+HF017,Internal Medicine,DEP162,Internal Medicine Room 2,RM0324,BED01616,Available,EQ0162,Internal Medicine Equipment
+HF017,Internal Medicine,DEP162,Internal Medicine Room 2,RM0324,BED01617,Available,EQ0162,Internal Medicine Equipment
+HF017,Internal Medicine,DEP162,Internal Medicine Room 2,RM0324,BED01618,Available,EQ0162,Internal Medicine Equipment
+HF017,Internal Medicine,DEP162,Internal Medicine Room 2,RM0324,BED01619,Available,EQ0162,Internal Medicine Equipment
+HF017,Internal Medicine,DEP162,Internal Medicine Room 2,RM0324,BED01620,Available,EQ0162,Internal Medicine Equipment
+HF018,Internal Medicine,DEP172,Internal Medicine Room 2,RM0344,BED01716,Available,EQ0172,Internal Medicine Equipment
+HF018,Internal Medicine,DEP172,Internal Medicine Room 2,RM0344,BED01717,Available,EQ0172,Internal Medicine Equipment
+HF018,Internal Medicine,DEP172,Internal Medicine Room 2,RM0344,BED01718,Available,EQ0172,Internal Medicine Equipment
+HF018,Internal Medicine,DEP172,Internal Medicine Room 2,RM0344,BED01719,Available,EQ0172,Internal Medicine Equipment
+HF018,Internal Medicine,DEP172,Internal Medicine Room 2,RM0344,BED01720,Available,EQ0172,Internal Medicine Equipment
+HF019,Internal Medicine,DEP182,Internal Medicine Room 2,RM0364,BED01816,Available,EQ0182,Internal Medicine Equipment
+HF019,Internal Medicine,DEP182,Internal Medicine Room 2,RM0364,BED01817,Available,EQ0182,Internal Medicine Equipment
+HF019,Internal Medicine,DEP182,Internal Medicine Room 2,RM0364,BED01818,Available,EQ0182,Internal Medicine Equipment
+HF019,Internal Medicine,DEP182,Internal Medicine Room 2,RM0364,BED01819,Available,EQ0182,Internal Medicine Equipment
+HF019,Internal Medicine,DEP182,Internal Medicine Room 2,RM0364,BED01820,Available,EQ0182,Internal Medicine Equipment
+HF020,Internal Medicine,DEP192,Internal Medicine Room 2,RM0384,BED01916,Available,EQ0192,Internal Medicine Equipment
+HF020,Internal Medicine,DEP192,Internal Medicine Room 2,RM0384,BED01917,Available,EQ0192,Internal Medicine Equipment
+HF020,Internal Medicine,DEP192,Internal Medicine Room 2,RM0384,BED01918,Available,EQ0192,Internal Medicine Equipment
+HF020,Internal Medicine,DEP192,Internal Medicine Room 2,RM0384,BED01919,Available,EQ0192,Internal Medicine Equipment
+HF020,Internal Medicine,DEP192,Internal Medicine Room 2,RM0384,BED01920,Available,EQ0192,Internal Medicine Equipment
+HF001,Internal Medicine,DEP002,Internal Medicine Room 1,RM0003,BED00011,Available,EQ0002,Internal Medicine Equipment
+HF001,Internal Medicine,DEP002,Internal Medicine Room 1,RM0003,BED00012,Available,EQ0002,Internal Medicine Equipment
+HF001,Internal Medicine,DEP002,Internal Medicine Room 1,RM0003,BED00013,Available,EQ0002,Internal Medicine Equipment
+HF001,Internal Medicine,DEP002,Internal Medicine Room 1,RM0003,BED00014,Available,EQ0002,Internal Medicine Equipment
+HF001,Internal Medicine,DEP002,Internal Medicine Room 1,RM0003,BED00015,Available,EQ0002,Internal Medicine Equipment
+HF002,Internal Medicine,DEP012,Internal Medicine Room 1,RM0023,BED00111,Available,EQ0012,Internal Medicine Equipment
+HF002,Internal Medicine,DEP012,Internal Medicine Room 1,RM0023,BED00112,Available,EQ0012,Internal Medicine Equipment
+HF002,Internal Medicine,DEP012,Internal Medicine Room 1,RM0023,BED00113,Available,EQ0012,Internal Medicine Equipment
+HF002,Internal Medicine,DEP012,Internal Medicine Room 1,RM0023,BED00114,Available,EQ0012,Internal Medicine Equipment
+HF002,Internal Medicine,DEP012,Internal Medicine Room 1,RM0023,BED00115,Available,EQ0012,Internal Medicine Equipment
+HF003,Internal Medicine,DEP022,Internal Medicine Room 1,RM0043,BED00211,Available,EQ0022,Internal Medicine Equipment
+HF003,Internal Medicine,DEP022,Internal Medicine Room 1,RM0043,BED00212,Available,EQ0022,Internal Medicine Equipment
+HF003,Internal Medicine,DEP022,Internal Medicine Room 1,RM0043,BED00213,Available,EQ0022,Internal Medicine Equipment
+HF003,Internal Medicine,DEP022,Internal Medicine Room 1,RM0043,BED00214,Available,EQ0022,Internal Medicine Equipment
+HF003,Internal Medicine,DEP022,Internal Medicine Room 1,RM0043,BED00215,Available,EQ0022,Internal Medicine Equipment
+HF004,Internal Medicine,DEP032,Internal Medicine Room 1,RM0063,BED00311,Available,EQ0032,Internal Medicine Equipment
+HF004,Internal Medicine,DEP032,Internal Medicine Room 1,RM0063,BED00312,Available,EQ0032,Internal Medicine Equipment
+HF004,Internal Medicine,DEP032,Internal Medicine Room 1,RM0063,BED00313,Available,EQ0032,Internal Medicine Equipment
+HF004,Internal Medicine,DEP032,Internal Medicine Room 1,RM0063,BED00314,Available,EQ0032,Internal Medicine Equipment
+HF004,Internal Medicine,DEP032,Internal Medicine Room 1,RM0063,BED00315,Available,EQ0032,Internal Medicine Equipment
+HF005,Internal Medicine,DEP042,Internal Medicine Room 1,RM0083,BED00411,Available,EQ0042,Internal Medicine Equipment
+HF005,Internal Medicine,DEP042,Internal Medicine Room 1,RM0083,BED00412,Available,EQ0042,Internal Medicine Equipment
+HF005,Internal Medicine,DEP042,Internal Medicine Room 1,RM0083,BED00413,Available,EQ0042,Internal Medicine Equipment
+HF005,Internal Medicine,DEP042,Internal Medicine Room 1,RM0083,BED00414,Available,EQ0042,Internal Medicine Equipment
+HF005,Internal Medicine,DEP042,Internal Medicine Room 1,RM0083,BED00415,Available,EQ0042,Internal Medicine Equipment
+HF006,Internal Medicine,DEP052,Internal Medicine Room 1,RM0103,BED00511,Available,EQ0052,Internal Medicine Equipment
+HF006,Internal Medicine,DEP052,Internal Medicine Room 1,RM0103,BED00512,Available,EQ0052,Internal Medicine Equipment
+HF006,Internal Medicine,DEP052,Internal Medicine Room 1,RM0103,BED00513,Available,EQ0052,Internal Medicine Equipment
+HF006,Internal Medicine,DEP052,Internal Medicine Room 1,RM0103,BED00514,Available,EQ0052,Internal Medicine Equipment
+HF006,Internal Medicine,DEP052,Internal Medicine Room 1,RM0103,BED00515,Available,EQ0052,Internal Medicine Equipment
+HF007,Internal Medicine,DEP062,Internal Medicine Room 1,RM0123,BED00611,Available,EQ0062,Internal Medicine Equipment
+HF007,Internal Medicine,DEP062,Internal Medicine Room 1,RM0123,BED00612,Available,EQ0062,Internal Medicine Equipment
+HF007,Internal Medicine,DEP062,Internal Medicine Room 1,RM0123,BED00613,Available,EQ0062,Internal Medicine Equipment
+HF007,Internal Medicine,DEP062,Internal Medicine Room 1,RM0123,BED00614,Available,EQ0062,Internal Medicine Equipment
+HF007,Internal Medicine,DEP062,Internal Medicine Room 1,RM0123,BED00615,Available,EQ0062,Internal Medicine Equipment
+HF008,Internal Medicine,DEP072,Internal Medicine Room 1,RM0143,BED00711,Available,EQ0072,Internal Medicine Equipment
+HF008,Internal Medicine,DEP072,Internal Medicine Room 1,RM0143,BED00712,Available,EQ0072,Internal Medicine Equipment
+HF008,Internal Medicine,DEP072,Internal Medicine Room 1,RM0143,BED00713,Available,EQ0072,Internal Medicine Equipment
+HF008,Internal Medicine,DEP072,Internal Medicine Room 1,RM0143,BED00714,Available,EQ0072,Internal Medicine Equipment
+HF008,Internal Medicine,DEP072,Internal Medicine Room 1,RM0143,BED00715,Available,EQ0072,Internal Medicine Equipment
+HF009,Internal Medicine,DEP082,Internal Medicine Room 1,RM0163,BED00811,Available,EQ0082,Internal Medicine Equipment
+HF009,Internal Medicine,DEP082,Internal Medicine Room 1,RM0163,BED00812,Available,EQ0082,Internal Medicine Equipment
+HF009,Internal Medicine,DEP082,Internal Medicine Room 1,RM0163,BED00813,Available,EQ0082,Internal Medicine Equipment
+HF009,Internal Medicine,DEP082,Internal Medicine Room 1,RM0163,BED00814,Available,EQ0082,Internal Medicine Equipment
+HF009,Internal Medicine,DEP082,Internal Medicine Room 1,RM0163,BED00815,Available,EQ0082,Internal Medicine Equipment
+HF010,Internal Medicine,DEP092,Internal Medicine Room 1,RM0183,BED00911,Available,EQ0092,Internal Medicine Equipment
+HF010,Internal Medicine,DEP092,Internal Medicine Room 1,RM0183,BED00912,Available,EQ0092,Internal Medicine Equipment
+HF010,Internal Medicine,DEP092,Internal Medicine Room 1,RM0183,BED00913,Available,EQ0092,Internal Medicine Equipment
+HF010,Internal Medicine,DEP092,Internal Medicine Room 1,RM0183,BED00914,Available,EQ0092,Internal Medicine Equipment
+HF010,Internal Medicine,DEP092,Internal Medicine Room 1,RM0183,BED00915,Available,EQ0092,Internal Medicine Equipment
+HF011,Internal Medicine,DEP102,Internal Medicine Room 1,RM0203,BED01011,Available,EQ0102,Internal Medicine Equipment
+HF011,Internal Medicine,DEP102,Internal Medicine Room 1,RM0203,BED01012,Available,EQ0102,Internal Medicine Equipment
+HF011,Internal Medicine,DEP102,Internal Medicine Room 1,RM0203,BED01013,Available,EQ0102,Internal Medicine Equipment
+HF011,Internal Medicine,DEP102,Internal Medicine Room 1,RM0203,BED01014,Available,EQ0102,Internal Medicine Equipment
+HF011,Internal Medicine,DEP102,Internal Medicine Room 1,RM0203,BED01015,Available,EQ0102,Internal Medicine Equipment
+HF012,Internal Medicine,DEP112,Internal Medicine Room 1,RM0223,BED01111,Available,EQ0112,Internal Medicine Equipment
+HF012,Internal Medicine,DEP112,Internal Medicine Room 1,RM0223,BED01112,Available,EQ0112,Internal Medicine Equipment
+HF012,Internal Medicine,DEP112,Internal Medicine Room 1,RM0223,BED01113,Available,EQ0112,Internal Medicine Equipment
+HF012,Internal Medicine,DEP112,Internal Medicine Room 1,RM0223,BED01114,Available,EQ0112,Internal Medicine Equipment
+HF012,Internal Medicine,DEP112,Internal Medicine Room 1,RM0223,BED01115,Available,EQ0112,Internal Medicine Equipment
+HF013,Internal Medicine,DEP122,Internal Medicine Room 1,RM0243,BED01211,Available,EQ0122,Internal Medicine Equipment
+HF013,Internal Medicine,DEP122,Internal Medicine Room 1,RM0243,BED01212,Available,EQ0122,Internal Medicine Equipment
+HF013,Internal Medicine,DEP122,Internal Medicine Room 1,RM0243,BED01213,Available,EQ0122,Internal Medicine Equipment
+HF013,Internal Medicine,DEP122,Internal Medicine Room 1,RM0243,BED01214,Available,EQ0122,Internal Medicine Equipment
+HF013,Internal Medicine,DEP122,Internal Medicine Room 1,RM0243,BED01215,Available,EQ0122,Internal Medicine Equipment
+HF014,Internal Medicine,DEP132,Internal Medicine Room 1,RM0263,BED01311,Available,EQ0132,Internal Medicine Equipment
+HF014,Internal Medicine,DEP132,Internal Medicine Room 1,RM0263,BED01312,Available,EQ0132,Internal Medicine Equipment
+HF014,Internal Medicine,DEP132,Internal Medicine Room 1,RM0263,BED01313,Available,EQ0132,Internal Medicine Equipment
+HF014,Internal Medicine,DEP132,Internal Medicine Room 1,RM0263,BED01314,Available,EQ0132,Internal Medicine Equipment
+HF014,Internal Medicine,DEP132,Internal Medicine Room 1,RM0263,BED01315,Available,EQ0132,Internal Medicine Equipment
+HF015,Internal Medicine,DEP142,Internal Medicine Room 1,RM0283,BED01411,Available,EQ0142,Internal Medicine Equipment
+HF015,Internal Medicine,DEP142,Internal Medicine Room 1,RM0283,BED01412,Available,EQ0142,Internal Medicine Equipment
+HF015,Internal Medicine,DEP142,Internal Medicine Room 1,RM0283,BED01413,Available,EQ0142,Internal Medicine Equipment
+HF015,Internal Medicine,DEP142,Internal Medicine Room 1,RM0283,BED01414,Available,EQ0142,Internal Medicine Equipment
+HF015,Internal Medicine,DEP142,Internal Medicine Room 1,RM0283,BED01415,Available,EQ0142,Internal Medicine Equipment
+HF016,Internal Medicine,DEP152,Internal Medicine Room 1,RM0303,BED01511,Available,EQ0152,Internal Medicine Equipment
+HF016,Internal Medicine,DEP152,Internal Medicine Room 1,RM0303,BED01512,Available,EQ0152,Internal Medicine Equipment
+HF016,Internal Medicine,DEP152,Internal Medicine Room 1,RM0303,BED01513,Available,EQ0152,Internal Medicine Equipment
+HF016,Internal Medicine,DEP152,Internal Medicine Room 1,RM0303,BED01514,Available,EQ0152,Internal Medicine Equipment
+HF016,Internal Medicine,DEP152,Internal Medicine Room 1,RM0303,BED01515,Available,EQ0152,Internal Medicine Equipment
+HF017,Internal Medicine,DEP162,Internal Medicine Room 1,RM0323,BED01611,Available,EQ0162,Internal Medicine Equipment
+HF017,Internal Medicine,DEP162,Internal Medicine Room 1,RM0323,BED01612,Available,EQ0162,Internal Medicine Equipment
+HF017,Internal Medicine,DEP162,Internal Medicine Room 1,RM0323,BED01613,Available,EQ0162,Internal Medicine Equipment
+HF017,Internal Medicine,DEP162,Internal Medicine Room 1,RM0323,BED01614,Available,EQ0162,Internal Medicine Equipment
+HF017,Internal Medicine,DEP162,Internal Medicine Room 1,RM0323,BED01615,Available,EQ0162,Internal Medicine Equipment
+HF018,Internal Medicine,DEP172,Internal Medicine Room 1,RM0343,BED01711,Available,EQ0172,Internal Medicine Equipment
+HF018,Internal Medicine,DEP172,Internal Medicine Room 1,RM0343,BED01712,Available,EQ0172,Internal Medicine Equipment
+HF018,Internal Medicine,DEP172,Internal Medicine Room 1,RM0343,BED01713,Available,EQ0172,Internal Medicine Equipment
+HF018,Internal Medicine,DEP172,Internal Medicine Room 1,RM0343,BED01714,Available,EQ0172,Internal Medicine Equipment
+HF018,Internal Medicine,DEP172,Internal Medicine Room 1,RM0343,BED01715,Available,EQ0172,Internal Medicine Equipment
+HF019,Internal Medicine,DEP182,Internal Medicine Room 1,RM0363,BED01811,Available,EQ0182,Internal Medicine Equipment
+HF019,Internal Medicine,DEP182,Internal Medicine Room 1,RM0363,BED01812,Available,EQ0182,Internal Medicine Equipment
+HF019,Internal Medicine,DEP182,Internal Medicine Room 1,RM0363,BED01813,Available,EQ0182,Internal Medicine Equipment
+HF019,Internal Medicine,DEP182,Internal Medicine Room 1,RM0363,BED01814,Available,EQ0182,Internal Medicine Equipment
+HF019,Internal Medicine,DEP182,Internal Medicine Room 1,RM0363,BED01815,Available,EQ0182,Internal Medicine Equipment
+HF020,Internal Medicine,DEP192,Internal Medicine Room 1,RM0383,BED01911,Available,EQ0192,Internal Medicine Equipment
+HF020,Internal Medicine,DEP192,Internal Medicine Room 1,RM0383,BED01912,Available,EQ0192,Internal Medicine Equipment
+HF020,Internal Medicine,DEP192,Internal Medicine Room 1,RM0383,BED01913,Available,EQ0192,Internal Medicine Equipment
+HF020,Internal Medicine,DEP192,Internal Medicine Room 1,RM0383,BED01914,Available,EQ0192,Internal Medicine Equipment
+HF020,Internal Medicine,DEP192,Internal Medicine Room 1,RM0383,BED01915,Available,EQ0192,Internal Medicine Equipment
+HF001,Surgery,DEP003,Surgery Room 1,RM0005,BED00021,Available,EQ0003,Surgery Equipment
+HF001,Surgery,DEP003,Surgery Room 1,RM0005,BED00022,Available,EQ0003,Surgery Equipment
+HF001,Surgery,DEP003,Surgery Room 1,RM0005,BED00023,Available,EQ0003,Surgery Equipment
+HF001,Surgery,DEP003,Surgery Room 1,RM0005,BED00024,Available,EQ0003,Surgery Equipment
+HF001,Surgery,DEP003,Surgery Room 1,RM0005,BED00025,Available,EQ0003,Surgery Equipment
+HF002,Surgery,DEP013,Surgery Room 1,RM0025,BED00121,Available,EQ0013,Surgery Equipment
+HF002,Surgery,DEP013,Surgery Room 1,RM0025,BED00122,Available,EQ0013,Surgery Equipment
+HF002,Surgery,DEP013,Surgery Room 1,RM0025,BED00123,Available,EQ0013,Surgery Equipment
+HF002,Surgery,DEP013,Surgery Room 1,RM0025,BED00124,Available,EQ0013,Surgery Equipment
+HF002,Surgery,DEP013,Surgery Room 1,RM0025,BED00125,Available,EQ0013,Surgery Equipment
+HF003,Surgery,DEP023,Surgery Room 1,RM0045,BED00221,Available,EQ0023,Surgery Equipment
+HF003,Surgery,DEP023,Surgery Room 1,RM0045,BED00222,Available,EQ0023,Surgery Equipment
+HF003,Surgery,DEP023,Surgery Room 1,RM0045,BED00223,Available,EQ0023,Surgery Equipment
+HF003,Surgery,DEP023,Surgery Room 1,RM0045,BED00224,Available,EQ0023,Surgery Equipment
+HF003,Surgery,DEP023,Surgery Room 1,RM0045,BED00225,Available,EQ0023,Surgery Equipment
+HF004,Surgery,DEP033,Surgery Room 1,RM0065,BED00321,Available,EQ0033,Surgery Equipment
+HF004,Surgery,DEP033,Surgery Room 1,RM0065,BED00322,Available,EQ0033,Surgery Equipment
+HF004,Surgery,DEP033,Surgery Room 1,RM0065,BED00323,Available,EQ0033,Surgery Equipment
+HF004,Surgery,DEP033,Surgery Room 1,RM0065,BED00324,Available,EQ0033,Surgery Equipment
+HF004,Surgery,DEP033,Surgery Room 1,RM0065,BED00325,Available,EQ0033,Surgery Equipment
+HF005,Surgery,DEP043,Surgery Room 1,RM0085,BED00421,Available,EQ0043,Surgery Equipment
+HF005,Surgery,DEP043,Surgery Room 1,RM0085,BED00422,Available,EQ0043,Surgery Equipment
+HF005,Surgery,DEP043,Surgery Room 1,RM0085,BED00423,Available,EQ0043,Surgery Equipment
+HF005,Surgery,DEP043,Surgery Room 1,RM0085,BED00424,Available,EQ0043,Surgery Equipment
+HF005,Surgery,DEP043,Surgery Room 1,RM0085,BED00425,Available,EQ0043,Surgery Equipment
+HF006,Surgery,DEP053,Surgery Room 1,RM0105,BED00521,Available,EQ0053,Surgery Equipment
+HF006,Surgery,DEP053,Surgery Room 1,RM0105,BED00522,Available,EQ0053,Surgery Equipment
+HF006,Surgery,DEP053,Surgery Room 1,RM0105,BED00523,Available,EQ0053,Surgery Equipment
+HF006,Surgery,DEP053,Surgery Room 1,RM0105,BED00524,Available,EQ0053,Surgery Equipment
+HF006,Surgery,DEP053,Surgery Room 1,RM0105,BED00525,Available,EQ0053,Surgery Equipment
+HF007,Surgery,DEP063,Surgery Room 1,RM0125,BED00621,Available,EQ0063,Surgery Equipment
+HF007,Surgery,DEP063,Surgery Room 1,RM0125,BED00622,Available,EQ0063,Surgery Equipment
+HF007,Surgery,DEP063,Surgery Room 1,RM0125,BED00623,Available,EQ0063,Surgery Equipment
+HF007,Surgery,DEP063,Surgery Room 1,RM0125,BED00624,Available,EQ0063,Surgery Equipment
+HF007,Surgery,DEP063,Surgery Room 1,RM0125,BED00625,Available,EQ0063,Surgery Equipment
+HF008,Surgery,DEP073,Surgery Room 1,RM0145,BED00721,Available,EQ0073,Surgery Equipment
+HF008,Surgery,DEP073,Surgery Room 1,RM0145,BED00722,Available,EQ0073,Surgery Equipment
+HF008,Surgery,DEP073,Surgery Room 1,RM0145,BED00723,Available,EQ0073,Surgery Equipment
+HF008,Surgery,DEP073,Surgery Room 1,RM0145,BED00724,Available,EQ0073,Surgery Equipment
+HF008,Surgery,DEP073,Surgery Room 1,RM0145,BED00725,Available,EQ0073,Surgery Equipment
+HF009,Surgery,DEP083,Surgery Room 1,RM0165,BED00821,Available,EQ0083,Surgery Equipment
+HF009,Surgery,DEP083,Surgery Room 1,RM0165,BED00822,Available,EQ0083,Surgery Equipment
+HF009,Surgery,DEP083,Surgery Room 1,RM0165,BED00823,Available,EQ0083,Surgery Equipment
+HF009,Surgery,DEP083,Surgery Room 1,RM0165,BED00824,Available,EQ0083,Surgery Equipment
+HF009,Surgery,DEP083,Surgery Room 1,RM0165,BED00825,Available,EQ0083,Surgery Equipment
+HF010,Surgery,DEP093,Surgery Room 1,RM0185,BED00921,Available,EQ0093,Surgery Equipment
+HF010,Surgery,DEP093,Surgery Room 1,RM0185,BED00922,Available,EQ0093,Surgery Equipment
+HF010,Surgery,DEP093,Surgery Room 1,RM0185,BED00923,Available,EQ0093,Surgery Equipment
+HF010,Surgery,DEP093,Surgery Room 1,RM0185,BED00924,Available,EQ0093,Surgery Equipment
+HF010,Surgery,DEP093,Surgery Room 1,RM0185,BED00925,Available,EQ0093,Surgery Equipment
+HF011,Surgery,DEP103,Surgery Room 1,RM0205,BED01021,Available,EQ0103,Surgery Equipment
+HF011,Surgery,DEP103,Surgery Room 1,RM0205,BED01022,Available,EQ0103,Surgery Equipment
+HF011,Surgery,DEP103,Surgery Room 1,RM0205,BED01023,Available,EQ0103,Surgery Equipment
+HF011,Surgery,DEP103,Surgery Room 1,RM0205,BED01024,Available,EQ0103,Surgery Equipment
+HF011,Surgery,DEP103,Surgery Room 1,RM0205,BED01025,Available,EQ0103,Surgery Equipment
+HF012,Surgery,DEP113,Surgery Room 1,RM0225,BED01121,Available,EQ0113,Surgery Equipment
+HF012,Surgery,DEP113,Surgery Room 1,RM0225,BED01122,Available,EQ0113,Surgery Equipment
+HF012,Surgery,DEP113,Surgery Room 1,RM0225,BED01123,Available,EQ0113,Surgery Equipment
+HF012,Surgery,DEP113,Surgery Room 1,RM0225,BED01124,Available,EQ0113,Surgery Equipment
+HF012,Surgery,DEP113,Surgery Room 1,RM0225,BED01125,Available,EQ0113,Surgery Equipment
+HF013,Surgery,DEP123,Surgery Room 1,RM0245,BED01221,Available,EQ0123,Surgery Equipment
+HF013,Surgery,DEP123,Surgery Room 1,RM0245,BED01222,Available,EQ0123,Surgery Equipment
+HF013,Surgery,DEP123,Surgery Room 1,RM0245,BED01223,Available,EQ0123,Surgery Equipment
+HF013,Surgery,DEP123,Surgery Room 1,RM0245,BED01224,Available,EQ0123,Surgery Equipment
+HF013,Surgery,DEP123,Surgery Room 1,RM0245,BED01225,Available,EQ0123,Surgery Equipment
+HF014,Surgery,DEP133,Surgery Room 1,RM0265,BED01321,Available,EQ0133,Surgery Equipment
+HF014,Surgery,DEP133,Surgery Room 1,RM0265,BED01322,Available,EQ0133,Surgery Equipment
+HF014,Surgery,DEP133,Surgery Room 1,RM0265,BED01323,Available,EQ0133,Surgery Equipment
+HF014,Surgery,DEP133,Surgery Room 1,RM0265,BED01324,Available,EQ0133,Surgery Equipment
+HF014,Surgery,DEP133,Surgery Room 1,RM0265,BED01325,Available,EQ0133,Surgery Equipment
+HF015,Surgery,DEP143,Surgery Room 1,RM0285,BED01421,Available,EQ0143,Surgery Equipment
+HF015,Surgery,DEP143,Surgery Room 1,RM0285,BED01422,Available,EQ0143,Surgery Equipment
+HF015,Surgery,DEP143,Surgery Room 1,RM0285,BED01423,Available,EQ0143,Surgery Equipment
+HF015,Surgery,DEP143,Surgery Room 1,RM0285,BED01424,Available,EQ0143,Surgery Equipment
+HF015,Surgery,DEP143,Surgery Room 1,RM0285,BED01425,Available,EQ0143,Surgery Equipment
+HF016,Surgery,DEP153,Surgery Room 1,RM0305,BED01521,Available,EQ0153,Surgery Equipment
+HF016,Surgery,DEP153,Surgery Room 1,RM0305,BED01522,Available,EQ0153,Surgery Equipment
+HF016,Surgery,DEP153,Surgery Room 1,RM0305,BED01523,Available,EQ0153,Surgery Equipment
+HF016,Surgery,DEP153,Surgery Room 1,RM0305,BED01524,Available,EQ0153,Surgery Equipment
+HF016,Surgery,DEP153,Surgery Room 1,RM0305,BED01525,Available,EQ0153,Surgery Equipment
+HF017,Surgery,DEP163,Surgery Room 1,RM0325,BED01621,Available,EQ0163,Surgery Equipment
+HF017,Surgery,DEP163,Surgery Room 1,RM0325,BED01622,Available,EQ0163,Surgery Equipment
+HF017,Surgery,DEP163,Surgery Room 1,RM0325,BED01623,Available,EQ0163,Surgery Equipment
+HF017,Surgery,DEP163,Surgery Room 1,RM0325,BED01624,Available,EQ0163,Surgery Equipment
+HF017,Surgery,DEP163,Surgery Room 1,RM0325,BED01625,Available,EQ0163,Surgery Equipment
+HF018,Surgery,DEP173,Surgery Room 1,RM0345,BED01721,Available,EQ0173,Surgery Equipment
+HF018,Surgery,DEP173,Surgery Room 1,RM0345,BED01722,Available,EQ0173,Surgery Equipment
+HF018,Surgery,DEP173,Surgery Room 1,RM0345,BED01723,Available,EQ0173,Surgery Equipment
+HF018,Surgery,DEP173,Surgery Room 1,RM0345,BED01724,Available,EQ0173,Surgery Equipment
+HF018,Surgery,DEP173,Surgery Room 1,RM0345,BED01725,Available,EQ0173,Surgery Equipment
+HF019,Surgery,DEP183,Surgery Room 1,RM0365,BED01821,Available,EQ0183,Surgery Equipment
+HF019,Surgery,DEP183,Surgery Room 1,RM0365,BED01822,Available,EQ0183,Surgery Equipment
+HF019,Surgery,DEP183,Surgery Room 1,RM0365,BED01823,Available,EQ0183,Surgery Equipment
+HF019,Surgery,DEP183,Surgery Room 1,RM0365,BED01824,Available,EQ0183,Surgery Equipment
+HF019,Surgery,DEP183,Surgery Room 1,RM0365,BED01825,Available,EQ0183,Surgery Equipment
+HF020,Surgery,DEP193,Surgery Room 1,RM0385,BED01921,Available,EQ0193,Surgery Equipment
+HF020,Surgery,DEP193,Surgery Room 1,RM0385,BED01922,Available,EQ0193,Surgery Equipment
+HF020,Surgery,DEP193,Surgery Room 1,RM0385,BED01923,Available,EQ0193,Surgery Equipment
+HF020,Surgery,DEP193,Surgery Room 1,RM0385,BED01924,Available,EQ0193,Surgery Equipment
+HF020,Surgery,DEP193,Surgery Room 1,RM0385,BED01925,Available,EQ0193,Surgery Equipment
+HF001,Surgery,DEP003,Surgery Room 2,RM0006,BED00026,Available,EQ0003,Surgery Equipment
+HF001,Surgery,DEP003,Surgery Room 2,RM0006,BED00027,Available,EQ0003,Surgery Equipment
+HF001,Surgery,DEP003,Surgery Room 2,RM0006,BED00028,Available,EQ0003,Surgery Equipment
+HF001,Surgery,DEP003,Surgery Room 2,RM0006,BED00029,Available,EQ0003,Surgery Equipment
+HF001,Surgery,DEP003,Surgery Room 2,RM0006,BED00030,Available,EQ0003,Surgery Equipment
+HF002,Surgery,DEP013,Surgery Room 2,RM0026,BED00126,Available,EQ0013,Surgery Equipment
+HF002,Surgery,DEP013,Surgery Room 2,RM0026,BED00127,Available,EQ0013,Surgery Equipment
+HF002,Surgery,DEP013,Surgery Room 2,RM0026,BED00128,Available,EQ0013,Surgery Equipment
+HF002,Surgery,DEP013,Surgery Room 2,RM0026,BED00129,Available,EQ0013,Surgery Equipment
+HF002,Surgery,DEP013,Surgery Room 2,RM0026,BED00130,Available,EQ0013,Surgery Equipment
+HF003,Surgery,DEP023,Surgery Room 2,RM0046,BED00226,Available,EQ0023,Surgery Equipment
+HF003,Surgery,DEP023,Surgery Room 2,RM0046,BED00227,Available,EQ0023,Surgery Equipment
+HF003,Surgery,DEP023,Surgery Room 2,RM0046,BED00228,Available,EQ0023,Surgery Equipment
+HF003,Surgery,DEP023,Surgery Room 2,RM0046,BED00229,Available,EQ0023,Surgery Equipment
+HF003,Surgery,DEP023,Surgery Room 2,RM0046,BED00230,Available,EQ0023,Surgery Equipment
+HF004,Surgery,DEP033,Surgery Room 2,RM0066,BED00326,Available,EQ0033,Surgery Equipment
+HF004,Surgery,DEP033,Surgery Room 2,RM0066,BED00327,Available,EQ0033,Surgery Equipment
+HF004,Surgery,DEP033,Surgery Room 2,RM0066,BED00328,Available,EQ0033,Surgery Equipment
+HF004,Surgery,DEP033,Surgery Room 2,RM0066,BED00329,Available,EQ0033,Surgery Equipment
+HF004,Surgery,DEP033,Surgery Room 2,RM0066,BED00330,Available,EQ0033,Surgery Equipment
+HF005,Surgery,DEP043,Surgery Room 2,RM0086,BED00426,Available,EQ0043,Surgery Equipment
+HF005,Surgery,DEP043,Surgery Room 2,RM0086,BED00427,Available,EQ0043,Surgery Equipment
+HF005,Surgery,DEP043,Surgery Room 2,RM0086,BED00428,Available,EQ0043,Surgery Equipment
+HF005,Surgery,DEP043,Surgery Room 2,RM0086,BED00429,Available,EQ0043,Surgery Equipment
+HF005,Surgery,DEP043,Surgery Room 2,RM0086,BED00430,Available,EQ0043,Surgery Equipment
+HF006,Surgery,DEP053,Surgery Room 2,RM0106,BED00526,Available,EQ0053,Surgery Equipment
+HF006,Surgery,DEP053,Surgery Room 2,RM0106,BED00527,Available,EQ0053,Surgery Equipment
+HF006,Surgery,DEP053,Surgery Room 2,RM0106,BED00528,Available,EQ0053,Surgery Equipment
+HF006,Surgery,DEP053,Surgery Room 2,RM0106,BED00529,Available,EQ0053,Surgery Equipment
+HF006,Surgery,DEP053,Surgery Room 2,RM0106,BED00530,Available,EQ0053,Surgery Equipment
+HF007,Surgery,DEP063,Surgery Room 2,RM0126,BED00626,Available,EQ0063,Surgery Equipment
+HF007,Surgery,DEP063,Surgery Room 2,RM0126,BED00627,Available,EQ0063,Surgery Equipment
+HF007,Surgery,DEP063,Surgery Room 2,RM0126,BED00628,Available,EQ0063,Surgery Equipment
+HF007,Surgery,DEP063,Surgery Room 2,RM0126,BED00629,Available,EQ0063,Surgery Equipment
+HF007,Surgery,DEP063,Surgery Room 2,RM0126,BED00630,Available,EQ0063,Surgery Equipment
+HF008,Surgery,DEP073,Surgery Room 2,RM0146,BED00726,Available,EQ0073,Surgery Equipment
+HF008,Surgery,DEP073,Surgery Room 2,RM0146,BED00727,Available,EQ0073,Surgery Equipment
+HF008,Surgery,DEP073,Surgery Room 2,RM0146,BED00728,Available,EQ0073,Surgery Equipment
+HF008,Surgery,DEP073,Surgery Room 2,RM0146,BED00729,Available,EQ0073,Surgery Equipment
+HF008,Surgery,DEP073,Surgery Room 2,RM0146,BED00730,Available,EQ0073,Surgery Equipment
+HF009,Surgery,DEP083,Surgery Room 2,RM0166,BED00826,Available,EQ0083,Surgery Equipment
+HF009,Surgery,DEP083,Surgery Room 2,RM0166,BED00827,Available,EQ0083,Surgery Equipment
+HF009,Surgery,DEP083,Surgery Room 2,RM0166,BED00828,Available,EQ0083,Surgery Equipment
+HF009,Surgery,DEP083,Surgery Room 2,RM0166,BED00829,Available,EQ0083,Surgery Equipment
+HF009,Surgery,DEP083,Surgery Room 2,RM0166,BED00830,Available,EQ0083,Surgery Equipment
+HF010,Surgery,DEP093,Surgery Room 2,RM0186,BED00926,Available,EQ0093,Surgery Equipment
+HF010,Surgery,DEP093,Surgery Room 2,RM0186,BED00927,Available,EQ0093,Surgery Equipment
+HF010,Surgery,DEP093,Surgery Room 2,RM0186,BED00928,Available,EQ0093,Surgery Equipment
+HF010,Surgery,DEP093,Surgery Room 2,RM0186,BED00929,Available,EQ0093,Surgery Equipment
+HF010,Surgery,DEP093,Surgery Room 2,RM0186,BED00930,Available,EQ0093,Surgery Equipment
+HF011,Surgery,DEP103,Surgery Room 2,RM0206,BED01026,Available,EQ0103,Surgery Equipment
+HF011,Surgery,DEP103,Surgery Room 2,RM0206,BED01027,Available,EQ0103,Surgery Equipment
+HF011,Surgery,DEP103,Surgery Room 2,RM0206,BED01028,Available,EQ0103,Surgery Equipment
+HF011,Surgery,DEP103,Surgery Room 2,RM0206,BED01029,Available,EQ0103,Surgery Equipment
+HF011,Surgery,DEP103,Surgery Room 2,RM0206,BED01030,Available,EQ0103,Surgery Equipment
+HF012,Surgery,DEP113,Surgery Room 2,RM0226,BED01126,Available,EQ0113,Surgery Equipment
+HF012,Surgery,DEP113,Surgery Room 2,RM0226,BED01127,Available,EQ0113,Surgery Equipment
+HF012,Surgery,DEP113,Surgery Room 2,RM0226,BED01128,Available,EQ0113,Surgery Equipment
+HF012,Surgery,DEP113,Surgery Room 2,RM0226,BED01129,Available,EQ0113,Surgery Equipment
+HF012,Surgery,DEP113,Surgery Room 2,RM0226,BED01130,Available,EQ0113,Surgery Equipment
+HF013,Surgery,DEP123,Surgery Room 2,RM0246,BED01226,Available,EQ0123,Surgery Equipment
+HF013,Surgery,DEP123,Surgery Room 2,RM0246,BED01227,Available,EQ0123,Surgery Equipment
+HF013,Surgery,DEP123,Surgery Room 2,RM0246,BED01228,Available,EQ0123,Surgery Equipment
+HF013,Surgery,DEP123,Surgery Room 2,RM0246,BED01229,Available,EQ0123,Surgery Equipment
+HF013,Surgery,DEP123,Surgery Room 2,RM0246,BED01230,Available,EQ0123,Surgery Equipment
+HF014,Surgery,DEP133,Surgery Room 2,RM0266,BED01326,Available,EQ0133,Surgery Equipment
+HF014,Surgery,DEP133,Surgery Room 2,RM0266,BED01327,Available,EQ0133,Surgery Equipment
+HF014,Surgery,DEP133,Surgery Room 2,RM0266,BED01328,Available,EQ0133,Surgery Equipment
+HF014,Surgery,DEP133,Surgery Room 2,RM0266,BED01329,Available,EQ0133,Surgery Equipment
+HF014,Surgery,DEP133,Surgery Room 2,RM0266,BED01330,Available,EQ0133,Surgery Equipment
+HF015,Surgery,DEP143,Surgery Room 2,RM0286,BED01426,Available,EQ0143,Surgery Equipment
+HF015,Surgery,DEP143,Surgery Room 2,RM0286,BED01427,Available,EQ0143,Surgery Equipment
+HF015,Surgery,DEP143,Surgery Room 2,RM0286,BED01428,Available,EQ0143,Surgery Equipment
+HF015,Surgery,DEP143,Surgery Room 2,RM0286,BED01429,Available,EQ0143,Surgery Equipment
+HF015,Surgery,DEP143,Surgery Room 2,RM0286,BED01430,Available,EQ0143,Surgery Equipment
+HF016,Surgery,DEP153,Surgery Room 2,RM0306,BED01526,Available,EQ0153,Surgery Equipment
+HF016,Surgery,DEP153,Surgery Room 2,RM0306,BED01527,Available,EQ0153,Surgery Equipment
+HF016,Surgery,DEP153,Surgery Room 2,RM0306,BED01528,Available,EQ0153,Surgery Equipment
+HF016,Surgery,DEP153,Surgery Room 2,RM0306,BED01529,Available,EQ0153,Surgery Equipment
+HF016,Surgery,DEP153,Surgery Room 2,RM0306,BED01530,Available,EQ0153,Surgery Equipment
+HF017,Surgery,DEP163,Surgery Room 2,RM0326,BED01626,Available,EQ0163,Surgery Equipment
+HF017,Surgery,DEP163,Surgery Room 2,RM0326,BED01627,Available,EQ0163,Surgery Equipment
+HF017,Surgery,DEP163,Surgery Room 2,RM0326,BED01628,Available,EQ0163,Surgery Equipment
+HF017,Surgery,DEP163,Surgery Room 2,RM0326,BED01629,Available,EQ0163,Surgery Equipment
+HF017,Surgery,DEP163,Surgery Room 2,RM0326,BED01630,Available,EQ0163,Surgery Equipment
+HF018,Surgery,DEP173,Surgery Room 2,RM0346,BED01726,Available,EQ0173,Surgery Equipment
+HF018,Surgery,DEP173,Surgery Room 2,RM0346,BED01727,Available,EQ0173,Surgery Equipment
+HF018,Surgery,DEP173,Surgery Room 2,RM0346,BED01728,Available,EQ0173,Surgery Equipment
+HF018,Surgery,DEP173,Surgery Room 2,RM0346,BED01729,Available,EQ0173,Surgery Equipment
+HF018,Surgery,DEP173,Surgery Room 2,RM0346,BED01730,Available,EQ0173,Surgery Equipment
+HF019,Surgery,DEP183,Surgery Room 2,RM0366,BED01826,Available,EQ0183,Surgery Equipment
+HF019,Surgery,DEP183,Surgery Room 2,RM0366,BED01827,Available,EQ0183,Surgery Equipment
+HF019,Surgery,DEP183,Surgery Room 2,RM0366,BED01828,Available,EQ0183,Surgery Equipment
+HF019,Surgery,DEP183,Surgery Room 2,RM0366,BED01829,Available,EQ0183,Surgery Equipment
+HF019,Surgery,DEP183,Surgery Room 2,RM0366,BED01830,Available,EQ0183,Surgery Equipment
+HF020,Surgery,DEP193,Surgery Room 2,RM0386,BED01926,Available,EQ0193,Surgery Equipment
+HF020,Surgery,DEP193,Surgery Room 2,RM0386,BED01927,Available,EQ0193,Surgery Equipment
+HF020,Surgery,DEP193,Surgery Room 2,RM0386,BED01928,Available,EQ0193,Surgery Equipment
+HF020,Surgery,DEP193,Surgery Room 2,RM0386,BED01929,Available,EQ0193,Surgery Equipment
+HF020,Surgery,DEP193,Surgery Room 2,RM0386,BED01930,Available,EQ0193,Surgery Equipment
+HF001,Pediatrics,DEP004,Pediatrics Room 2,RM0008,BED00036,Available,EQ0004,Pediatrics Equipment
+HF001,Pediatrics,DEP004,Pediatrics Room 2,RM0008,BED00037,Available,EQ0004,Pediatrics Equipment
+HF001,Pediatrics,DEP004,Pediatrics Room 2,RM0008,BED00038,Available,EQ0004,Pediatrics Equipment
+HF001,Pediatrics,DEP004,Pediatrics Room 2,RM0008,BED00039,Available,EQ0004,Pediatrics Equipment
+HF001,Pediatrics,DEP004,Pediatrics Room 2,RM0008,BED00040,Available,EQ0004,Pediatrics Equipment
+HF002,Pediatrics,DEP014,Pediatrics Room 2,RM0028,BED00136,Available,EQ0014,Pediatrics Equipment
+HF002,Pediatrics,DEP014,Pediatrics Room 2,RM0028,BED00137,Available,EQ0014,Pediatrics Equipment
+HF002,Pediatrics,DEP014,Pediatrics Room 2,RM0028,BED00138,Available,EQ0014,Pediatrics Equipment
+HF002,Pediatrics,DEP014,Pediatrics Room 2,RM0028,BED00139,Available,EQ0014,Pediatrics Equipment
+HF002,Pediatrics,DEP014,Pediatrics Room 2,RM0028,BED00140,Available,EQ0014,Pediatrics Equipment
+HF003,Pediatrics,DEP024,Pediatrics Room 2,RM0048,BED00236,Available,EQ0024,Pediatrics Equipment
+HF003,Pediatrics,DEP024,Pediatrics Room 2,RM0048,BED00237,Available,EQ0024,Pediatrics Equipment
+HF003,Pediatrics,DEP024,Pediatrics Room 2,RM0048,BED00238,Available,EQ0024,Pediatrics Equipment
+HF003,Pediatrics,DEP024,Pediatrics Room 2,RM0048,BED00239,Available,EQ0024,Pediatrics Equipment
+HF003,Pediatrics,DEP024,Pediatrics Room 2,RM0048,BED00240,Available,EQ0024,Pediatrics Equipment
+HF004,Pediatrics,DEP034,Pediatrics Room 2,RM0068,BED00336,Available,EQ0034,Pediatrics Equipment
+HF004,Pediatrics,DEP034,Pediatrics Room 2,RM0068,BED00337,Available,EQ0034,Pediatrics Equipment
+HF004,Pediatrics,DEP034,Pediatrics Room 2,RM0068,BED00338,Available,EQ0034,Pediatrics Equipment
+HF004,Pediatrics,DEP034,Pediatrics Room 2,RM0068,BED00339,Available,EQ0034,Pediatrics Equipment
+HF004,Pediatrics,DEP034,Pediatrics Room 2,RM0068,BED00340,Available,EQ0034,Pediatrics Equipment
+HF005,Pediatrics,DEP044,Pediatrics Room 2,RM0088,BED00436,Available,EQ0044,Pediatrics Equipment
+HF005,Pediatrics,DEP044,Pediatrics Room 2,RM0088,BED00437,Available,EQ0044,Pediatrics Equipment
+HF005,Pediatrics,DEP044,Pediatrics Room 2,RM0088,BED00438,Available,EQ0044,Pediatrics Equipment
+HF005,Pediatrics,DEP044,Pediatrics Room 2,RM0088,BED00439,Available,EQ0044,Pediatrics Equipment
+HF005,Pediatrics,DEP044,Pediatrics Room 2,RM0088,BED00440,Available,EQ0044,Pediatrics Equipment
+HF006,Pediatrics,DEP054,Pediatrics Room 2,RM0108,BED00536,Available,EQ0054,Pediatrics Equipment
+HF006,Pediatrics,DEP054,Pediatrics Room 2,RM0108,BED00537,Available,EQ0054,Pediatrics Equipment
+HF006,Pediatrics,DEP054,Pediatrics Room 2,RM0108,BED00538,Available,EQ0054,Pediatrics Equipment
+HF006,Pediatrics,DEP054,Pediatrics Room 2,RM0108,BED00539,Available,EQ0054,Pediatrics Equipment
+HF006,Pediatrics,DEP054,Pediatrics Room 2,RM0108,BED00540,Available,EQ0054,Pediatrics Equipment
+HF007,Pediatrics,DEP064,Pediatrics Room 2,RM0128,BED00636,Available,EQ0064,Pediatrics Equipment
+HF007,Pediatrics,DEP064,Pediatrics Room 2,RM0128,BED00637,Available,EQ0064,Pediatrics Equipment
+HF007,Pediatrics,DEP064,Pediatrics Room 2,RM0128,BED00638,Available,EQ0064,Pediatrics Equipment
+HF007,Pediatrics,DEP064,Pediatrics Room 2,RM0128,BED00639,Available,EQ0064,Pediatrics Equipment
+HF007,Pediatrics,DEP064,Pediatrics Room 2,RM0128,BED00640,Available,EQ0064,Pediatrics Equipment
+HF008,Pediatrics,DEP074,Pediatrics Room 2,RM0148,BED00736,Available,EQ0074,Pediatrics Equipment
+HF008,Pediatrics,DEP074,Pediatrics Room 2,RM0148,BED00737,Available,EQ0074,Pediatrics Equipment
+HF008,Pediatrics,DEP074,Pediatrics Room 2,RM0148,BED00738,Available,EQ0074,Pediatrics Equipment
+HF008,Pediatrics,DEP074,Pediatrics Room 2,RM0148,BED00739,Available,EQ0074,Pediatrics Equipment
+HF008,Pediatrics,DEP074,Pediatrics Room 2,RM0148,BED00740,Available,EQ0074,Pediatrics Equipment
+HF009,Pediatrics,DEP084,Pediatrics Room 2,RM0168,BED00836,Available,EQ0084,Pediatrics Equipment
+HF009,Pediatrics,DEP084,Pediatrics Room 2,RM0168,BED00837,Available,EQ0084,Pediatrics Equipment
+HF009,Pediatrics,DEP084,Pediatrics Room 2,RM0168,BED00838,Available,EQ0084,Pediatrics Equipment
+HF009,Pediatrics,DEP084,Pediatrics Room 2,RM0168,BED00839,Available,EQ0084,Pediatrics Equipment
+HF009,Pediatrics,DEP084,Pediatrics Room 2,RM0168,BED00840,Available,EQ0084,Pediatrics Equipment
+HF010,Pediatrics,DEP094,Pediatrics Room 2,RM0188,BED00936,Available,EQ0094,Pediatrics Equipment
+HF010,Pediatrics,DEP094,Pediatrics Room 2,RM0188,BED00937,Available,EQ0094,Pediatrics Equipment
+HF010,Pediatrics,DEP094,Pediatrics Room 2,RM0188,BED00938,Available,EQ0094,Pediatrics Equipment
+HF010,Pediatrics,DEP094,Pediatrics Room 2,RM0188,BED00939,Available,EQ0094,Pediatrics Equipment
+HF010,Pediatrics,DEP094,Pediatrics Room 2,RM0188,BED00940,Available,EQ0094,Pediatrics Equipment
+HF011,Pediatrics,DEP104,Pediatrics Room 2,RM0208,BED01036,Available,EQ0104,Pediatrics Equipment
+HF011,Pediatrics,DEP104,Pediatrics Room 2,RM0208,BED01037,Available,EQ0104,Pediatrics Equipment
+HF011,Pediatrics,DEP104,Pediatrics Room 2,RM0208,BED01038,Available,EQ0104,Pediatrics Equipment
+HF011,Pediatrics,DEP104,Pediatrics Room 2,RM0208,BED01039,Available,EQ0104,Pediatrics Equipment
+HF011,Pediatrics,DEP104,Pediatrics Room 2,RM0208,BED01040,Available,EQ0104,Pediatrics Equipment
+HF012,Pediatrics,DEP114,Pediatrics Room 2,RM0228,BED01136,Available,EQ0114,Pediatrics Equipment
+HF012,Pediatrics,DEP114,Pediatrics Room 2,RM0228,BED01137,Available,EQ0114,Pediatrics Equipment
+HF012,Pediatrics,DEP114,Pediatrics Room 2,RM0228,BED01138,Available,EQ0114,Pediatrics Equipment
+HF012,Pediatrics,DEP114,Pediatrics Room 2,RM0228,BED01139,Available,EQ0114,Pediatrics Equipment
+HF012,Pediatrics,DEP114,Pediatrics Room 2,RM0228,BED01140,Available,EQ0114,Pediatrics Equipment
+HF013,Pediatrics,DEP124,Pediatrics Room 2,RM0248,BED01236,Available,EQ0124,Pediatrics Equipment
+HF013,Pediatrics,DEP124,Pediatrics Room 2,RM0248,BED01237,Available,EQ0124,Pediatrics Equipment
+HF013,Pediatrics,DEP124,Pediatrics Room 2,RM0248,BED01238,Available,EQ0124,Pediatrics Equipment
+HF013,Pediatrics,DEP124,Pediatrics Room 2,RM0248,BED01239,Available,EQ0124,Pediatrics Equipment
+HF013,Pediatrics,DEP124,Pediatrics Room 2,RM0248,BED01240,Available,EQ0124,Pediatrics Equipment
+HF014,Pediatrics,DEP134,Pediatrics Room 2,RM0268,BED01336,Available,EQ0134,Pediatrics Equipment
+HF014,Pediatrics,DEP134,Pediatrics Room 2,RM0268,BED01337,Available,EQ0134,Pediatrics Equipment
+HF014,Pediatrics,DEP134,Pediatrics Room 2,RM0268,BED01338,Available,EQ0134,Pediatrics Equipment
+HF014,Pediatrics,DEP134,Pediatrics Room 2,RM0268,BED01339,Available,EQ0134,Pediatrics Equipment
+HF014,Pediatrics,DEP134,Pediatrics Room 2,RM0268,BED01340,Available,EQ0134,Pediatrics Equipment
+HF015,Pediatrics,DEP144,Pediatrics Room 2,RM0288,BED01436,Available,EQ0144,Pediatrics Equipment
+HF015,Pediatrics,DEP144,Pediatrics Room 2,RM0288,BED01437,Available,EQ0144,Pediatrics Equipment
+HF015,Pediatrics,DEP144,Pediatrics Room 2,RM0288,BED01438,Available,EQ0144,Pediatrics Equipment
+HF015,Pediatrics,DEP144,Pediatrics Room 2,RM0288,BED01439,Available,EQ0144,Pediatrics Equipment
+HF015,Pediatrics,DEP144,Pediatrics Room 2,RM0288,BED01440,Available,EQ0144,Pediatrics Equipment
+HF016,Pediatrics,DEP154,Pediatrics Room 2,RM0308,BED01536,Available,EQ0154,Pediatrics Equipment
+HF016,Pediatrics,DEP154,Pediatrics Room 2,RM0308,BED01537,Available,EQ0154,Pediatrics Equipment
+HF016,Pediatrics,DEP154,Pediatrics Room 2,RM0308,BED01538,Available,EQ0154,Pediatrics Equipment
+HF016,Pediatrics,DEP154,Pediatrics Room 2,RM0308,BED01539,Available,EQ0154,Pediatrics Equipment
+HF016,Pediatrics,DEP154,Pediatrics Room 2,RM0308,BED01540,Available,EQ0154,Pediatrics Equipment
+HF017,Pediatrics,DEP164,Pediatrics Room 2,RM0328,BED01636,Available,EQ0164,Pediatrics Equipment
+HF017,Pediatrics,DEP164,Pediatrics Room 2,RM0328,BED01637,Available,EQ0164,Pediatrics Equipment
+HF017,Pediatrics,DEP164,Pediatrics Room 2,RM0328,BED01638,Available,EQ0164,Pediatrics Equipment
+HF017,Pediatrics,DEP164,Pediatrics Room 2,RM0328,BED01639,Available,EQ0164,Pediatrics Equipment
+HF017,Pediatrics,DEP164,Pediatrics Room 2,RM0328,BED01640,Available,EQ0164,Pediatrics Equipment
+HF018,Pediatrics,DEP174,Pediatrics Room 2,RM0348,BED01736,Available,EQ0174,Pediatrics Equipment
+HF018,Pediatrics,DEP174,Pediatrics Room 2,RM0348,BED01737,Available,EQ0174,Pediatrics Equipment
+HF018,Pediatrics,DEP174,Pediatrics Room 2,RM0348,BED01738,Available,EQ0174,Pediatrics Equipment
+HF018,Pediatrics,DEP174,Pediatrics Room 2,RM0348,BED01739,Available,EQ0174,Pediatrics Equipment
+HF018,Pediatrics,DEP174,Pediatrics Room 2,RM0348,BED01740,Available,EQ0174,Pediatrics Equipment
+HF019,Pediatrics,DEP184,Pediatrics Room 2,RM0368,BED01836,Available,EQ0184,Pediatrics Equipment
+HF019,Pediatrics,DEP184,Pediatrics Room 2,RM0368,BED01837,Available,EQ0184,Pediatrics Equipment
+HF019,Pediatrics,DEP184,Pediatrics Room 2,RM0368,BED01838,Available,EQ0184,Pediatrics Equipment
+HF019,Pediatrics,DEP184,Pediatrics Room 2,RM0368,BED01839,Available,EQ0184,Pediatrics Equipment
+HF019,Pediatrics,DEP184,Pediatrics Room 2,RM0368,BED01840,Available,EQ0184,Pediatrics Equipment
+HF020,Pediatrics,DEP194,Pediatrics Room 2,RM0388,BED01936,Available,EQ0194,Pediatrics Equipment
+HF020,Pediatrics,DEP194,Pediatrics Room 2,RM0388,BED01937,Available,EQ0194,Pediatrics Equipment
+HF020,Pediatrics,DEP194,Pediatrics Room 2,RM0388,BED01938,Available,EQ0194,Pediatrics Equipment
+HF020,Pediatrics,DEP194,Pediatrics Room 2,RM0388,BED01939,Available,EQ0194,Pediatrics Equipment
+HF020,Pediatrics,DEP194,Pediatrics Room 2,RM0388,BED01940,Available,EQ0194,Pediatrics Equipment
+HF001,Pediatrics,DEP004,Pediatrics Room 1,RM0007,BED00031,Available,EQ0004,Pediatrics Equipment
+HF001,Pediatrics,DEP004,Pediatrics Room 1,RM0007,BED00032,Available,EQ0004,Pediatrics Equipment
+HF001,Pediatrics,DEP004,Pediatrics Room 1,RM0007,BED00033,Available,EQ0004,Pediatrics Equipment
+HF001,Pediatrics,DEP004,Pediatrics Room 1,RM0007,BED00034,Available,EQ0004,Pediatrics Equipment
+HF001,Pediatrics,DEP004,Pediatrics Room 1,RM0007,BED00035,Available,EQ0004,Pediatrics Equipment
+HF002,Pediatrics,DEP014,Pediatrics Room 1,RM0027,BED00131,Available,EQ0014,Pediatrics Equipment
+HF002,Pediatrics,DEP014,Pediatrics Room 1,RM0027,BED00132,Available,EQ0014,Pediatrics Equipment
+HF002,Pediatrics,DEP014,Pediatrics Room 1,RM0027,BED00133,Available,EQ0014,Pediatrics Equipment
+HF002,Pediatrics,DEP014,Pediatrics Room 1,RM0027,BED00134,Available,EQ0014,Pediatrics Equipment
+HF002,Pediatrics,DEP014,Pediatrics Room 1,RM0027,BED00135,Available,EQ0014,Pediatrics Equipment
+HF003,Pediatrics,DEP024,Pediatrics Room 1,RM0047,BED00231,Available,EQ0024,Pediatrics Equipment
+HF003,Pediatrics,DEP024,Pediatrics Room 1,RM0047,BED00232,Available,EQ0024,Pediatrics Equipment
+HF003,Pediatrics,DEP024,Pediatrics Room 1,RM0047,BED00233,Available,EQ0024,Pediatrics Equipment
+HF003,Pediatrics,DEP024,Pediatrics Room 1,RM0047,BED00234,Available,EQ0024,Pediatrics Equipment
+HF003,Pediatrics,DEP024,Pediatrics Room 1,RM0047,BED00235,Available,EQ0024,Pediatrics Equipment
+HF004,Pediatrics,DEP034,Pediatrics Room 1,RM0067,BED00331,Available,EQ0034,Pediatrics Equipment
+HF004,Pediatrics,DEP034,Pediatrics Room 1,RM0067,BED00332,Available,EQ0034,Pediatrics Equipment
+HF004,Pediatrics,DEP034,Pediatrics Room 1,RM0067,BED00333,Available,EQ0034,Pediatrics Equipment
+HF004,Pediatrics,DEP034,Pediatrics Room 1,RM0067,BED00334,Available,EQ0034,Pediatrics Equipment
+HF004,Pediatrics,DEP034,Pediatrics Room 1,RM0067,BED00335,Available,EQ0034,Pediatrics Equipment
+HF005,Pediatrics,DEP044,Pediatrics Room 1,RM0087,BED00431,Available,EQ0044,Pediatrics Equipment
+HF005,Pediatrics,DEP044,Pediatrics Room 1,RM0087,BED00432,Available,EQ0044,Pediatrics Equipment
+HF005,Pediatrics,DEP044,Pediatrics Room 1,RM0087,BED00433,Available,EQ0044,Pediatrics Equipment
+HF005,Pediatrics,DEP044,Pediatrics Room 1,RM0087,BED00434,Available,EQ0044,Pediatrics Equipment
+HF005,Pediatrics,DEP044,Pediatrics Room 1,RM0087,BED00435,Available,EQ0044,Pediatrics Equipment
+HF006,Pediatrics,DEP054,Pediatrics Room 1,RM0107,BED00531,Available,EQ0054,Pediatrics Equipment
+HF006,Pediatrics,DEP054,Pediatrics Room 1,RM0107,BED00532,Available,EQ0054,Pediatrics Equipment
+HF006,Pediatrics,DEP054,Pediatrics Room 1,RM0107,BED00533,Available,EQ0054,Pediatrics Equipment
+HF006,Pediatrics,DEP054,Pediatrics Room 1,RM0107,BED00534,Available,EQ0054,Pediatrics Equipment
+HF006,Pediatrics,DEP054,Pediatrics Room 1,RM0107,BED00535,Available,EQ0054,Pediatrics Equipment
+HF007,Pediatrics,DEP064,Pediatrics Room 1,RM0127,BED00631,Available,EQ0064,Pediatrics Equipment
+HF007,Pediatrics,DEP064,Pediatrics Room 1,RM0127,BED00632,Available,EQ0064,Pediatrics Equipment
+HF007,Pediatrics,DEP064,Pediatrics Room 1,RM0127,BED00633,Available,EQ0064,Pediatrics Equipment
+HF007,Pediatrics,DEP064,Pediatrics Room 1,RM0127,BED00634,Available,EQ0064,Pediatrics Equipment
+HF007,Pediatrics,DEP064,Pediatrics Room 1,RM0127,BED00635,Available,EQ0064,Pediatrics Equipment
+HF008,Pediatrics,DEP074,Pediatrics Room 1,RM0147,BED00731,Available,EQ0074,Pediatrics Equipment
+HF008,Pediatrics,DEP074,Pediatrics Room 1,RM0147,BED00732,Available,EQ0074,Pediatrics Equipment
+HF008,Pediatrics,DEP074,Pediatrics Room 1,RM0147,BED00733,Available,EQ0074,Pediatrics Equipment
+HF008,Pediatrics,DEP074,Pediatrics Room 1,RM0147,BED00734,Available,EQ0074,Pediatrics Equipment
+HF008,Pediatrics,DEP074,Pediatrics Room 1,RM0147,BED00735,Available,EQ0074,Pediatrics Equipment
+HF009,Pediatrics,DEP084,Pediatrics Room 1,RM0167,BED00831,Available,EQ0084,Pediatrics Equipment
+HF009,Pediatrics,DEP084,Pediatrics Room 1,RM0167,BED00832,Available,EQ0084,Pediatrics Equipment
+HF009,Pediatrics,DEP084,Pediatrics Room 1,RM0167,BED00833,Available,EQ0084,Pediatrics Equipment
+HF009,Pediatrics,DEP084,Pediatrics Room 1,RM0167,BED00834,Available,EQ0084,Pediatrics Equipment
+HF009,Pediatrics,DEP084,Pediatrics Room 1,RM0167,BED00835,Available,EQ0084,Pediatrics Equipment
+HF010,Pediatrics,DEP094,Pediatrics Room 1,RM0187,BED00931,Available,EQ0094,Pediatrics Equipment
+HF010,Pediatrics,DEP094,Pediatrics Room 1,RM0187,BED00932,Available,EQ0094,Pediatrics Equipment
+HF010,Pediatrics,DEP094,Pediatrics Room 1,RM0187,BED00933,Available,EQ0094,Pediatrics Equipment
+HF010,Pediatrics,DEP094,Pediatrics Room 1,RM0187,BED00934,Available,EQ0094,Pediatrics Equipment
+HF010,Pediatrics,DEP094,Pediatrics Room 1,RM0187,BED00935,Available,EQ0094,Pediatrics Equipment
+HF011,Pediatrics,DEP104,Pediatrics Room 1,RM0207,BED01031,Available,EQ0104,Pediatrics Equipment
+HF011,Pediatrics,DEP104,Pediatrics Room 1,RM0207,BED01032,Available,EQ0104,Pediatrics Equipment
+HF011,Pediatrics,DEP104,Pediatrics Room 1,RM0207,BED01033,Available,EQ0104,Pediatrics Equipment
+HF011,Pediatrics,DEP104,Pediatrics Room 1,RM0207,BED01034,Available,EQ0104,Pediatrics Equipment
+HF011,Pediatrics,DEP104,Pediatrics Room 1,RM0207,BED01035,Available,EQ0104,Pediatrics Equipment
+HF012,Pediatrics,DEP114,Pediatrics Room 1,RM0227,BED01131,Available,EQ0114,Pediatrics Equipment
+HF012,Pediatrics,DEP114,Pediatrics Room 1,RM0227,BED01132,Available,EQ0114,Pediatrics Equipment
+HF012,Pediatrics,DEP114,Pediatrics Room 1,RM0227,BED01133,Available,EQ0114,Pediatrics Equipment
+HF012,Pediatrics,DEP114,Pediatrics Room 1,RM0227,BED01134,Available,EQ0114,Pediatrics Equipment
+HF012,Pediatrics,DEP114,Pediatrics Room 1,RM0227,BED01135,Available,EQ0114,Pediatrics Equipment
+HF013,Pediatrics,DEP124,Pediatrics Room 1,RM0247,BED01231,Available,EQ0124,Pediatrics Equipment
+HF013,Pediatrics,DEP124,Pediatrics Room 1,RM0247,BED01232,Available,EQ0124,Pediatrics Equipment
+HF013,Pediatrics,DEP124,Pediatrics Room 1,RM0247,BED01233,Available,EQ0124,Pediatrics Equipment
+HF013,Pediatrics,DEP124,Pediatrics Room 1,RM0247,BED01234,Available,EQ0124,Pediatrics Equipment
+HF013,Pediatrics,DEP124,Pediatrics Room 1,RM0247,BED01235,Available,EQ0124,Pediatrics Equipment
+HF014,Pediatrics,DEP134,Pediatrics Room 1,RM0267,BED01331,Available,EQ0134,Pediatrics Equipment
+HF014,Pediatrics,DEP134,Pediatrics Room 1,RM0267,BED01332,Available,EQ0134,Pediatrics Equipment
+HF014,Pediatrics,DEP134,Pediatrics Room 1,RM0267,BED01333,Available,EQ0134,Pediatrics Equipment
+HF014,Pediatrics,DEP134,Pediatrics Room 1,RM0267,BED01334,Available,EQ0134,Pediatrics Equipment
+HF014,Pediatrics,DEP134,Pediatrics Room 1,RM0267,BED01335,Available,EQ0134,Pediatrics Equipment
+HF015,Pediatrics,DEP144,Pediatrics Room 1,RM0287,BED01431,Available,EQ0144,Pediatrics Equipment
+HF015,Pediatrics,DEP144,Pediatrics Room 1,RM0287,BED01432,Available,EQ0144,Pediatrics Equipment
+HF015,Pediatrics,DEP144,Pediatrics Room 1,RM0287,BED01433,Available,EQ0144,Pediatrics Equipment
+HF015,Pediatrics,DEP144,Pediatrics Room 1,RM0287,BED01434,Available,EQ0144,Pediatrics Equipment
+HF015,Pediatrics,DEP144,Pediatrics Room 1,RM0287,BED01435,Available,EQ0144,Pediatrics Equipment
+HF016,Pediatrics,DEP154,Pediatrics Room 1,RM0307,BED01531,Available,EQ0154,Pediatrics Equipment
+HF016,Pediatrics,DEP154,Pediatrics Room 1,RM0307,BED01532,Available,EQ0154,Pediatrics Equipment
+HF016,Pediatrics,DEP154,Pediatrics Room 1,RM0307,BED01533,Available,EQ0154,Pediatrics Equipment
+HF016,Pediatrics,DEP154,Pediatrics Room 1,RM0307,BED01534,Available,EQ0154,Pediatrics Equipment
+HF016,Pediatrics,DEP154,Pediatrics Room 1,RM0307,BED01535,Available,EQ0154,Pediatrics Equipment
+HF017,Pediatrics,DEP164,Pediatrics Room 1,RM0327,BED01631,Available,EQ0164,Pediatrics Equipment
+HF017,Pediatrics,DEP164,Pediatrics Room 1,RM0327,BED01632,Available,EQ0164,Pediatrics Equipment
+HF017,Pediatrics,DEP164,Pediatrics Room 1,RM0327,BED01633,Available,EQ0164,Pediatrics Equipment
+HF017,Pediatrics,DEP164,Pediatrics Room 1,RM0327,BED01634,Available,EQ0164,Pediatrics Equipment
+HF017,Pediatrics,DEP164,Pediatrics Room 1,RM0327,BED01635,Available,EQ0164,Pediatrics Equipment
+HF018,Pediatrics,DEP174,Pediatrics Room 1,RM0347,BED01731,Available,EQ0174,Pediatrics Equipment
+HF018,Pediatrics,DEP174,Pediatrics Room 1,RM0347,BED01732,Available,EQ0174,Pediatrics Equipment
+HF018,Pediatrics,DEP174,Pediatrics Room 1,RM0347,BED01733,Available,EQ0174,Pediatrics Equipment
+HF018,Pediatrics,DEP174,Pediatrics Room 1,RM0347,BED01734,Available,EQ0174,Pediatrics Equipment
+HF018,Pediatrics,DEP174,Pediatrics Room 1,RM0347,BED01735,Available,EQ0174,Pediatrics Equipment
+HF019,Pediatrics,DEP184,Pediatrics Room 1,RM0367,BED01831,Available,EQ0184,Pediatrics Equipment
+HF019,Pediatrics,DEP184,Pediatrics Room 1,RM0367,BED01832,Available,EQ0184,Pediatrics Equipment
+HF019,Pediatrics,DEP184,Pediatrics Room 1,RM0367,BED01833,Available,EQ0184,Pediatrics Equipment
+HF019,Pediatrics,DEP184,Pediatrics Room 1,RM0367,BED01834,Available,EQ0184,Pediatrics Equipment
+HF019,Pediatrics,DEP184,Pediatrics Room 1,RM0367,BED01835,Available,EQ0184,Pediatrics Equipment
+HF020,Pediatrics,DEP194,Pediatrics Room 1,RM0387,BED01931,Available,EQ0194,Pediatrics Equipment
+HF020,Pediatrics,DEP194,Pediatrics Room 1,RM0387,BED01932,Available,EQ0194,Pediatrics Equipment
+HF020,Pediatrics,DEP194,Pediatrics Room 1,RM0387,BED01933,Available,EQ0194,Pediatrics Equipment
+HF020,Pediatrics,DEP194,Pediatrics Room 1,RM0387,BED01934,Available,EQ0194,Pediatrics Equipment
+HF020,Pediatrics,DEP194,Pediatrics Room 1,RM0387,BED01935,Available,EQ0194,Pediatrics Equipment
+HF001,Obstetrics & Gynecology,DEP005,Obstetrics & Gynecology Room 1,RM0009,BED00041,Available,EQ0005,Obstetrics & Gynecology Equipment
+HF001,Obstetrics & Gynecology,DEP005,Obstetrics & Gynecology Room 1,RM0009,BED00042,Available,EQ0005,Obstetrics & Gynecology Equipment
+HF001,Obstetrics & Gynecology,DEP005,Obstetrics & Gynecology Room 1,RM0009,BED00043,Available,EQ0005,Obstetrics & Gynecology Equipment
+HF001,Obstetrics & Gynecology,DEP005,Obstetrics & Gynecology Room 1,RM0009,BED00044,Available,EQ0005,Obstetrics & Gynecology Equipment
+HF001,Obstetrics & Gynecology,DEP005,Obstetrics & Gynecology Room 1,RM0009,BED00045,Available,EQ0005,Obstetrics & Gynecology Equipment
+HF002,Obstetrics & Gynecology,DEP015,Obstetrics & Gynecology Room 1,RM0029,BED00141,Available,EQ0015,Obstetrics & Gynecology Equipment
+HF002,Obstetrics & Gynecology,DEP015,Obstetrics & Gynecology Room 1,RM0029,BED00142,Available,EQ0015,Obstetrics & Gynecology Equipment
+HF002,Obstetrics & Gynecology,DEP015,Obstetrics & Gynecology Room 1,RM0029,BED00143,Available,EQ0015,Obstetrics & Gynecology Equipment
+HF002,Obstetrics & Gynecology,DEP015,Obstetrics & Gynecology Room 1,RM0029,BED00144,Available,EQ0015,Obstetrics & Gynecology Equipment
+HF002,Obstetrics & Gynecology,DEP015,Obstetrics & Gynecology Room 1,RM0029,BED00145,Available,EQ0015,Obstetrics & Gynecology Equipment
+HF003,Obstetrics & Gynecology,DEP025,Obstetrics & Gynecology Room 1,RM0049,BED00241,Available,EQ0025,Obstetrics & Gynecology Equipment
+HF003,Obstetrics & Gynecology,DEP025,Obstetrics & Gynecology Room 1,RM0049,BED00242,Available,EQ0025,Obstetrics & Gynecology Equipment
+HF003,Obstetrics & Gynecology,DEP025,Obstetrics & Gynecology Room 1,RM0049,BED00243,Available,EQ0025,Obstetrics & Gynecology Equipment
+HF003,Obstetrics & Gynecology,DEP025,Obstetrics & Gynecology Room 1,RM0049,BED00244,Available,EQ0025,Obstetrics & Gynecology Equipment
+HF003,Obstetrics & Gynecology,DEP025,Obstetrics & Gynecology Room 1,RM0049,BED00245,Available,EQ0025,Obstetrics & Gynecology Equipment
+HF004,Obstetrics & Gynecology,DEP035,Obstetrics & Gynecology Room 1,RM0069,BED00341,Available,EQ0035,Obstetrics & Gynecology Equipment
+HF004,Obstetrics & Gynecology,DEP035,Obstetrics & Gynecology Room 1,RM0069,BED00342,Available,EQ0035,Obstetrics & Gynecology Equipment
+HF004,Obstetrics & Gynecology,DEP035,Obstetrics & Gynecology Room 1,RM0069,BED00343,Available,EQ0035,Obstetrics & Gynecology Equipment
+HF004,Obstetrics & Gynecology,DEP035,Obstetrics & Gynecology Room 1,RM0069,BED00344,Available,EQ0035,Obstetrics & Gynecology Equipment
+HF004,Obstetrics & Gynecology,DEP035,Obstetrics & Gynecology Room 1,RM0069,BED00345,Available,EQ0035,Obstetrics & Gynecology Equipment
+HF005,Obstetrics & Gynecology,DEP045,Obstetrics & Gynecology Room 1,RM0089,BED00441,Available,EQ0045,Obstetrics & Gynecology Equipment
+HF005,Obstetrics & Gynecology,DEP045,Obstetrics & Gynecology Room 1,RM0089,BED00442,Available,EQ0045,Obstetrics & Gynecology Equipment
+HF005,Obstetrics & Gynecology,DEP045,Obstetrics & Gynecology Room 1,RM0089,BED00443,Available,EQ0045,Obstetrics & Gynecology Equipment
+HF005,Obstetrics & Gynecology,DEP045,Obstetrics & Gynecology Room 1,RM0089,BED00444,Available,EQ0045,Obstetrics & Gynecology Equipment
+HF005,Obstetrics & Gynecology,DEP045,Obstetrics & Gynecology Room 1,RM0089,BED00445,Available,EQ0045,Obstetrics & Gynecology Equipment
+HF006,Obstetrics & Gynecology,DEP055,Obstetrics & Gynecology Room 1,RM0109,BED00541,Available,EQ0055,Obstetrics & Gynecology Equipment
+HF006,Obstetrics & Gynecology,DEP055,Obstetrics & Gynecology Room 1,RM0109,BED00542,Available,EQ0055,Obstetrics & Gynecology Equipment
+HF006,Obstetrics & Gynecology,DEP055,Obstetrics & Gynecology Room 1,RM0109,BED00543,Available,EQ0055,Obstetrics & Gynecology Equipment
+HF006,Obstetrics & Gynecology,DEP055,Obstetrics & Gynecology Room 1,RM0109,BED00544,Available,EQ0055,Obstetrics & Gynecology Equipment
+HF006,Obstetrics & Gynecology,DEP055,Obstetrics & Gynecology Room 1,RM0109,BED00545,Available,EQ0055,Obstetrics & Gynecology Equipment
+HF007,Obstetrics & Gynecology,DEP065,Obstetrics & Gynecology Room 1,RM0129,BED00641,Available,EQ0065,Obstetrics & Gynecology Equipment
+HF007,Obstetrics & Gynecology,DEP065,Obstetrics & Gynecology Room 1,RM0129,BED00642,Available,EQ0065,Obstetrics & Gynecology Equipment
+HF007,Obstetrics & Gynecology,DEP065,Obstetrics & Gynecology Room 1,RM0129,BED00643,Available,EQ0065,Obstetrics & Gynecology Equipment
+HF007,Obstetrics & Gynecology,DEP065,Obstetrics & Gynecology Room 1,RM0129,BED00644,Available,EQ0065,Obstetrics & Gynecology Equipment
+HF007,Obstetrics & Gynecology,DEP065,Obstetrics & Gynecology Room 1,RM0129,BED00645,Available,EQ0065,Obstetrics & Gynecology Equipment
+HF008,Obstetrics & Gynecology,DEP075,Obstetrics & Gynecology Room 1,RM0149,BED00741,Available,EQ0075,Obstetrics & Gynecology Equipment
+HF008,Obstetrics & Gynecology,DEP075,Obstetrics & Gynecology Room 1,RM0149,BED00742,Available,EQ0075,Obstetrics & Gynecology Equipment
+HF008,Obstetrics & Gynecology,DEP075,Obstetrics & Gynecology Room 1,RM0149,BED00743,Available,EQ0075,Obstetrics & Gynecology Equipment
+HF008,Obstetrics & Gynecology,DEP075,Obstetrics & Gynecology Room 1,RM0149,BED00744,Available,EQ0075,Obstetrics & Gynecology Equipment
+HF008,Obstetrics & Gynecology,DEP075,Obstetrics & Gynecology Room 1,RM0149,BED00745,Available,EQ0075,Obstetrics & Gynecology Equipment
+HF009,Obstetrics & Gynecology,DEP085,Obstetrics & Gynecology Room 1,RM0169,BED00841,Available,EQ0085,Obstetrics & Gynecology Equipment
+HF009,Obstetrics & Gynecology,DEP085,Obstetrics & Gynecology Room 1,RM0169,BED00842,Available,EQ0085,Obstetrics & Gynecology Equipment
+HF009,Obstetrics & Gynecology,DEP085,Obstetrics & Gynecology Room 1,RM0169,BED00843,Available,EQ0085,Obstetrics & Gynecology Equipment
+HF009,Obstetrics & Gynecology,DEP085,Obstetrics & Gynecology Room 1,RM0169,BED00844,Available,EQ0085,Obstetrics & Gynecology Equipment
+HF009,Obstetrics & Gynecology,DEP085,Obstetrics & Gynecology Room 1,RM0169,BED00845,Available,EQ0085,Obstetrics & Gynecology Equipment
+HF010,Obstetrics & Gynecology,DEP095,Obstetrics & Gynecology Room 1,RM0189,BED00941,Available,EQ0095,Obstetrics & Gynecology Equipment
+HF010,Obstetrics & Gynecology,DEP095,Obstetrics & Gynecology Room 1,RM0189,BED00942,Available,EQ0095,Obstetrics & Gynecology Equipment
+HF010,Obstetrics & Gynecology,DEP095,Obstetrics & Gynecology Room 1,RM0189,BED00943,Available,EQ0095,Obstetrics & Gynecology Equipment
+HF010,Obstetrics & Gynecology,DEP095,Obstetrics & Gynecology Room 1,RM0189,BED00944,Available,EQ0095,Obstetrics & Gynecology Equipment
+HF010,Obstetrics & Gynecology,DEP095,Obstetrics & Gynecology Room 1,RM0189,BED00945,Available,EQ0095,Obstetrics & Gynecology Equipment
+HF011,Obstetrics & Gynecology,DEP105,Obstetrics & Gynecology Room 1,RM0209,BED01041,Available,EQ0105,Obstetrics & Gynecology Equipment
+HF011,Obstetrics & Gynecology,DEP105,Obstetrics & Gynecology Room 1,RM0209,BED01042,Available,EQ0105,Obstetrics & Gynecology Equipment
+HF011,Obstetrics & Gynecology,DEP105,Obstetrics & Gynecology Room 1,RM0209,BED01043,Available,EQ0105,Obstetrics & Gynecology Equipment
+HF011,Obstetrics & Gynecology,DEP105,Obstetrics & Gynecology Room 1,RM0209,BED01044,Available,EQ0105,Obstetrics & Gynecology Equipment
+HF011,Obstetrics & Gynecology,DEP105,Obstetrics & Gynecology Room 1,RM0209,BED01045,Available,EQ0105,Obstetrics & Gynecology Equipment
+HF012,Obstetrics & Gynecology,DEP115,Obstetrics & Gynecology Room 1,RM0229,BED01141,Available,EQ0115,Obstetrics & Gynecology Equipment
+HF012,Obstetrics & Gynecology,DEP115,Obstetrics & Gynecology Room 1,RM0229,BED01142,Available,EQ0115,Obstetrics & Gynecology Equipment
+HF012,Obstetrics & Gynecology,DEP115,Obstetrics & Gynecology Room 1,RM0229,BED01143,Available,EQ0115,Obstetrics & Gynecology Equipment
+HF012,Obstetrics & Gynecology,DEP115,Obstetrics & Gynecology Room 1,RM0229,BED01144,Available,EQ0115,Obstetrics & Gynecology Equipment
+HF012,Obstetrics & Gynecology,DEP115,Obstetrics & Gynecology Room 1,RM0229,BED01145,Available,EQ0115,Obstetrics & Gynecology Equipment
+HF013,Obstetrics & Gynecology,DEP125,Obstetrics & Gynecology Room 1,RM0249,BED01241,Available,EQ0125,Obstetrics & Gynecology Equipment
+HF013,Obstetrics & Gynecology,DEP125,Obstetrics & Gynecology Room 1,RM0249,BED01242,Available,EQ0125,Obstetrics & Gynecology Equipment
+HF013,Obstetrics & Gynecology,DEP125,Obstetrics & Gynecology Room 1,RM0249,BED01243,Available,EQ0125,Obstetrics & Gynecology Equipment
+HF013,Obstetrics & Gynecology,DEP125,Obstetrics & Gynecology Room 1,RM0249,BED01244,Available,EQ0125,Obstetrics & Gynecology Equipment
+HF013,Obstetrics & Gynecology,DEP125,Obstetrics & Gynecology Room 1,RM0249,BED01245,Available,EQ0125,Obstetrics & Gynecology Equipment
+HF014,Obstetrics & Gynecology,DEP135,Obstetrics & Gynecology Room 1,RM0269,BED01341,Available,EQ0135,Obstetrics & Gynecology Equipment
+HF014,Obstetrics & Gynecology,DEP135,Obstetrics & Gynecology Room 1,RM0269,BED01342,Available,EQ0135,Obstetrics & Gynecology Equipment
+HF014,Obstetrics & Gynecology,DEP135,Obstetrics & Gynecology Room 1,RM0269,BED01343,Available,EQ0135,Obstetrics & Gynecology Equipment
+HF014,Obstetrics & Gynecology,DEP135,Obstetrics & Gynecology Room 1,RM0269,BED01344,Available,EQ0135,Obstetrics & Gynecology Equipment
+HF014,Obstetrics & Gynecology,DEP135,Obstetrics & Gynecology Room 1,RM0269,BED01345,Available,EQ0135,Obstetrics & Gynecology Equipment
+HF015,Obstetrics & Gynecology,DEP145,Obstetrics & Gynecology Room 1,RM0289,BED01441,Available,EQ0145,Obstetrics & Gynecology Equipment
+HF015,Obstetrics & Gynecology,DEP145,Obstetrics & Gynecology Room 1,RM0289,BED01442,Available,EQ0145,Obstetrics & Gynecology Equipment
+HF015,Obstetrics & Gynecology,DEP145,Obstetrics & Gynecology Room 1,RM0289,BED01443,Available,EQ0145,Obstetrics & Gynecology Equipment
+HF015,Obstetrics & Gynecology,DEP145,Obstetrics & Gynecology Room 1,RM0289,BED01444,Available,EQ0145,Obstetrics & Gynecology Equipment
+HF015,Obstetrics & Gynecology,DEP145,Obstetrics & Gynecology Room 1,RM0289,BED01445,Available,EQ0145,Obstetrics & Gynecology Equipment
+HF016,Obstetrics & Gynecology,DEP155,Obstetrics & Gynecology Room 1,RM0309,BED01541,Available,EQ0155,Obstetrics & Gynecology Equipment
+HF016,Obstetrics & Gynecology,DEP155,Obstetrics & Gynecology Room 1,RM0309,BED01542,Available,EQ0155,Obstetrics & Gynecology Equipment
+HF016,Obstetrics & Gynecology,DEP155,Obstetrics & Gynecology Room 1,RM0309,BED01543,Available,EQ0155,Obstetrics & Gynecology Equipment
+HF016,Obstetrics & Gynecology,DEP155,Obstetrics & Gynecology Room 1,RM0309,BED01544,Available,EQ0155,Obstetrics & Gynecology Equipment
+HF016,Obstetrics & Gynecology,DEP155,Obstetrics & Gynecology Room 1,RM0309,BED01545,Available,EQ0155,Obstetrics & Gynecology Equipment
+HF017,Obstetrics & Gynecology,DEP165,Obstetrics & Gynecology Room 1,RM0329,BED01641,Available,EQ0165,Obstetrics & Gynecology Equipment
+HF017,Obstetrics & Gynecology,DEP165,Obstetrics & Gynecology Room 1,RM0329,BED01642,Available,EQ0165,Obstetrics & Gynecology Equipment
+HF017,Obstetrics & Gynecology,DEP165,Obstetrics & Gynecology Room 1,RM0329,BED01643,Available,EQ0165,Obstetrics & Gynecology Equipment
+HF017,Obstetrics & Gynecology,DEP165,Obstetrics & Gynecology Room 1,RM0329,BED01644,Available,EQ0165,Obstetrics & Gynecology Equipment
+HF017,Obstetrics & Gynecology,DEP165,Obstetrics & Gynecology Room 1,RM0329,BED01645,Available,EQ0165,Obstetrics & Gynecology Equipment
+HF018,Obstetrics & Gynecology,DEP175,Obstetrics & Gynecology Room 1,RM0349,BED01741,Available,EQ0175,Obstetrics & Gynecology Equipment
+HF018,Obstetrics & Gynecology,DEP175,Obstetrics & Gynecology Room 1,RM0349,BED01742,Available,EQ0175,Obstetrics & Gynecology Equipment
+HF018,Obstetrics & Gynecology,DEP175,Obstetrics & Gynecology Room 1,RM0349,BED01743,Available,EQ0175,Obstetrics & Gynecology Equipment
+HF018,Obstetrics & Gynecology,DEP175,Obstetrics & Gynecology Room 1,RM0349,BED01744,Available,EQ0175,Obstetrics & Gynecology Equipment
+HF018,Obstetrics & Gynecology,DEP175,Obstetrics & Gynecology Room 1,RM0349,BED01745,Available,EQ0175,Obstetrics & Gynecology Equipment
+HF019,Obstetrics & Gynecology,DEP185,Obstetrics & Gynecology Room 1,RM0369,BED01841,Available,EQ0185,Obstetrics & Gynecology Equipment
+HF019,Obstetrics & Gynecology,DEP185,Obstetrics & Gynecology Room 1,RM0369,BED01842,Available,EQ0185,Obstetrics & Gynecology Equipment
+HF019,Obstetrics & Gynecology,DEP185,Obstetrics & Gynecology Room 1,RM0369,BED01843,Available,EQ0185,Obstetrics & Gynecology Equipment
+HF019,Obstetrics & Gynecology,DEP185,Obstetrics & Gynecology Room 1,RM0369,BED01844,Available,EQ0185,Obstetrics & Gynecology Equipment
+HF019,Obstetrics & Gynecology,DEP185,Obstetrics & Gynecology Room 1,RM0369,BED01845,Available,EQ0185,Obstetrics & Gynecology Equipment
+HF020,Obstetrics & Gynecology,DEP195,Obstetrics & Gynecology Room 1,RM0389,BED01941,Available,EQ0195,Obstetrics & Gynecology Equipment
+HF020,Obstetrics & Gynecology,DEP195,Obstetrics & Gynecology Room 1,RM0389,BED01942,Available,EQ0195,Obstetrics & Gynecology Equipment
+HF020,Obstetrics & Gynecology,DEP195,Obstetrics & Gynecology Room 1,RM0389,BED01943,Available,EQ0195,Obstetrics & Gynecology Equipment
+HF020,Obstetrics & Gynecology,DEP195,Obstetrics & Gynecology Room 1,RM0389,BED01944,Available,EQ0195,Obstetrics & Gynecology Equipment
+HF020,Obstetrics & Gynecology,DEP195,Obstetrics & Gynecology Room 1,RM0389,BED01945,Available,EQ0195,Obstetrics & Gynecology Equipment
+HF001,Obstetrics & Gynecology,DEP005,Obstetrics & Gynecology Room 2,RM0010,BED00046,Available,EQ0005,Obstetrics & Gynecology Equipment
+HF001,Obstetrics & Gynecology,DEP005,Obstetrics & Gynecology Room 2,RM0010,BED00047,Available,EQ0005,Obstetrics & Gynecology Equipment
+HF001,Obstetrics & Gynecology,DEP005,Obstetrics & Gynecology Room 2,RM0010,BED00048,Available,EQ0005,Obstetrics & Gynecology Equipment
+HF001,Obstetrics & Gynecology,DEP005,Obstetrics & Gynecology Room 2,RM0010,BED00049,Available,EQ0005,Obstetrics & Gynecology Equipment
+HF001,Obstetrics & Gynecology,DEP005,Obstetrics & Gynecology Room 2,RM0010,BED00050,Available,EQ0005,Obstetrics & Gynecology Equipment
+HF002,Obstetrics & Gynecology,DEP015,Obstetrics & Gynecology Room 2,RM0030,BED00146,Available,EQ0015,Obstetrics & Gynecology Equipment
+HF002,Obstetrics & Gynecology,DEP015,Obstetrics & Gynecology Room 2,RM0030,BED00147,Available,EQ0015,Obstetrics & Gynecology Equipment
+HF002,Obstetrics & Gynecology,DEP015,Obstetrics & Gynecology Room 2,RM0030,BED00148,Available,EQ0015,Obstetrics & Gynecology Equipment
+HF002,Obstetrics & Gynecology,DEP015,Obstetrics & Gynecology Room 2,RM0030,BED00149,Available,EQ0015,Obstetrics & Gynecology Equipment
+HF002,Obstetrics & Gynecology,DEP015,Obstetrics & Gynecology Room 2,RM0030,BED00150,Available,EQ0015,Obstetrics & Gynecology Equipment
+HF003,Obstetrics & Gynecology,DEP025,Obstetrics & Gynecology Room 2,RM0050,BED00246,Available,EQ0025,Obstetrics & Gynecology Equipment
+HF003,Obstetrics & Gynecology,DEP025,Obstetrics & Gynecology Room 2,RM0050,BED00247,Available,EQ0025,Obstetrics & Gynecology Equipment
+HF003,Obstetrics & Gynecology,DEP025,Obstetrics & Gynecology Room 2,RM0050,BED00248,Available,EQ0025,Obstetrics & Gynecology Equipment
+HF003,Obstetrics & Gynecology,DEP025,Obstetrics & Gynecology Room 2,RM0050,BED00249,Available,EQ0025,Obstetrics & Gynecology Equipment
+HF003,Obstetrics & Gynecology,DEP025,Obstetrics & Gynecology Room 2,RM0050,BED00250,Available,EQ0025,Obstetrics & Gynecology Equipment
+HF004,Obstetrics & Gynecology,DEP035,Obstetrics & Gynecology Room 2,RM0070,BED00346,Available,EQ0035,Obstetrics & Gynecology Equipment
+HF004,Obstetrics & Gynecology,DEP035,Obstetrics & Gynecology Room 2,RM0070,BED00347,Available,EQ0035,Obstetrics & Gynecology Equipment
+HF004,Obstetrics & Gynecology,DEP035,Obstetrics & Gynecology Room 2,RM0070,BED00348,Available,EQ0035,Obstetrics & Gynecology Equipment
+HF004,Obstetrics & Gynecology,DEP035,Obstetrics & Gynecology Room 2,RM0070,BED00349,Available,EQ0035,Obstetrics & Gynecology Equipment
+HF004,Obstetrics & Gynecology,DEP035,Obstetrics & Gynecology Room 2,RM0070,BED00350,Available,EQ0035,Obstetrics & Gynecology Equipment
+HF005,Obstetrics & Gynecology,DEP045,Obstetrics & Gynecology Room 2,RM0090,BED00446,Available,EQ0045,Obstetrics & Gynecology Equipment
+HF005,Obstetrics & Gynecology,DEP045,Obstetrics & Gynecology Room 2,RM0090,BED00447,Available,EQ0045,Obstetrics & Gynecology Equipment
+HF005,Obstetrics & Gynecology,DEP045,Obstetrics & Gynecology Room 2,RM0090,BED00448,Available,EQ0045,Obstetrics & Gynecology Equipment
+HF005,Obstetrics & Gynecology,DEP045,Obstetrics & Gynecology Room 2,RM0090,BED00449,Available,EQ0045,Obstetrics & Gynecology Equipment
+HF005,Obstetrics & Gynecology,DEP045,Obstetrics & Gynecology Room 2,RM0090,BED00450,Available,EQ0045,Obstetrics & Gynecology Equipment
+HF006,Obstetrics & Gynecology,DEP055,Obstetrics & Gynecology Room 2,RM0110,BED00546,Available,EQ0055,Obstetrics & Gynecology Equipment
+HF006,Obstetrics & Gynecology,DEP055,Obstetrics & Gynecology Room 2,RM0110,BED00547,Available,EQ0055,Obstetrics & Gynecology Equipment
+HF006,Obstetrics & Gynecology,DEP055,Obstetrics & Gynecology Room 2,RM0110,BED00548,Available,EQ0055,Obstetrics & Gynecology Equipment
+HF006,Obstetrics & Gynecology,DEP055,Obstetrics & Gynecology Room 2,RM0110,BED00549,Available,EQ0055,Obstetrics & Gynecology Equipment
+HF006,Obstetrics & Gynecology,DEP055,Obstetrics & Gynecology Room 2,RM0110,BED00550,Available,EQ0055,Obstetrics & Gynecology Equipment
+HF007,Obstetrics & Gynecology,DEP065,Obstetrics & Gynecology Room 2,RM0130,BED00646,Available,EQ0065,Obstetrics & Gynecology Equipment
+HF007,Obstetrics & Gynecology,DEP065,Obstetrics & Gynecology Room 2,RM0130,BED00647,Available,EQ0065,Obstetrics & Gynecology Equipment
+HF007,Obstetrics & Gynecology,DEP065,Obstetrics & Gynecology Room 2,RM0130,BED00648,Available,EQ0065,Obstetrics & Gynecology Equipment
+HF007,Obstetrics & Gynecology,DEP065,Obstetrics & Gynecology Room 2,RM0130,BED00649,Available,EQ0065,Obstetrics & Gynecology Equipment
+HF007,Obstetrics & Gynecology,DEP065,Obstetrics & Gynecology Room 2,RM0130,BED00650,Available,EQ0065,Obstetrics & Gynecology Equipment
+HF008,Obstetrics & Gynecology,DEP075,Obstetrics & Gynecology Room 2,RM0150,BED00746,Available,EQ0075,Obstetrics & Gynecology Equipment
+HF008,Obstetrics & Gynecology,DEP075,Obstetrics & Gynecology Room 2,RM0150,BED00747,Available,EQ0075,Obstetrics & Gynecology Equipment
+HF008,Obstetrics & Gynecology,DEP075,Obstetrics & Gynecology Room 2,RM0150,BED00748,Available,EQ0075,Obstetrics & Gynecology Equipment
+HF008,Obstetrics & Gynecology,DEP075,Obstetrics & Gynecology Room 2,RM0150,BED00749,Available,EQ0075,Obstetrics & Gynecology Equipment
+HF008,Obstetrics & Gynecology,DEP075,Obstetrics & Gynecology Room 2,RM0150,BED00750,Available,EQ0075,Obstetrics & Gynecology Equipment
+HF009,Obstetrics & Gynecology,DEP085,Obstetrics & Gynecology Room 2,RM0170,BED00846,Available,EQ0085,Obstetrics & Gynecology Equipment
+HF009,Obstetrics & Gynecology,DEP085,Obstetrics & Gynecology Room 2,RM0170,BED00847,Available,EQ0085,Obstetrics & Gynecology Equipment
+HF009,Obstetrics & Gynecology,DEP085,Obstetrics & Gynecology Room 2,RM0170,BED00848,Available,EQ0085,Obstetrics & Gynecology Equipment
+HF009,Obstetrics & Gynecology,DEP085,Obstetrics & Gynecology Room 2,RM0170,BED00849,Available,EQ0085,Obstetrics & Gynecology Equipment
+HF009,Obstetrics & Gynecology,DEP085,Obstetrics & Gynecology Room 2,RM0170,BED00850,Available,EQ0085,Obstetrics & Gynecology Equipment
+HF010,Obstetrics & Gynecology,DEP095,Obstetrics & Gynecology Room 2,RM0190,BED00946,Available,EQ0095,Obstetrics & Gynecology Equipment
+HF010,Obstetrics & Gynecology,DEP095,Obstetrics & Gynecology Room 2,RM0190,BED00947,Available,EQ0095,Obstetrics & Gynecology Equipment
+HF010,Obstetrics & Gynecology,DEP095,Obstetrics & Gynecology Room 2,RM0190,BED00948,Available,EQ0095,Obstetrics & Gynecology Equipment
+HF010,Obstetrics & Gynecology,DEP095,Obstetrics & Gynecology Room 2,RM0190,BED00949,Available,EQ0095,Obstetrics & Gynecology Equipment
+HF010,Obstetrics & Gynecology,DEP095,Obstetrics & Gynecology Room 2,RM0190,BED00950,Available,EQ0095,Obstetrics & Gynecology Equipment
+HF011,Obstetrics & Gynecology,DEP105,Obstetrics & Gynecology Room 2,RM0210,BED01046,Available,EQ0105,Obstetrics & Gynecology Equipment
+HF011,Obstetrics & Gynecology,DEP105,Obstetrics & Gynecology Room 2,RM0210,BED01047,Available,EQ0105,Obstetrics & Gynecology Equipment
+HF011,Obstetrics & Gynecology,DEP105,Obstetrics & Gynecology Room 2,RM0210,BED01048,Available,EQ0105,Obstetrics & Gynecology Equipment
+HF011,Obstetrics & Gynecology,DEP105,Obstetrics & Gynecology Room 2,RM0210,BED01049,Available,EQ0105,Obstetrics & Gynecology Equipment
+HF011,Obstetrics & Gynecology,DEP105,Obstetrics & Gynecology Room 2,RM0210,BED01050,Available,EQ0105,Obstetrics & Gynecology Equipment
+HF012,Obstetrics & Gynecology,DEP115,Obstetrics & Gynecology Room 2,RM0230,BED01146,Available,EQ0115,Obstetrics & Gynecology Equipment
+HF012,Obstetrics & Gynecology,DEP115,Obstetrics & Gynecology Room 2,RM0230,BED01147,Available,EQ0115,Obstetrics & Gynecology Equipment
+HF012,Obstetrics & Gynecology,DEP115,Obstetrics & Gynecology Room 2,RM0230,BED01148,Available,EQ0115,Obstetrics & Gynecology Equipment
+HF012,Obstetrics & Gynecology,DEP115,Obstetrics & Gynecology Room 2,RM0230,BED01149,Available,EQ0115,Obstetrics & Gynecology Equipment
+HF012,Obstetrics & Gynecology,DEP115,Obstetrics & Gynecology Room 2,RM0230,BED01150,Available,EQ0115,Obstetrics & Gynecology Equipment
+HF013,Obstetrics & Gynecology,DEP125,Obstetrics & Gynecology Room 2,RM0250,BED01246,Available,EQ0125,Obstetrics & Gynecology Equipment
+HF013,Obstetrics & Gynecology,DEP125,Obstetrics & Gynecology Room 2,RM0250,BED01247,Available,EQ0125,Obstetrics & Gynecology Equipment
+HF013,Obstetrics & Gynecology,DEP125,Obstetrics & Gynecology Room 2,RM0250,BED01248,Available,EQ0125,Obstetrics & Gynecology Equipment
+HF013,Obstetrics & Gynecology,DEP125,Obstetrics & Gynecology Room 2,RM0250,BED01249,Available,EQ0125,Obstetrics & Gynecology Equipment
+HF013,Obstetrics & Gynecology,DEP125,Obstetrics & Gynecology Room 2,RM0250,BED01250,Available,EQ0125,Obstetrics & Gynecology Equipment
+HF014,Obstetrics & Gynecology,DEP135,Obstetrics & Gynecology Room 2,RM0270,BED01346,Available,EQ0135,Obstetrics & Gynecology Equipment
+HF014,Obstetrics & Gynecology,DEP135,Obstetrics & Gynecology Room 2,RM0270,BED01347,Available,EQ0135,Obstetrics & Gynecology Equipment
+HF014,Obstetrics & Gynecology,DEP135,Obstetrics & Gynecology Room 2,RM0270,BED01348,Available,EQ0135,Obstetrics & Gynecology Equipment
+HF014,Obstetrics & Gynecology,DEP135,Obstetrics & Gynecology Room 2,RM0270,BED01349,Available,EQ0135,Obstetrics & Gynecology Equipment
+HF014,Obstetrics & Gynecology,DEP135,Obstetrics & Gynecology Room 2,RM0270,BED01350,Available,EQ0135,Obstetrics & Gynecology Equipment
+HF015,Obstetrics & Gynecology,DEP145,Obstetrics & Gynecology Room 2,RM0290,BED01446,Available,EQ0145,Obstetrics & Gynecology Equipment
+HF015,Obstetrics & Gynecology,DEP145,Obstetrics & Gynecology Room 2,RM0290,BED01447,Available,EQ0145,Obstetrics & Gynecology Equipment
+HF015,Obstetrics & Gynecology,DEP145,Obstetrics & Gynecology Room 2,RM0290,BED01448,Available,EQ0145,Obstetrics & Gynecology Equipment
+HF015,Obstetrics & Gynecology,DEP145,Obstetrics & Gynecology Room 2,RM0290,BED01449,Available,EQ0145,Obstetrics & Gynecology Equipment
+HF015,Obstetrics & Gynecology,DEP145,Obstetrics & Gynecology Room 2,RM0290,BED01450,Available,EQ0145,Obstetrics & Gynecology Equipment
+HF016,Obstetrics & Gynecology,DEP155,Obstetrics & Gynecology Room 2,RM0310,BED01546,Available,EQ0155,Obstetrics & Gynecology Equipment
+HF016,Obstetrics & Gynecology,DEP155,Obstetrics & Gynecology Room 2,RM0310,BED01547,Available,EQ0155,Obstetrics & Gynecology Equipment
+HF016,Obstetrics & Gynecology,DEP155,Obstetrics & Gynecology Room 2,RM0310,BED01548,Available,EQ0155,Obstetrics & Gynecology Equipment
+HF016,Obstetrics & Gynecology,DEP155,Obstetrics & Gynecology Room 2,RM0310,BED01549,Available,EQ0155,Obstetrics & Gynecology Equipment
+HF016,Obstetrics & Gynecology,DEP155,Obstetrics & Gynecology Room 2,RM0310,BED01550,Available,EQ0155,Obstetrics & Gynecology Equipment
+HF017,Obstetrics & Gynecology,DEP165,Obstetrics & Gynecology Room 2,RM0330,BED01646,Available,EQ0165,Obstetrics & Gynecology Equipment
+HF017,Obstetrics & Gynecology,DEP165,Obstetrics & Gynecology Room 2,RM0330,BED01647,Available,EQ0165,Obstetrics & Gynecology Equipment
+HF017,Obstetrics & Gynecology,DEP165,Obstetrics & Gynecology Room 2,RM0330,BED01648,Available,EQ0165,Obstetrics & Gynecology Equipment
+HF017,Obstetrics & Gynecology,DEP165,Obstetrics & Gynecology Room 2,RM0330,BED01649,Available,EQ0165,Obstetrics & Gynecology Equipment
+HF017,Obstetrics & Gynecology,DEP165,Obstetrics & Gynecology Room 2,RM0330,BED01650,Available,EQ0165,Obstetrics & Gynecology Equipment
+HF018,Obstetrics & Gynecology,DEP175,Obstetrics & Gynecology Room 2,RM0350,BED01746,Available,EQ0175,Obstetrics & Gynecology Equipment
+HF018,Obstetrics & Gynecology,DEP175,Obstetrics & Gynecology Room 2,RM0350,BED01747,Available,EQ0175,Obstetrics & Gynecology Equipment
+HF018,Obstetrics & Gynecology,DEP175,Obstetrics & Gynecology Room 2,RM0350,BED01748,Available,EQ0175,Obstetrics & Gynecology Equipment
+HF018,Obstetrics & Gynecology,DEP175,Obstetrics & Gynecology Room 2,RM0350,BED01749,Available,EQ0175,Obstetrics & Gynecology Equipment
+HF018,Obstetrics & Gynecology,DEP175,Obstetrics & Gynecology Room 2,RM0350,BED01750,Available,EQ0175,Obstetrics & Gynecology Equipment
+HF019,Obstetrics & Gynecology,DEP185,Obstetrics & Gynecology Room 2,RM0370,BED01846,Available,EQ0185,Obstetrics & Gynecology Equipment
+HF019,Obstetrics & Gynecology,DEP185,Obstetrics & Gynecology Room 2,RM0370,BED01847,Available,EQ0185,Obstetrics & Gynecology Equipment
+HF019,Obstetrics & Gynecology,DEP185,Obstetrics & Gynecology Room 2,RM0370,BED01848,Available,EQ0185,Obstetrics & Gynecology Equipment
+HF019,Obstetrics & Gynecology,DEP185,Obstetrics & Gynecology Room 2,RM0370,BED01849,Available,EQ0185,Obstetrics & Gynecology Equipment
+HF019,Obstetrics & Gynecology,DEP185,Obstetrics & Gynecology Room 2,RM0370,BED01850,Available,EQ0185,Obstetrics & Gynecology Equipment
+HF020,Obstetrics & Gynecology,DEP195,Obstetrics & Gynecology Room 2,RM0390,BED01946,Available,EQ0195,Obstetrics & Gynecology Equipment
+HF020,Obstetrics & Gynecology,DEP195,Obstetrics & Gynecology Room 2,RM0390,BED01947,Available,EQ0195,Obstetrics & Gynecology Equipment
+HF020,Obstetrics & Gynecology,DEP195,Obstetrics & Gynecology Room 2,RM0390,BED01948,Available,EQ0195,Obstetrics & Gynecology Equipment
+HF020,Obstetrics & Gynecology,DEP195,Obstetrics & Gynecology Room 2,RM0390,BED01949,Available,EQ0195,Obstetrics & Gynecology Equipment
+HF020,Obstetrics & Gynecology,DEP195,Obstetrics & Gynecology Room 2,RM0390,BED01950,Available,EQ0195,Obstetrics & Gynecology Equipment
+HF001,Radiology,DEP006,Radiology Room 2,RM0012,BED00056,Available,EQ0006,Radiology Equipment
+HF001,Radiology,DEP006,Radiology Room 2,RM0012,BED00057,Available,EQ0006,Radiology Equipment
+HF001,Radiology,DEP006,Radiology Room 2,RM0012,BED00058,Available,EQ0006,Radiology Equipment
+HF001,Radiology,DEP006,Radiology Room 2,RM0012,BED00059,Available,EQ0006,Radiology Equipment
+HF001,Radiology,DEP006,Radiology Room 2,RM0012,BED00060,Available,EQ0006,Radiology Equipment
+HF002,Radiology,DEP016,Radiology Room 2,RM0032,BED00156,Available,EQ0016,Radiology Equipment
+HF002,Radiology,DEP016,Radiology Room 2,RM0032,BED00157,Available,EQ0016,Radiology Equipment
+HF002,Radiology,DEP016,Radiology Room 2,RM0032,BED00158,Available,EQ0016,Radiology Equipment
+HF002,Radiology,DEP016,Radiology Room 2,RM0032,BED00159,Available,EQ0016,Radiology Equipment
+HF002,Radiology,DEP016,Radiology Room 2,RM0032,BED00160,Available,EQ0016,Radiology Equipment
+HF003,Radiology,DEP026,Radiology Room 2,RM0052,BED00256,Available,EQ0026,Radiology Equipment
+HF003,Radiology,DEP026,Radiology Room 2,RM0052,BED00257,Available,EQ0026,Radiology Equipment
+HF003,Radiology,DEP026,Radiology Room 2,RM0052,BED00258,Available,EQ0026,Radiology Equipment
+HF003,Radiology,DEP026,Radiology Room 2,RM0052,BED00259,Available,EQ0026,Radiology Equipment
+HF003,Radiology,DEP026,Radiology Room 2,RM0052,BED00260,Available,EQ0026,Radiology Equipment
+HF004,Radiology,DEP036,Radiology Room 2,RM0072,BED00356,Available,EQ0036,Radiology Equipment
+HF004,Radiology,DEP036,Radiology Room 2,RM0072,BED00357,Available,EQ0036,Radiology Equipment
+HF004,Radiology,DEP036,Radiology Room 2,RM0072,BED00358,Available,EQ0036,Radiology Equipment
+HF004,Radiology,DEP036,Radiology Room 2,RM0072,BED00359,Available,EQ0036,Radiology Equipment
+HF004,Radiology,DEP036,Radiology Room 2,RM0072,BED00360,Available,EQ0036,Radiology Equipment
+HF005,Radiology,DEP046,Radiology Room 2,RM0092,BED00456,Available,EQ0046,Radiology Equipment
+HF005,Radiology,DEP046,Radiology Room 2,RM0092,BED00457,Available,EQ0046,Radiology Equipment
+HF005,Radiology,DEP046,Radiology Room 2,RM0092,BED00458,Available,EQ0046,Radiology Equipment
+HF005,Radiology,DEP046,Radiology Room 2,RM0092,BED00459,Available,EQ0046,Radiology Equipment
+HF005,Radiology,DEP046,Radiology Room 2,RM0092,BED00460,Available,EQ0046,Radiology Equipment
+HF006,Radiology,DEP056,Radiology Room 2,RM0112,BED00556,Available,EQ0056,Radiology Equipment
+HF006,Radiology,DEP056,Radiology Room 2,RM0112,BED00557,Available,EQ0056,Radiology Equipment
+HF006,Radiology,DEP056,Radiology Room 2,RM0112,BED00558,Available,EQ0056,Radiology Equipment
+HF006,Radiology,DEP056,Radiology Room 2,RM0112,BED00559,Available,EQ0056,Radiology Equipment
+HF006,Radiology,DEP056,Radiology Room 2,RM0112,BED00560,Available,EQ0056,Radiology Equipment
+HF007,Radiology,DEP066,Radiology Room 2,RM0132,BED00656,Available,EQ0066,Radiology Equipment
+HF007,Radiology,DEP066,Radiology Room 2,RM0132,BED00657,Available,EQ0066,Radiology Equipment
+HF007,Radiology,DEP066,Radiology Room 2,RM0132,BED00658,Available,EQ0066,Radiology Equipment
+HF007,Radiology,DEP066,Radiology Room 2,RM0132,BED00659,Available,EQ0066,Radiology Equipment
+HF007,Radiology,DEP066,Radiology Room 2,RM0132,BED00660,Available,EQ0066,Radiology Equipment
+HF008,Radiology,DEP076,Radiology Room 2,RM0152,BED00756,Available,EQ0076,Radiology Equipment
+HF008,Radiology,DEP076,Radiology Room 2,RM0152,BED00757,Available,EQ0076,Radiology Equipment
+HF008,Radiology,DEP076,Radiology Room 2,RM0152,BED00758,Available,EQ0076,Radiology Equipment
+HF008,Radiology,DEP076,Radiology Room 2,RM0152,BED00759,Available,EQ0076,Radiology Equipment
+HF008,Radiology,DEP076,Radiology Room 2,RM0152,BED00760,Available,EQ0076,Radiology Equipment
+HF009,Radiology,DEP086,Radiology Room 2,RM0172,BED00856,Available,EQ0086,Radiology Equipment
+HF009,Radiology,DEP086,Radiology Room 2,RM0172,BED00857,Available,EQ0086,Radiology Equipment
+HF009,Radiology,DEP086,Radiology Room 2,RM0172,BED00858,Available,EQ0086,Radiology Equipment
+HF009,Radiology,DEP086,Radiology Room 2,RM0172,BED00859,Available,EQ0086,Radiology Equipment
+HF009,Radiology,DEP086,Radiology Room 2,RM0172,BED00860,Available,EQ0086,Radiology Equipment
+HF010,Radiology,DEP096,Radiology Room 2,RM0192,BED00956,Available,EQ0096,Radiology Equipment
+HF010,Radiology,DEP096,Radiology Room 2,RM0192,BED00957,Available,EQ0096,Radiology Equipment
+HF010,Radiology,DEP096,Radiology Room 2,RM0192,BED00958,Available,EQ0096,Radiology Equipment
+HF010,Radiology,DEP096,Radiology Room 2,RM0192,BED00959,Available,EQ0096,Radiology Equipment
+HF010,Radiology,DEP096,Radiology Room 2,RM0192,BED00960,Available,EQ0096,Radiology Equipment
+HF011,Radiology,DEP106,Radiology Room 2,RM0212,BED01056,Available,EQ0106,Radiology Equipment
+HF011,Radiology,DEP106,Radiology Room 2,RM0212,BED01057,Available,EQ0106,Radiology Equipment
+HF011,Radiology,DEP106,Radiology Room 2,RM0212,BED01058,Available,EQ0106,Radiology Equipment
+HF011,Radiology,DEP106,Radiology Room 2,RM0212,BED01059,Available,EQ0106,Radiology Equipment
+HF011,Radiology,DEP106,Radiology Room 2,RM0212,BED01060,Available,EQ0106,Radiology Equipment
+HF012,Radiology,DEP116,Radiology Room 2,RM0232,BED01156,Available,EQ0116,Radiology Equipment
+HF012,Radiology,DEP116,Radiology Room 2,RM0232,BED01157,Available,EQ0116,Radiology Equipment
+HF012,Radiology,DEP116,Radiology Room 2,RM0232,BED01158,Available,EQ0116,Radiology Equipment
+HF012,Radiology,DEP116,Radiology Room 2,RM0232,BED01159,Available,EQ0116,Radiology Equipment
+HF012,Radiology,DEP116,Radiology Room 2,RM0232,BED01160,Available,EQ0116,Radiology Equipment
+HF013,Radiology,DEP126,Radiology Room 2,RM0252,BED01256,Available,EQ0126,Radiology Equipment
+HF013,Radiology,DEP126,Radiology Room 2,RM0252,BED01257,Available,EQ0126,Radiology Equipment
+HF013,Radiology,DEP126,Radiology Room 2,RM0252,BED01258,Available,EQ0126,Radiology Equipment
+HF013,Radiology,DEP126,Radiology Room 2,RM0252,BED01259,Available,EQ0126,Radiology Equipment
+HF013,Radiology,DEP126,Radiology Room 2,RM0252,BED01260,Available,EQ0126,Radiology Equipment
+HF014,Radiology,DEP136,Radiology Room 2,RM0272,BED01356,Available,EQ0136,Radiology Equipment
+HF014,Radiology,DEP136,Radiology Room 2,RM0272,BED01357,Available,EQ0136,Radiology Equipment
+HF014,Radiology,DEP136,Radiology Room 2,RM0272,BED01358,Available,EQ0136,Radiology Equipment
+HF014,Radiology,DEP136,Radiology Room 2,RM0272,BED01359,Available,EQ0136,Radiology Equipment
+HF014,Radiology,DEP136,Radiology Room 2,RM0272,BED01360,Available,EQ0136,Radiology Equipment
+HF015,Radiology,DEP146,Radiology Room 2,RM0292,BED01456,Available,EQ0146,Radiology Equipment
+HF015,Radiology,DEP146,Radiology Room 2,RM0292,BED01457,Available,EQ0146,Radiology Equipment
+HF015,Radiology,DEP146,Radiology Room 2,RM0292,BED01458,Available,EQ0146,Radiology Equipment
+HF015,Radiology,DEP146,Radiology Room 2,RM0292,BED01459,Available,EQ0146,Radiology Equipment
+HF015,Radiology,DEP146,Radiology Room 2,RM0292,BED01460,Available,EQ0146,Radiology Equipment
+HF016,Radiology,DEP156,Radiology Room 2,RM0312,BED01556,Available,EQ0156,Radiology Equipment
+HF016,Radiology,DEP156,Radiology Room 2,RM0312,BED01557,Available,EQ0156,Radiology Equipment
+HF016,Radiology,DEP156,Radiology Room 2,RM0312,BED01558,Available,EQ0156,Radiology Equipment
+HF016,Radiology,DEP156,Radiology Room 2,RM0312,BED01559,Available,EQ0156,Radiology Equipment
+HF016,Radiology,DEP156,Radiology Room 2,RM0312,BED01560,Available,EQ0156,Radiology Equipment
+HF017,Radiology,DEP166,Radiology Room 2,RM0332,BED01656,Available,EQ0166,Radiology Equipment
+HF017,Radiology,DEP166,Radiology Room 2,RM0332,BED01657,Available,EQ0166,Radiology Equipment
+HF017,Radiology,DEP166,Radiology Room 2,RM0332,BED01658,Available,EQ0166,Radiology Equipment
+HF017,Radiology,DEP166,Radiology Room 2,RM0332,BED01659,Available,EQ0166,Radiology Equipment
+HF017,Radiology,DEP166,Radiology Room 2,RM0332,BED01660,Available,EQ0166,Radiology Equipment
+HF018,Radiology,DEP176,Radiology Room 2,RM0352,BED01756,Available,EQ0176,Radiology Equipment
+HF018,Radiology,DEP176,Radiology Room 2,RM0352,BED01757,Available,EQ0176,Radiology Equipment
+HF018,Radiology,DEP176,Radiology Room 2,RM0352,BED01758,Available,EQ0176,Radiology Equipment
+HF018,Radiology,DEP176,Radiology Room 2,RM0352,BED01759,Available,EQ0176,Radiology Equipment
+HF018,Radiology,DEP176,Radiology Room 2,RM0352,BED01760,Available,EQ0176,Radiology Equipment
+HF019,Radiology,DEP186,Radiology Room 2,RM0372,BED01856,Available,EQ0186,Radiology Equipment
+HF019,Radiology,DEP186,Radiology Room 2,RM0372,BED01857,Available,EQ0186,Radiology Equipment
+HF019,Radiology,DEP186,Radiology Room 2,RM0372,BED01858,Available,EQ0186,Radiology Equipment
+HF019,Radiology,DEP186,Radiology Room 2,RM0372,BED01859,Available,EQ0186,Radiology Equipment
+HF019,Radiology,DEP186,Radiology Room 2,RM0372,BED01860,Available,EQ0186,Radiology Equipment
+HF020,Radiology,DEP196,Radiology Room 2,RM0392,BED01956,Available,EQ0196,Radiology Equipment
+HF020,Radiology,DEP196,Radiology Room 2,RM0392,BED01957,Available,EQ0196,Radiology Equipment
+HF020,Radiology,DEP196,Radiology Room 2,RM0392,BED01958,Available,EQ0196,Radiology Equipment
+HF020,Radiology,DEP196,Radiology Room 2,RM0392,BED01959,Available,EQ0196,Radiology Equipment
+HF020,Radiology,DEP196,Radiology Room 2,RM0392,BED01960,Available,EQ0196,Radiology Equipment
+HF001,Radiology,DEP006,Radiology Room 1,RM0011,BED00051,Available,EQ0006,Radiology Equipment
+HF001,Radiology,DEP006,Radiology Room 1,RM0011,BED00052,Available,EQ0006,Radiology Equipment
+HF001,Radiology,DEP006,Radiology Room 1,RM0011,BED00053,Available,EQ0006,Radiology Equipment
+HF001,Radiology,DEP006,Radiology Room 1,RM0011,BED00054,Available,EQ0006,Radiology Equipment
+HF001,Radiology,DEP006,Radiology Room 1,RM0011,BED00055,Available,EQ0006,Radiology Equipment
+HF002,Radiology,DEP016,Radiology Room 1,RM0031,BED00151,Available,EQ0016,Radiology Equipment
+HF002,Radiology,DEP016,Radiology Room 1,RM0031,BED00152,Available,EQ0016,Radiology Equipment
+HF002,Radiology,DEP016,Radiology Room 1,RM0031,BED00153,Available,EQ0016,Radiology Equipment
+HF002,Radiology,DEP016,Radiology Room 1,RM0031,BED00154,Available,EQ0016,Radiology Equipment
+HF002,Radiology,DEP016,Radiology Room 1,RM0031,BED00155,Available,EQ0016,Radiology Equipment
+HF003,Radiology,DEP026,Radiology Room 1,RM0051,BED00251,Available,EQ0026,Radiology Equipment
+HF003,Radiology,DEP026,Radiology Room 1,RM0051,BED00252,Available,EQ0026,Radiology Equipment
+HF003,Radiology,DEP026,Radiology Room 1,RM0051,BED00253,Available,EQ0026,Radiology Equipment
+HF003,Radiology,DEP026,Radiology Room 1,RM0051,BED00254,Available,EQ0026,Radiology Equipment
+HF003,Radiology,DEP026,Radiology Room 1,RM0051,BED00255,Available,EQ0026,Radiology Equipment
+HF004,Radiology,DEP036,Radiology Room 1,RM0071,BED00351,Available,EQ0036,Radiology Equipment
+HF004,Radiology,DEP036,Radiology Room 1,RM0071,BED00352,Available,EQ0036,Radiology Equipment
+HF004,Radiology,DEP036,Radiology Room 1,RM0071,BED00353,Available,EQ0036,Radiology Equipment
+HF004,Radiology,DEP036,Radiology Room 1,RM0071,BED00354,Available,EQ0036,Radiology Equipment
+HF004,Radiology,DEP036,Radiology Room 1,RM0071,BED00355,Available,EQ0036,Radiology Equipment
+HF005,Radiology,DEP046,Radiology Room 1,RM0091,BED00451,Available,EQ0046,Radiology Equipment
+HF005,Radiology,DEP046,Radiology Room 1,RM0091,BED00452,Available,EQ0046,Radiology Equipment
+HF005,Radiology,DEP046,Radiology Room 1,RM0091,BED00453,Available,EQ0046,Radiology Equipment
+HF005,Radiology,DEP046,Radiology Room 1,RM0091,BED00454,Available,EQ0046,Radiology Equipment
+HF005,Radiology,DEP046,Radiology Room 1,RM0091,BED00455,Available,EQ0046,Radiology Equipment
+HF006,Radiology,DEP056,Radiology Room 1,RM0111,BED00551,Available,EQ0056,Radiology Equipment
+HF006,Radiology,DEP056,Radiology Room 1,RM0111,BED00552,Available,EQ0056,Radiology Equipment
+HF006,Radiology,DEP056,Radiology Room 1,RM0111,BED00553,Available,EQ0056,Radiology Equipment
+HF006,Radiology,DEP056,Radiology Room 1,RM0111,BED00554,Available,EQ0056,Radiology Equipment
+HF006,Radiology,DEP056,Radiology Room 1,RM0111,BED00555,Available,EQ0056,Radiology Equipment
+HF007,Radiology,DEP066,Radiology Room 1,RM0131,BED00651,Available,EQ0066,Radiology Equipment
+HF007,Radiology,DEP066,Radiology Room 1,RM0131,BED00652,Available,EQ0066,Radiology Equipment
+HF007,Radiology,DEP066,Radiology Room 1,RM0131,BED00653,Available,EQ0066,Radiology Equipment
+HF007,Radiology,DEP066,Radiology Room 1,RM0131,BED00654,Available,EQ0066,Radiology Equipment
+HF007,Radiology,DEP066,Radiology Room 1,RM0131,BED00655,Available,EQ0066,Radiology Equipment
+HF008,Radiology,DEP076,Radiology Room 1,RM0151,BED00751,Available,EQ0076,Radiology Equipment
+HF008,Radiology,DEP076,Radiology Room 1,RM0151,BED00752,Available,EQ0076,Radiology Equipment
+HF008,Radiology,DEP076,Radiology Room 1,RM0151,BED00753,Available,EQ0076,Radiology Equipment
+HF008,Radiology,DEP076,Radiology Room 1,RM0151,BED00754,Available,EQ0076,Radiology Equipment
+HF008,Radiology,DEP076,Radiology Room 1,RM0151,BED00755,Available,EQ0076,Radiology Equipment
+HF009,Radiology,DEP086,Radiology Room 1,RM0171,BED00851,Available,EQ0086,Radiology Equipment
+HF009,Radiology,DEP086,Radiology Room 1,RM0171,BED00852,Available,EQ0086,Radiology Equipment
+HF009,Radiology,DEP086,Radiology Room 1,RM0171,BED00853,Available,EQ0086,Radiology Equipment
+HF009,Radiology,DEP086,Radiology Room 1,RM0171,BED00854,Available,EQ0086,Radiology Equipment
+HF009,Radiology,DEP086,Radiology Room 1,RM0171,BED00855,Available,EQ0086,Radiology Equipment
+HF010,Radiology,DEP096,Radiology Room 1,RM0191,BED00951,Available,EQ0096,Radiology Equipment
+HF010,Radiology,DEP096,Radiology Room 1,RM0191,BED00952,Available,EQ0096,Radiology Equipment
+HF010,Radiology,DEP096,Radiology Room 1,RM0191,BED00953,Available,EQ0096,Radiology Equipment
+HF010,Radiology,DEP096,Radiology Room 1,RM0191,BED00954,Available,EQ0096,Radiology Equipment
+HF010,Radiology,DEP096,Radiology Room 1,RM0191,BED00955,Available,EQ0096,Radiology Equipment
+HF011,Radiology,DEP106,Radiology Room 1,RM0211,BED01051,Available,EQ0106,Radiology Equipment
+HF011,Radiology,DEP106,Radiology Room 1,RM0211,BED01052,Available,EQ0106,Radiology Equipment
+HF011,Radiology,DEP106,Radiology Room 1,RM0211,BED01053,Available,EQ0106,Radiology Equipment
+HF011,Radiology,DEP106,Radiology Room 1,RM0211,BED01054,Available,EQ0106,Radiology Equipment
+HF011,Radiology,DEP106,Radiology Room 1,RM0211,BED01055,Available,EQ0106,Radiology Equipment
+HF012,Radiology,DEP116,Radiology Room 1,RM0231,BED01151,Available,EQ0116,Radiology Equipment
+HF012,Radiology,DEP116,Radiology Room 1,RM0231,BED01152,Available,EQ0116,Radiology Equipment
+HF012,Radiology,DEP116,Radiology Room 1,RM0231,BED01153,Available,EQ0116,Radiology Equipment
+HF012,Radiology,DEP116,Radiology Room 1,RM0231,BED01154,Available,EQ0116,Radiology Equipment
+HF012,Radiology,DEP116,Radiology Room 1,RM0231,BED01155,Available,EQ0116,Radiology Equipment
+HF013,Radiology,DEP126,Radiology Room 1,RM0251,BED01251,Available,EQ0126,Radiology Equipment
+HF013,Radiology,DEP126,Radiology Room 1,RM0251,BED01252,Available,EQ0126,Radiology Equipment
+HF013,Radiology,DEP126,Radiology Room 1,RM0251,BED01253,Available,EQ0126,Radiology Equipment
+HF013,Radiology,DEP126,Radiology Room 1,RM0251,BED01254,Available,EQ0126,Radiology Equipment
+HF013,Radiology,DEP126,Radiology Room 1,RM0251,BED01255,Available,EQ0126,Radiology Equipment
+HF014,Radiology,DEP136,Radiology Room 1,RM0271,BED01351,Available,EQ0136,Radiology Equipment
+HF014,Radiology,DEP136,Radiology Room 1,RM0271,BED01352,Available,EQ0136,Radiology Equipment
+HF014,Radiology,DEP136,Radiology Room 1,RM0271,BED01353,Available,EQ0136,Radiology Equipment
+HF014,Radiology,DEP136,Radiology Room 1,RM0271,BED01354,Available,EQ0136,Radiology Equipment
+HF014,Radiology,DEP136,Radiology Room 1,RM0271,BED01355,Available,EQ0136,Radiology Equipment
+HF015,Radiology,DEP146,Radiology Room 1,RM0291,BED01451,Available,EQ0146,Radiology Equipment
+HF015,Radiology,DEP146,Radiology Room 1,RM0291,BED01452,Available,EQ0146,Radiology Equipment
+HF015,Radiology,DEP146,Radiology Room 1,RM0291,BED01453,Available,EQ0146,Radiology Equipment
+HF015,Radiology,DEP146,Radiology Room 1,RM0291,BED01454,Available,EQ0146,Radiology Equipment
+HF015,Radiology,DEP146,Radiology Room 1,RM0291,BED01455,Available,EQ0146,Radiology Equipment
+HF016,Radiology,DEP156,Radiology Room 1,RM0311,BED01551,Available,EQ0156,Radiology Equipment
+HF016,Radiology,DEP156,Radiology Room 1,RM0311,BED01552,Available,EQ0156,Radiology Equipment
+HF016,Radiology,DEP156,Radiology Room 1,RM0311,BED01553,Available,EQ0156,Radiology Equipment
+HF016,Radiology,DEP156,Radiology Room 1,RM0311,BED01554,Available,EQ0156,Radiology Equipment
+HF016,Radiology,DEP156,Radiology Room 1,RM0311,BED01555,Available,EQ0156,Radiology Equipment
+HF017,Radiology,DEP166,Radiology Room 1,RM0331,BED01651,Available,EQ0166,Radiology Equipment
+HF017,Radiology,DEP166,Radiology Room 1,RM0331,BED01652,Available,EQ0166,Radiology Equipment
+HF017,Radiology,DEP166,Radiology Room 1,RM0331,BED01653,Available,EQ0166,Radiology Equipment
+HF017,Radiology,DEP166,Radiology Room 1,RM0331,BED01654,Available,EQ0166,Radiology Equipment
+HF017,Radiology,DEP166,Radiology Room 1,RM0331,BED01655,Available,EQ0166,Radiology Equipment
+HF018,Radiology,DEP176,Radiology Room 1,RM0351,BED01751,Available,EQ0176,Radiology Equipment
+HF018,Radiology,DEP176,Radiology Room 1,RM0351,BED01752,Available,EQ0176,Radiology Equipment
+HF018,Radiology,DEP176,Radiology Room 1,RM0351,BED01753,Available,EQ0176,Radiology Equipment
+HF018,Radiology,DEP176,Radiology Room 1,RM0351,BED01754,Available,EQ0176,Radiology Equipment
+HF018,Radiology,DEP176,Radiology Room 1,RM0351,BED01755,Available,EQ0176,Radiology Equipment
+HF019,Radiology,DEP186,Radiology Room 1,RM0371,BED01851,Available,EQ0186,Radiology Equipment
+HF019,Radiology,DEP186,Radiology Room 1,RM0371,BED01852,Available,EQ0186,Radiology Equipment
+HF019,Radiology,DEP186,Radiology Room 1,RM0371,BED01853,Available,EQ0186,Radiology Equipment
+HF019,Radiology,DEP186,Radiology Room 1,RM0371,BED01854,Available,EQ0186,Radiology Equipment
+HF019,Radiology,DEP186,Radiology Room 1,RM0371,BED01855,Available,EQ0186,Radiology Equipment
+HF020,Radiology,DEP196,Radiology Room 1,RM0391,BED01951,Available,EQ0196,Radiology Equipment
+HF020,Radiology,DEP196,Radiology Room 1,RM0391,BED01952,Available,EQ0196,Radiology Equipment
+HF020,Radiology,DEP196,Radiology Room 1,RM0391,BED01953,Available,EQ0196,Radiology Equipment
+HF020,Radiology,DEP196,Radiology Room 1,RM0391,BED01954,Available,EQ0196,Radiology Equipment
+HF020,Radiology,DEP196,Radiology Room 1,RM0391,BED01955,Available,EQ0196,Radiology Equipment
+HF001,Laboratory,DEP007,Laboratory Room 1,RM0013,BED00061,Available,EQ0007,Laboratory Equipment
+HF001,Laboratory,DEP007,Laboratory Room 1,RM0013,BED00062,Available,EQ0007,Laboratory Equipment
+HF001,Laboratory,DEP007,Laboratory Room 1,RM0013,BED00063,Available,EQ0007,Laboratory Equipment
+HF001,Laboratory,DEP007,Laboratory Room 1,RM0013,BED00064,Available,EQ0007,Laboratory Equipment
+HF001,Laboratory,DEP007,Laboratory Room 1,RM0013,BED00065,Available,EQ0007,Laboratory Equipment
+HF002,Laboratory,DEP017,Laboratory Room 1,RM0033,BED00161,Available,EQ0017,Laboratory Equipment
+HF002,Laboratory,DEP017,Laboratory Room 1,RM0033,BED00162,Available,EQ0017,Laboratory Equipment
+HF002,Laboratory,DEP017,Laboratory Room 1,RM0033,BED00163,Available,EQ0017,Laboratory Equipment
+HF002,Laboratory,DEP017,Laboratory Room 1,RM0033,BED00164,Available,EQ0017,Laboratory Equipment
+HF002,Laboratory,DEP017,Laboratory Room 1,RM0033,BED00165,Available,EQ0017,Laboratory Equipment
+HF003,Laboratory,DEP027,Laboratory Room 1,RM0053,BED00261,Available,EQ0027,Laboratory Equipment
+HF003,Laboratory,DEP027,Laboratory Room 1,RM0053,BED00262,Available,EQ0027,Laboratory Equipment
+HF003,Laboratory,DEP027,Laboratory Room 1,RM0053,BED00263,Available,EQ0027,Laboratory Equipment
+HF003,Laboratory,DEP027,Laboratory Room 1,RM0053,BED00264,Available,EQ0027,Laboratory Equipment
+HF003,Laboratory,DEP027,Laboratory Room 1,RM0053,BED00265,Available,EQ0027,Laboratory Equipment
+HF004,Laboratory,DEP037,Laboratory Room 1,RM0073,BED00361,Available,EQ0037,Laboratory Equipment
+HF004,Laboratory,DEP037,Laboratory Room 1,RM0073,BED00362,Available,EQ0037,Laboratory Equipment
+HF004,Laboratory,DEP037,Laboratory Room 1,RM0073,BED00363,Available,EQ0037,Laboratory Equipment
+HF004,Laboratory,DEP037,Laboratory Room 1,RM0073,BED00364,Available,EQ0037,Laboratory Equipment
+HF004,Laboratory,DEP037,Laboratory Room 1,RM0073,BED00365,Available,EQ0037,Laboratory Equipment
+HF005,Laboratory,DEP047,Laboratory Room 1,RM0093,BED00461,Available,EQ0047,Laboratory Equipment
+HF005,Laboratory,DEP047,Laboratory Room 1,RM0093,BED00462,Available,EQ0047,Laboratory Equipment
+HF005,Laboratory,DEP047,Laboratory Room 1,RM0093,BED00463,Available,EQ0047,Laboratory Equipment
+HF005,Laboratory,DEP047,Laboratory Room 1,RM0093,BED00464,Available,EQ0047,Laboratory Equipment
+HF005,Laboratory,DEP047,Laboratory Room 1,RM0093,BED00465,Available,EQ0047,Laboratory Equipment
+HF006,Laboratory,DEP057,Laboratory Room 1,RM0113,BED00561,Available,EQ0057,Laboratory Equipment
+HF006,Laboratory,DEP057,Laboratory Room 1,RM0113,BED00562,Available,EQ0057,Laboratory Equipment
+HF006,Laboratory,DEP057,Laboratory Room 1,RM0113,BED00563,Available,EQ0057,Laboratory Equipment
+HF006,Laboratory,DEP057,Laboratory Room 1,RM0113,BED00564,Available,EQ0057,Laboratory Equipment
+HF006,Laboratory,DEP057,Laboratory Room 1,RM0113,BED00565,Available,EQ0057,Laboratory Equipment
+HF007,Laboratory,DEP067,Laboratory Room 1,RM0133,BED00661,Available,EQ0067,Laboratory Equipment
+HF007,Laboratory,DEP067,Laboratory Room 1,RM0133,BED00662,Available,EQ0067,Laboratory Equipment
+HF007,Laboratory,DEP067,Laboratory Room 1,RM0133,BED00663,Available,EQ0067,Laboratory Equipment
+HF007,Laboratory,DEP067,Laboratory Room 1,RM0133,BED00664,Available,EQ0067,Laboratory Equipment
+HF007,Laboratory,DEP067,Laboratory Room 1,RM0133,BED00665,Available,EQ0067,Laboratory Equipment
+HF008,Laboratory,DEP077,Laboratory Room 1,RM0153,BED00761,Available,EQ0077,Laboratory Equipment
+HF008,Laboratory,DEP077,Laboratory Room 1,RM0153,BED00762,Available,EQ0077,Laboratory Equipment
+HF008,Laboratory,DEP077,Laboratory Room 1,RM0153,BED00763,Available,EQ0077,Laboratory Equipment
+HF008,Laboratory,DEP077,Laboratory Room 1,RM0153,BED00764,Available,EQ0077,Laboratory Equipment
+HF008,Laboratory,DEP077,Laboratory Room 1,RM0153,BED00765,Available,EQ0077,Laboratory Equipment
+HF009,Laboratory,DEP087,Laboratory Room 1,RM0173,BED00861,Available,EQ0087,Laboratory Equipment
+HF009,Laboratory,DEP087,Laboratory Room 1,RM0173,BED00862,Available,EQ0087,Laboratory Equipment
+HF009,Laboratory,DEP087,Laboratory Room 1,RM0173,BED00863,Available,EQ0087,Laboratory Equipment
+HF009,Laboratory,DEP087,Laboratory Room 1,RM0173,BED00864,Available,EQ0087,Laboratory Equipment
+HF009,Laboratory,DEP087,Laboratory Room 1,RM0173,BED00865,Available,EQ0087,Laboratory Equipment
+HF010,Laboratory,DEP097,Laboratory Room 1,RM0193,BED00961,Available,EQ0097,Laboratory Equipment
+HF010,Laboratory,DEP097,Laboratory Room 1,RM0193,BED00962,Available,EQ0097,Laboratory Equipment
+HF010,Laboratory,DEP097,Laboratory Room 1,RM0193,BED00963,Available,EQ0097,Laboratory Equipment
+HF010,Laboratory,DEP097,Laboratory Room 1,RM0193,BED00964,Available,EQ0097,Laboratory Equipment
+HF010,Laboratory,DEP097,Laboratory Room 1,RM0193,BED00965,Available,EQ0097,Laboratory Equipment
+HF011,Laboratory,DEP107,Laboratory Room 1,RM0213,BED01061,Available,EQ0107,Laboratory Equipment
+HF011,Laboratory,DEP107,Laboratory Room 1,RM0213,BED01062,Available,EQ0107,Laboratory Equipment
+HF011,Laboratory,DEP107,Laboratory Room 1,RM0213,BED01063,Available,EQ0107,Laboratory Equipment
+HF011,Laboratory,DEP107,Laboratory Room 1,RM0213,BED01064,Available,EQ0107,Laboratory Equipment
+HF011,Laboratory,DEP107,Laboratory Room 1,RM0213,BED01065,Available,EQ0107,Laboratory Equipment
+HF012,Laboratory,DEP117,Laboratory Room 1,RM0233,BED01161,Available,EQ0117,Laboratory Equipment
+HF012,Laboratory,DEP117,Laboratory Room 1,RM0233,BED01162,Available,EQ0117,Laboratory Equipment
+HF012,Laboratory,DEP117,Laboratory Room 1,RM0233,BED01163,Available,EQ0117,Laboratory Equipment
+HF012,Laboratory,DEP117,Laboratory Room 1,RM0233,BED01164,Available,EQ0117,Laboratory Equipment
+HF012,Laboratory,DEP117,Laboratory Room 1,RM0233,BED01165,Available,EQ0117,Laboratory Equipment
+HF013,Laboratory,DEP127,Laboratory Room 1,RM0253,BED01261,Available,EQ0127,Laboratory Equipment
+HF013,Laboratory,DEP127,Laboratory Room 1,RM0253,BED01262,Available,EQ0127,Laboratory Equipment
+HF013,Laboratory,DEP127,Laboratory Room 1,RM0253,BED01263,Available,EQ0127,Laboratory Equipment
+HF013,Laboratory,DEP127,Laboratory Room 1,RM0253,BED01264,Available,EQ0127,Laboratory Equipment
+HF013,Laboratory,DEP127,Laboratory Room 1,RM0253,BED01265,Available,EQ0127,Laboratory Equipment
+HF014,Laboratory,DEP137,Laboratory Room 1,RM0273,BED01361,Available,EQ0137,Laboratory Equipment
+HF014,Laboratory,DEP137,Laboratory Room 1,RM0273,BED01362,Available,EQ0137,Laboratory Equipment
+HF014,Laboratory,DEP137,Laboratory Room 1,RM0273,BED01363,Available,EQ0137,Laboratory Equipment
+HF014,Laboratory,DEP137,Laboratory Room 1,RM0273,BED01364,Available,EQ0137,Laboratory Equipment
+HF014,Laboratory,DEP137,Laboratory Room 1,RM0273,BED01365,Available,EQ0137,Laboratory Equipment
+HF015,Laboratory,DEP147,Laboratory Room 1,RM0293,BED01461,Available,EQ0147,Laboratory Equipment
+HF015,Laboratory,DEP147,Laboratory Room 1,RM0293,BED01462,Available,EQ0147,Laboratory Equipment
+HF015,Laboratory,DEP147,Laboratory Room 1,RM0293,BED01463,Available,EQ0147,Laboratory Equipment
+HF015,Laboratory,DEP147,Laboratory Room 1,RM0293,BED01464,Available,EQ0147,Laboratory Equipment
+HF015,Laboratory,DEP147,Laboratory Room 1,RM0293,BED01465,Available,EQ0147,Laboratory Equipment
+HF016,Laboratory,DEP157,Laboratory Room 1,RM0313,BED01561,Available,EQ0157,Laboratory Equipment
+HF016,Laboratory,DEP157,Laboratory Room 1,RM0313,BED01562,Available,EQ0157,Laboratory Equipment
+HF016,Laboratory,DEP157,Laboratory Room 1,RM0313,BED01563,Available,EQ0157,Laboratory Equipment
+HF016,Laboratory,DEP157,Laboratory Room 1,RM0313,BED01564,Available,EQ0157,Laboratory Equipment
+HF016,Laboratory,DEP157,Laboratory Room 1,RM0313,BED01565,Available,EQ0157,Laboratory Equipment
+HF017,Laboratory,DEP167,Laboratory Room 1,RM0333,BED01661,Available,EQ0167,Laboratory Equipment
+HF017,Laboratory,DEP167,Laboratory Room 1,RM0333,BED01662,Available,EQ0167,Laboratory Equipment
+HF017,Laboratory,DEP167,Laboratory Room 1,RM0333,BED01663,Available,EQ0167,Laboratory Equipment
+HF017,Laboratory,DEP167,Laboratory Room 1,RM0333,BED01664,Available,EQ0167,Laboratory Equipment
+HF017,Laboratory,DEP167,Laboratory Room 1,RM0333,BED01665,Available,EQ0167,Laboratory Equipment
+HF018,Laboratory,DEP177,Laboratory Room 1,RM0353,BED01761,Available,EQ0177,Laboratory Equipment
+HF018,Laboratory,DEP177,Laboratory Room 1,RM0353,BED01762,Available,EQ0177,Laboratory Equipment
+HF018,Laboratory,DEP177,Laboratory Room 1,RM0353,BED01763,Available,EQ0177,Laboratory Equipment
+HF018,Laboratory,DEP177,Laboratory Room 1,RM0353,BED01764,Available,EQ0177,Laboratory Equipment
+HF018,Laboratory,DEP177,Laboratory Room 1,RM0353,BED01765,Available,EQ0177,Laboratory Equipment
+HF019,Laboratory,DEP187,Laboratory Room 1,RM0373,BED01861,Available,EQ0187,Laboratory Equipment
+HF019,Laboratory,DEP187,Laboratory Room 1,RM0373,BED01862,Available,EQ0187,Laboratory Equipment
+HF019,Laboratory,DEP187,Laboratory Room 1,RM0373,BED01863,Available,EQ0187,Laboratory Equipment
+HF019,Laboratory,DEP187,Laboratory Room 1,RM0373,BED01864,Available,EQ0187,Laboratory Equipment
+HF019,Laboratory,DEP187,Laboratory Room 1,RM0373,BED01865,Available,EQ0187,Laboratory Equipment
+HF020,Laboratory,DEP197,Laboratory Room 1,RM0393,BED01961,Available,EQ0197,Laboratory Equipment
+HF020,Laboratory,DEP197,Laboratory Room 1,RM0393,BED01962,Available,EQ0197,Laboratory Equipment
+HF020,Laboratory,DEP197,Laboratory Room 1,RM0393,BED01963,Available,EQ0197,Laboratory Equipment
+HF020,Laboratory,DEP197,Laboratory Room 1,RM0393,BED01964,Available,EQ0197,Laboratory Equipment
+HF020,Laboratory,DEP197,Laboratory Room 1,RM0393,BED01965,Available,EQ0197,Laboratory Equipment
+HF001,Laboratory,DEP007,Laboratory Room 2,RM0014,BED00066,Available,EQ0007,Laboratory Equipment
+HF001,Laboratory,DEP007,Laboratory Room 2,RM0014,BED00067,Available,EQ0007,Laboratory Equipment
+HF001,Laboratory,DEP007,Laboratory Room 2,RM0014,BED00068,Available,EQ0007,Laboratory Equipment
+HF001,Laboratory,DEP007,Laboratory Room 2,RM0014,BED00069,Available,EQ0007,Laboratory Equipment
+HF001,Laboratory,DEP007,Laboratory Room 2,RM0014,BED00070,Available,EQ0007,Laboratory Equipment
+HF002,Laboratory,DEP017,Laboratory Room 2,RM0034,BED00166,Available,EQ0017,Laboratory Equipment
+HF002,Laboratory,DEP017,Laboratory Room 2,RM0034,BED00167,Available,EQ0017,Laboratory Equipment
+HF002,Laboratory,DEP017,Laboratory Room 2,RM0034,BED00168,Available,EQ0017,Laboratory Equipment
+HF002,Laboratory,DEP017,Laboratory Room 2,RM0034,BED00169,Available,EQ0017,Laboratory Equipment
+HF002,Laboratory,DEP017,Laboratory Room 2,RM0034,BED00170,Available,EQ0017,Laboratory Equipment
+HF003,Laboratory,DEP027,Laboratory Room 2,RM0054,BED00266,Available,EQ0027,Laboratory Equipment
+HF003,Laboratory,DEP027,Laboratory Room 2,RM0054,BED00267,Available,EQ0027,Laboratory Equipment
+HF003,Laboratory,DEP027,Laboratory Room 2,RM0054,BED00268,Available,EQ0027,Laboratory Equipment
+HF003,Laboratory,DEP027,Laboratory Room 2,RM0054,BED00269,Available,EQ0027,Laboratory Equipment
+HF003,Laboratory,DEP027,Laboratory Room 2,RM0054,BED00270,Available,EQ0027,Laboratory Equipment
+HF004,Laboratory,DEP037,Laboratory Room 2,RM0074,BED00366,Available,EQ0037,Laboratory Equipment
+HF004,Laboratory,DEP037,Laboratory Room 2,RM0074,BED00367,Available,EQ0037,Laboratory Equipment
+HF004,Laboratory,DEP037,Laboratory Room 2,RM0074,BED00368,Available,EQ0037,Laboratory Equipment
+HF004,Laboratory,DEP037,Laboratory Room 2,RM0074,BED00369,Available,EQ0037,Laboratory Equipment
+HF004,Laboratory,DEP037,Laboratory Room 2,RM0074,BED00370,Available,EQ0037,Laboratory Equipment
+HF005,Laboratory,DEP047,Laboratory Room 2,RM0094,BED00466,Available,EQ0047,Laboratory Equipment
+HF005,Laboratory,DEP047,Laboratory Room 2,RM0094,BED00467,Available,EQ0047,Laboratory Equipment
+HF005,Laboratory,DEP047,Laboratory Room 2,RM0094,BED00468,Available,EQ0047,Laboratory Equipment
+HF005,Laboratory,DEP047,Laboratory Room 2,RM0094,BED00469,Available,EQ0047,Laboratory Equipment
+HF005,Laboratory,DEP047,Laboratory Room 2,RM0094,BED00470,Available,EQ0047,Laboratory Equipment
+HF006,Laboratory,DEP057,Laboratory Room 2,RM0114,BED00566,Available,EQ0057,Laboratory Equipment
+HF006,Laboratory,DEP057,Laboratory Room 2,RM0114,BED00567,Available,EQ0057,Laboratory Equipment
+HF006,Laboratory,DEP057,Laboratory Room 2,RM0114,BED00568,Available,EQ0057,Laboratory Equipment
+HF006,Laboratory,DEP057,Laboratory Room 2,RM0114,BED00569,Available,EQ0057,Laboratory Equipment
+HF006,Laboratory,DEP057,Laboratory Room 2,RM0114,BED00570,Available,EQ0057,Laboratory Equipment
+HF007,Laboratory,DEP067,Laboratory Room 2,RM0134,BED00666,Available,EQ0067,Laboratory Equipment
+HF007,Laboratory,DEP067,Laboratory Room 2,RM0134,BED00667,Available,EQ0067,Laboratory Equipment
+HF007,Laboratory,DEP067,Laboratory Room 2,RM0134,BED00668,Available,EQ0067,Laboratory Equipment
+HF007,Laboratory,DEP067,Laboratory Room 2,RM0134,BED00669,Available,EQ0067,Laboratory Equipment
+HF007,Laboratory,DEP067,Laboratory Room 2,RM0134,BED00670,Available,EQ0067,Laboratory Equipment
+HF008,Laboratory,DEP077,Laboratory Room 2,RM0154,BED00766,Available,EQ0077,Laboratory Equipment
+HF008,Laboratory,DEP077,Laboratory Room 2,RM0154,BED00767,Available,EQ0077,Laboratory Equipment
+HF008,Laboratory,DEP077,Laboratory Room 2,RM0154,BED00768,Available,EQ0077,Laboratory Equipment
+HF008,Laboratory,DEP077,Laboratory Room 2,RM0154,BED00769,Available,EQ0077,Laboratory Equipment
+HF008,Laboratory,DEP077,Laboratory Room 2,RM0154,BED00770,Available,EQ0077,Laboratory Equipment
+HF009,Laboratory,DEP087,Laboratory Room 2,RM0174,BED00866,Available,EQ0087,Laboratory Equipment
+HF009,Laboratory,DEP087,Laboratory Room 2,RM0174,BED00867,Available,EQ0087,Laboratory Equipment
+HF009,Laboratory,DEP087,Laboratory Room 2,RM0174,BED00868,Available,EQ0087,Laboratory Equipment
+HF009,Laboratory,DEP087,Laboratory Room 2,RM0174,BED00869,Available,EQ0087,Laboratory Equipment
+HF009,Laboratory,DEP087,Laboratory Room 2,RM0174,BED00870,Available,EQ0087,Laboratory Equipment
+HF010,Laboratory,DEP097,Laboratory Room 2,RM0194,BED00966,Available,EQ0097,Laboratory Equipment
+HF010,Laboratory,DEP097,Laboratory Room 2,RM0194,BED00967,Available,EQ0097,Laboratory Equipment
+HF010,Laboratory,DEP097,Laboratory Room 2,RM0194,BED00968,Available,EQ0097,Laboratory Equipment
+HF010,Laboratory,DEP097,Laboratory Room 2,RM0194,BED00969,Available,EQ0097,Laboratory Equipment
+HF010,Laboratory,DEP097,Laboratory Room 2,RM0194,BED00970,Available,EQ0097,Laboratory Equipment
+HF011,Laboratory,DEP107,Laboratory Room 2,RM0214,BED01066,Available,EQ0107,Laboratory Equipment
+HF011,Laboratory,DEP107,Laboratory Room 2,RM0214,BED01067,Available,EQ0107,Laboratory Equipment
+HF011,Laboratory,DEP107,Laboratory Room 2,RM0214,BED01068,Available,EQ0107,Laboratory Equipment
+HF011,Laboratory,DEP107,Laboratory Room 2,RM0214,BED01069,Available,EQ0107,Laboratory Equipment
+HF011,Laboratory,DEP107,Laboratory Room 2,RM0214,BED01070,Available,EQ0107,Laboratory Equipment
+HF012,Laboratory,DEP117,Laboratory Room 2,RM0234,BED01166,Available,EQ0117,Laboratory Equipment
+HF012,Laboratory,DEP117,Laboratory Room 2,RM0234,BED01167,Available,EQ0117,Laboratory Equipment
+HF012,Laboratory,DEP117,Laboratory Room 2,RM0234,BED01168,Available,EQ0117,Laboratory Equipment
+HF012,Laboratory,DEP117,Laboratory Room 2,RM0234,BED01169,Available,EQ0117,Laboratory Equipment
+HF012,Laboratory,DEP117,Laboratory Room 2,RM0234,BED01170,Available,EQ0117,Laboratory Equipment
+HF013,Laboratory,DEP127,Laboratory Room 2,RM0254,BED01266,Available,EQ0127,Laboratory Equipment
+HF013,Laboratory,DEP127,Laboratory Room 2,RM0254,BED01267,Available,EQ0127,Laboratory Equipment
+HF013,Laboratory,DEP127,Laboratory Room 2,RM0254,BED01268,Available,EQ0127,Laboratory Equipment
+HF013,Laboratory,DEP127,Laboratory Room 2,RM0254,BED01269,Available,EQ0127,Laboratory Equipment
+HF013,Laboratory,DEP127,Laboratory Room 2,RM0254,BED01270,Available,EQ0127,Laboratory Equipment
+HF014,Laboratory,DEP137,Laboratory Room 2,RM0274,BED01366,Available,EQ0137,Laboratory Equipment
+HF014,Laboratory,DEP137,Laboratory Room 2,RM0274,BED01367,Available,EQ0137,Laboratory Equipment
+HF014,Laboratory,DEP137,Laboratory Room 2,RM0274,BED01368,Available,EQ0137,Laboratory Equipment
+HF014,Laboratory,DEP137,Laboratory Room 2,RM0274,BED01369,Available,EQ0137,Laboratory Equipment
+HF014,Laboratory,DEP137,Laboratory Room 2,RM0274,BED01370,Available,EQ0137,Laboratory Equipment
+HF015,Laboratory,DEP147,Laboratory Room 2,RM0294,BED01466,Available,EQ0147,Laboratory Equipment
+HF015,Laboratory,DEP147,Laboratory Room 2,RM0294,BED01467,Available,EQ0147,Laboratory Equipment
+HF015,Laboratory,DEP147,Laboratory Room 2,RM0294,BED01468,Available,EQ0147,Laboratory Equipment
+HF015,Laboratory,DEP147,Laboratory Room 2,RM0294,BED01469,Available,EQ0147,Laboratory Equipment
+HF015,Laboratory,DEP147,Laboratory Room 2,RM0294,BED01470,Available,EQ0147,Laboratory Equipment
+HF016,Laboratory,DEP157,Laboratory Room 2,RM0314,BED01566,Available,EQ0157,Laboratory Equipment
+HF016,Laboratory,DEP157,Laboratory Room 2,RM0314,BED01567,Available,EQ0157,Laboratory Equipment
+HF016,Laboratory,DEP157,Laboratory Room 2,RM0314,BED01568,Available,EQ0157,Laboratory Equipment
+HF016,Laboratory,DEP157,Laboratory Room 2,RM0314,BED01569,Available,EQ0157,Laboratory Equipment
+HF016,Laboratory,DEP157,Laboratory Room 2,RM0314,BED01570,Available,EQ0157,Laboratory Equipment
+HF017,Laboratory,DEP167,Laboratory Room 2,RM0334,BED01666,Available,EQ0167,Laboratory Equipment
+HF017,Laboratory,DEP167,Laboratory Room 2,RM0334,BED01667,Available,EQ0167,Laboratory Equipment
+HF017,Laboratory,DEP167,Laboratory Room 2,RM0334,BED01668,Available,EQ0167,Laboratory Equipment
+HF017,Laboratory,DEP167,Laboratory Room 2,RM0334,BED01669,Available,EQ0167,Laboratory Equipment
+HF017,Laboratory,DEP167,Laboratory Room 2,RM0334,BED01670,Available,EQ0167,Laboratory Equipment
+HF018,Laboratory,DEP177,Laboratory Room 2,RM0354,BED01766,Available,EQ0177,Laboratory Equipment
+HF018,Laboratory,DEP177,Laboratory Room 2,RM0354,BED01767,Available,EQ0177,Laboratory Equipment
+HF018,Laboratory,DEP177,Laboratory Room 2,RM0354,BED01768,Available,EQ0177,Laboratory Equipment
+HF018,Laboratory,DEP177,Laboratory Room 2,RM0354,BED01769,Available,EQ0177,Laboratory Equipment
+HF018,Laboratory,DEP177,Laboratory Room 2,RM0354,BED01770,Available,EQ0177,Laboratory Equipment
+HF019,Laboratory,DEP187,Laboratory Room 2,RM0374,BED01866,Available,EQ0187,Laboratory Equipment
+HF019,Laboratory,DEP187,Laboratory Room 2,RM0374,BED01867,Available,EQ0187,Laboratory Equipment
+HF019,Laboratory,DEP187,Laboratory Room 2,RM0374,BED01868,Available,EQ0187,Laboratory Equipment
+HF019,Laboratory,DEP187,Laboratory Room 2,RM0374,BED01869,Available,EQ0187,Laboratory Equipment
+HF019,Laboratory,DEP187,Laboratory Room 2,RM0374,BED01870,Available,EQ0187,Laboratory Equipment
+HF020,Laboratory,DEP197,Laboratory Room 2,RM0394,BED01966,Available,EQ0197,Laboratory Equipment
+HF020,Laboratory,DEP197,Laboratory Room 2,RM0394,BED01967,Available,EQ0197,Laboratory Equipment
+HF020,Laboratory,DEP197,Laboratory Room 2,RM0394,BED01968,Available,EQ0197,Laboratory Equipment
+HF020,Laboratory,DEP197,Laboratory Room 2,RM0394,BED01969,Available,EQ0197,Laboratory Equipment
+HF020,Laboratory,DEP197,Laboratory Room 2,RM0394,BED01970,Available,EQ0197,Laboratory Equipment
+HF001,Pharmacy,DEP008,Pharmacy Room 2,RM0016,BED00076,Available,EQ0008,Pharmacy Equipment
+HF001,Pharmacy,DEP008,Pharmacy Room 2,RM0016,BED00077,Available,EQ0008,Pharmacy Equipment
+HF001,Pharmacy,DEP008,Pharmacy Room 2,RM0016,BED00078,Available,EQ0008,Pharmacy Equipment
+HF001,Pharmacy,DEP008,Pharmacy Room 2,RM0016,BED00079,Available,EQ0008,Pharmacy Equipment
+HF001,Pharmacy,DEP008,Pharmacy Room 2,RM0016,BED00080,Available,EQ0008,Pharmacy Equipment
+HF002,Pharmacy,DEP018,Pharmacy Room 2,RM0036,BED00176,Available,EQ0018,Pharmacy Equipment
+HF002,Pharmacy,DEP018,Pharmacy Room 2,RM0036,BED00177,Available,EQ0018,Pharmacy Equipment
+HF002,Pharmacy,DEP018,Pharmacy Room 2,RM0036,BED00178,Available,EQ0018,Pharmacy Equipment
+HF002,Pharmacy,DEP018,Pharmacy Room 2,RM0036,BED00179,Available,EQ0018,Pharmacy Equipment
+HF002,Pharmacy,DEP018,Pharmacy Room 2,RM0036,BED00180,Available,EQ0018,Pharmacy Equipment
+HF003,Pharmacy,DEP028,Pharmacy Room 2,RM0056,BED00276,Available,EQ0028,Pharmacy Equipment
+HF003,Pharmacy,DEP028,Pharmacy Room 2,RM0056,BED00277,Available,EQ0028,Pharmacy Equipment
+HF003,Pharmacy,DEP028,Pharmacy Room 2,RM0056,BED00278,Available,EQ0028,Pharmacy Equipment
+HF003,Pharmacy,DEP028,Pharmacy Room 2,RM0056,BED00279,Available,EQ0028,Pharmacy Equipment
+HF003,Pharmacy,DEP028,Pharmacy Room 2,RM0056,BED00280,Available,EQ0028,Pharmacy Equipment
+HF004,Pharmacy,DEP038,Pharmacy Room 2,RM0076,BED00376,Available,EQ0038,Pharmacy Equipment
+HF004,Pharmacy,DEP038,Pharmacy Room 2,RM0076,BED00377,Available,EQ0038,Pharmacy Equipment
+HF004,Pharmacy,DEP038,Pharmacy Room 2,RM0076,BED00378,Available,EQ0038,Pharmacy Equipment
+HF004,Pharmacy,DEP038,Pharmacy Room 2,RM0076,BED00379,Available,EQ0038,Pharmacy Equipment
+HF004,Pharmacy,DEP038,Pharmacy Room 2,RM0076,BED00380,Available,EQ0038,Pharmacy Equipment
+HF005,Pharmacy,DEP048,Pharmacy Room 2,RM0096,BED00476,Available,EQ0048,Pharmacy Equipment
+HF005,Pharmacy,DEP048,Pharmacy Room 2,RM0096,BED00477,Available,EQ0048,Pharmacy Equipment
+HF005,Pharmacy,DEP048,Pharmacy Room 2,RM0096,BED00478,Available,EQ0048,Pharmacy Equipment
+HF005,Pharmacy,DEP048,Pharmacy Room 2,RM0096,BED00479,Available,EQ0048,Pharmacy Equipment
+HF005,Pharmacy,DEP048,Pharmacy Room 2,RM0096,BED00480,Available,EQ0048,Pharmacy Equipment
+HF006,Pharmacy,DEP058,Pharmacy Room 2,RM0116,BED00576,Available,EQ0058,Pharmacy Equipment
+HF006,Pharmacy,DEP058,Pharmacy Room 2,RM0116,BED00577,Available,EQ0058,Pharmacy Equipment
+HF006,Pharmacy,DEP058,Pharmacy Room 2,RM0116,BED00578,Available,EQ0058,Pharmacy Equipment
+HF006,Pharmacy,DEP058,Pharmacy Room 2,RM0116,BED00579,Available,EQ0058,Pharmacy Equipment
+HF006,Pharmacy,DEP058,Pharmacy Room 2,RM0116,BED00580,Available,EQ0058,Pharmacy Equipment
+HF007,Pharmacy,DEP068,Pharmacy Room 2,RM0136,BED00676,Available,EQ0068,Pharmacy Equipment
+HF007,Pharmacy,DEP068,Pharmacy Room 2,RM0136,BED00677,Available,EQ0068,Pharmacy Equipment
+HF007,Pharmacy,DEP068,Pharmacy Room 2,RM0136,BED00678,Available,EQ0068,Pharmacy Equipment
+HF007,Pharmacy,DEP068,Pharmacy Room 2,RM0136,BED00679,Available,EQ0068,Pharmacy Equipment
+HF007,Pharmacy,DEP068,Pharmacy Room 2,RM0136,BED00680,Available,EQ0068,Pharmacy Equipment
+HF008,Pharmacy,DEP078,Pharmacy Room 2,RM0156,BED00776,Available,EQ0078,Pharmacy Equipment
+HF008,Pharmacy,DEP078,Pharmacy Room 2,RM0156,BED00777,Available,EQ0078,Pharmacy Equipment
+HF008,Pharmacy,DEP078,Pharmacy Room 2,RM0156,BED00778,Available,EQ0078,Pharmacy Equipment
+HF008,Pharmacy,DEP078,Pharmacy Room 2,RM0156,BED00779,Available,EQ0078,Pharmacy Equipment
+HF008,Pharmacy,DEP078,Pharmacy Room 2,RM0156,BED00780,Available,EQ0078,Pharmacy Equipment
+HF009,Pharmacy,DEP088,Pharmacy Room 2,RM0176,BED00876,Available,EQ0088,Pharmacy Equipment
+HF009,Pharmacy,DEP088,Pharmacy Room 2,RM0176,BED00877,Available,EQ0088,Pharmacy Equipment
+HF009,Pharmacy,DEP088,Pharmacy Room 2,RM0176,BED00878,Available,EQ0088,Pharmacy Equipment
+HF009,Pharmacy,DEP088,Pharmacy Room 2,RM0176,BED00879,Available,EQ0088,Pharmacy Equipment
+HF009,Pharmacy,DEP088,Pharmacy Room 2,RM0176,BED00880,Available,EQ0088,Pharmacy Equipment
+HF010,Pharmacy,DEP098,Pharmacy Room 2,RM0196,BED00976,Available,EQ0098,Pharmacy Equipment
+HF010,Pharmacy,DEP098,Pharmacy Room 2,RM0196,BED00977,Available,EQ0098,Pharmacy Equipment
+HF010,Pharmacy,DEP098,Pharmacy Room 2,RM0196,BED00978,Available,EQ0098,Pharmacy Equipment
+HF010,Pharmacy,DEP098,Pharmacy Room 2,RM0196,BED00979,Available,EQ0098,Pharmacy Equipment
+HF010,Pharmacy,DEP098,Pharmacy Room 2,RM0196,BED00980,Available,EQ0098,Pharmacy Equipment
+HF011,Pharmacy,DEP108,Pharmacy Room 2,RM0216,BED01076,Available,EQ0108,Pharmacy Equipment
+HF011,Pharmacy,DEP108,Pharmacy Room 2,RM0216,BED01077,Available,EQ0108,Pharmacy Equipment
+HF011,Pharmacy,DEP108,Pharmacy Room 2,RM0216,BED01078,Available,EQ0108,Pharmacy Equipment
+HF011,Pharmacy,DEP108,Pharmacy Room 2,RM0216,BED01079,Available,EQ0108,Pharmacy Equipment
+HF011,Pharmacy,DEP108,Pharmacy Room 2,RM0216,BED01080,Available,EQ0108,Pharmacy Equipment
+HF012,Pharmacy,DEP118,Pharmacy Room 2,RM0236,BED01176,Available,EQ0118,Pharmacy Equipment
+HF012,Pharmacy,DEP118,Pharmacy Room 2,RM0236,BED01177,Available,EQ0118,Pharmacy Equipment
+HF012,Pharmacy,DEP118,Pharmacy Room 2,RM0236,BED01178,Available,EQ0118,Pharmacy Equipment
+HF012,Pharmacy,DEP118,Pharmacy Room 2,RM0236,BED01179,Available,EQ0118,Pharmacy Equipment
+HF012,Pharmacy,DEP118,Pharmacy Room 2,RM0236,BED01180,Available,EQ0118,Pharmacy Equipment
+HF013,Pharmacy,DEP128,Pharmacy Room 2,RM0256,BED01276,Available,EQ0128,Pharmacy Equipment
+HF013,Pharmacy,DEP128,Pharmacy Room 2,RM0256,BED01277,Available,EQ0128,Pharmacy Equipment
+HF013,Pharmacy,DEP128,Pharmacy Room 2,RM0256,BED01278,Available,EQ0128,Pharmacy Equipment
+HF013,Pharmacy,DEP128,Pharmacy Room 2,RM0256,BED01279,Available,EQ0128,Pharmacy Equipment
+HF013,Pharmacy,DEP128,Pharmacy Room 2,RM0256,BED01280,Available,EQ0128,Pharmacy Equipment
+HF014,Pharmacy,DEP138,Pharmacy Room 2,RM0276,BED01376,Available,EQ0138,Pharmacy Equipment
+HF014,Pharmacy,DEP138,Pharmacy Room 2,RM0276,BED01377,Available,EQ0138,Pharmacy Equipment
+HF014,Pharmacy,DEP138,Pharmacy Room 2,RM0276,BED01378,Available,EQ0138,Pharmacy Equipment
+HF014,Pharmacy,DEP138,Pharmacy Room 2,RM0276,BED01379,Available,EQ0138,Pharmacy Equipment
+HF014,Pharmacy,DEP138,Pharmacy Room 2,RM0276,BED01380,Available,EQ0138,Pharmacy Equipment
+HF015,Pharmacy,DEP148,Pharmacy Room 2,RM0296,BED01476,Available,EQ0148,Pharmacy Equipment
+HF015,Pharmacy,DEP148,Pharmacy Room 2,RM0296,BED01477,Available,EQ0148,Pharmacy Equipment
+HF015,Pharmacy,DEP148,Pharmacy Room 2,RM0296,BED01478,Available,EQ0148,Pharmacy Equipment
+HF015,Pharmacy,DEP148,Pharmacy Room 2,RM0296,BED01479,Available,EQ0148,Pharmacy Equipment
+HF015,Pharmacy,DEP148,Pharmacy Room 2,RM0296,BED01480,Available,EQ0148,Pharmacy Equipment
+HF016,Pharmacy,DEP158,Pharmacy Room 2,RM0316,BED01576,Available,EQ0158,Pharmacy Equipment
+HF016,Pharmacy,DEP158,Pharmacy Room 2,RM0316,BED01577,Available,EQ0158,Pharmacy Equipment
+HF016,Pharmacy,DEP158,Pharmacy Room 2,RM0316,BED01578,Available,EQ0158,Pharmacy Equipment
+HF016,Pharmacy,DEP158,Pharmacy Room 2,RM0316,BED01579,Available,EQ0158,Pharmacy Equipment
+HF016,Pharmacy,DEP158,Pharmacy Room 2,RM0316,BED01580,Available,EQ0158,Pharmacy Equipment
+HF017,Pharmacy,DEP168,Pharmacy Room 2,RM0336,BED01676,Available,EQ0168,Pharmacy Equipment
+HF017,Pharmacy,DEP168,Pharmacy Room 2,RM0336,BED01677,Available,EQ0168,Pharmacy Equipment
+HF017,Pharmacy,DEP168,Pharmacy Room 2,RM0336,BED01678,Available,EQ0168,Pharmacy Equipment
+HF017,Pharmacy,DEP168,Pharmacy Room 2,RM0336,BED01679,Available,EQ0168,Pharmacy Equipment
+HF017,Pharmacy,DEP168,Pharmacy Room 2,RM0336,BED01680,Available,EQ0168,Pharmacy Equipment
+HF018,Pharmacy,DEP178,Pharmacy Room 2,RM0356,BED01776,Available,EQ0178,Pharmacy Equipment
+HF018,Pharmacy,DEP178,Pharmacy Room 2,RM0356,BED01777,Available,EQ0178,Pharmacy Equipment
+HF018,Pharmacy,DEP178,Pharmacy Room 2,RM0356,BED01778,Available,EQ0178,Pharmacy Equipment
+HF018,Pharmacy,DEP178,Pharmacy Room 2,RM0356,BED01779,Available,EQ0178,Pharmacy Equipment
+HF018,Pharmacy,DEP178,Pharmacy Room 2,RM0356,BED01780,Available,EQ0178,Pharmacy Equipment
+HF019,Pharmacy,DEP188,Pharmacy Room 2,RM0376,BED01876,Available,EQ0188,Pharmacy Equipment
+HF019,Pharmacy,DEP188,Pharmacy Room 2,RM0376,BED01877,Available,EQ0188,Pharmacy Equipment
+HF019,Pharmacy,DEP188,Pharmacy Room 2,RM0376,BED01878,Available,EQ0188,Pharmacy Equipment
+HF019,Pharmacy,DEP188,Pharmacy Room 2,RM0376,BED01879,Available,EQ0188,Pharmacy Equipment
+HF019,Pharmacy,DEP188,Pharmacy Room 2,RM0376,BED01880,Available,EQ0188,Pharmacy Equipment
+HF020,Pharmacy,DEP198,Pharmacy Room 2,RM0396,BED01976,Available,EQ0198,Pharmacy Equipment
+HF020,Pharmacy,DEP198,Pharmacy Room 2,RM0396,BED01977,Available,EQ0198,Pharmacy Equipment
+HF020,Pharmacy,DEP198,Pharmacy Room 2,RM0396,BED01978,Available,EQ0198,Pharmacy Equipment
+HF020,Pharmacy,DEP198,Pharmacy Room 2,RM0396,BED01979,Available,EQ0198,Pharmacy Equipment
+HF020,Pharmacy,DEP198,Pharmacy Room 2,RM0396,BED01980,Available,EQ0198,Pharmacy Equipment
+HF001,Pharmacy,DEP008,Pharmacy Room 1,RM0015,BED00071,Available,EQ0008,Pharmacy Equipment
+HF001,Pharmacy,DEP008,Pharmacy Room 1,RM0015,BED00072,Available,EQ0008,Pharmacy Equipment
+HF001,Pharmacy,DEP008,Pharmacy Room 1,RM0015,BED00073,Available,EQ0008,Pharmacy Equipment
+HF001,Pharmacy,DEP008,Pharmacy Room 1,RM0015,BED00074,Available,EQ0008,Pharmacy Equipment
+HF001,Pharmacy,DEP008,Pharmacy Room 1,RM0015,BED00075,Available,EQ0008,Pharmacy Equipment
+HF002,Pharmacy,DEP018,Pharmacy Room 1,RM0035,BED00171,Available,EQ0018,Pharmacy Equipment
+HF002,Pharmacy,DEP018,Pharmacy Room 1,RM0035,BED00172,Available,EQ0018,Pharmacy Equipment
+HF002,Pharmacy,DEP018,Pharmacy Room 1,RM0035,BED00173,Available,EQ0018,Pharmacy Equipment
+HF002,Pharmacy,DEP018,Pharmacy Room 1,RM0035,BED00174,Available,EQ0018,Pharmacy Equipment
+HF002,Pharmacy,DEP018,Pharmacy Room 1,RM0035,BED00175,Available,EQ0018,Pharmacy Equipment
+HF003,Pharmacy,DEP028,Pharmacy Room 1,RM0055,BED00271,Available,EQ0028,Pharmacy Equipment
+HF003,Pharmacy,DEP028,Pharmacy Room 1,RM0055,BED00272,Available,EQ0028,Pharmacy Equipment
+HF003,Pharmacy,DEP028,Pharmacy Room 1,RM0055,BED00273,Available,EQ0028,Pharmacy Equipment
+HF003,Pharmacy,DEP028,Pharmacy Room 1,RM0055,BED00274,Available,EQ0028,Pharmacy Equipment
+HF003,Pharmacy,DEP028,Pharmacy Room 1,RM0055,BED00275,Available,EQ0028,Pharmacy Equipment
+HF004,Pharmacy,DEP038,Pharmacy Room 1,RM0075,BED00371,Available,EQ0038,Pharmacy Equipment
+HF004,Pharmacy,DEP038,Pharmacy Room 1,RM0075,BED00372,Available,EQ0038,Pharmacy Equipment
+HF004,Pharmacy,DEP038,Pharmacy Room 1,RM0075,BED00373,Available,EQ0038,Pharmacy Equipment
+HF004,Pharmacy,DEP038,Pharmacy Room 1,RM0075,BED00374,Available,EQ0038,Pharmacy Equipment
+HF004,Pharmacy,DEP038,Pharmacy Room 1,RM0075,BED00375,Available,EQ0038,Pharmacy Equipment
+HF005,Pharmacy,DEP048,Pharmacy Room 1,RM0095,BED00471,Available,EQ0048,Pharmacy Equipment
+HF005,Pharmacy,DEP048,Pharmacy Room 1,RM0095,BED00472,Available,EQ0048,Pharmacy Equipment
+HF005,Pharmacy,DEP048,Pharmacy Room 1,RM0095,BED00473,Available,EQ0048,Pharmacy Equipment
+HF005,Pharmacy,DEP048,Pharmacy Room 1,RM0095,BED00474,Available,EQ0048,Pharmacy Equipment
+HF005,Pharmacy,DEP048,Pharmacy Room 1,RM0095,BED00475,Available,EQ0048,Pharmacy Equipment
+HF006,Pharmacy,DEP058,Pharmacy Room 1,RM0115,BED00571,Available,EQ0058,Pharmacy Equipment
+HF006,Pharmacy,DEP058,Pharmacy Room 1,RM0115,BED00572,Available,EQ0058,Pharmacy Equipment
+HF006,Pharmacy,DEP058,Pharmacy Room 1,RM0115,BED00573,Available,EQ0058,Pharmacy Equipment
+HF006,Pharmacy,DEP058,Pharmacy Room 1,RM0115,BED00574,Available,EQ0058,Pharmacy Equipment
+HF006,Pharmacy,DEP058,Pharmacy Room 1,RM0115,BED00575,Available,EQ0058,Pharmacy Equipment
+HF007,Pharmacy,DEP068,Pharmacy Room 1,RM0135,BED00671,Available,EQ0068,Pharmacy Equipment
+HF007,Pharmacy,DEP068,Pharmacy Room 1,RM0135,BED00672,Available,EQ0068,Pharmacy Equipment
+HF007,Pharmacy,DEP068,Pharmacy Room 1,RM0135,BED00673,Available,EQ0068,Pharmacy Equipment
+HF007,Pharmacy,DEP068,Pharmacy Room 1,RM0135,BED00674,Available,EQ0068,Pharmacy Equipment
+HF007,Pharmacy,DEP068,Pharmacy Room 1,RM0135,BED00675,Available,EQ0068,Pharmacy Equipment
+HF008,Pharmacy,DEP078,Pharmacy Room 1,RM0155,BED00771,Available,EQ0078,Pharmacy Equipment
+HF008,Pharmacy,DEP078,Pharmacy Room 1,RM0155,BED00772,Available,EQ0078,Pharmacy Equipment
+HF008,Pharmacy,DEP078,Pharmacy Room 1,RM0155,BED00773,Available,EQ0078,Pharmacy Equipment
+HF008,Pharmacy,DEP078,Pharmacy Room 1,RM0155,BED00774,Available,EQ0078,Pharmacy Equipment
+HF008,Pharmacy,DEP078,Pharmacy Room 1,RM0155,BED00775,Available,EQ0078,Pharmacy Equipment
+HF009,Pharmacy,DEP088,Pharmacy Room 1,RM0175,BED00871,Available,EQ0088,Pharmacy Equipment
+HF009,Pharmacy,DEP088,Pharmacy Room 1,RM0175,BED00872,Available,EQ0088,Pharmacy Equipment
+HF009,Pharmacy,DEP088,Pharmacy Room 1,RM0175,BED00873,Available,EQ0088,Pharmacy Equipment
+HF009,Pharmacy,DEP088,Pharmacy Room 1,RM0175,BED00874,Available,EQ0088,Pharmacy Equipment
+HF009,Pharmacy,DEP088,Pharmacy Room 1,RM0175,BED00875,Available,EQ0088,Pharmacy Equipment
+HF010,Pharmacy,DEP098,Pharmacy Room 1,RM0195,BED00971,Available,EQ0098,Pharmacy Equipment
+HF010,Pharmacy,DEP098,Pharmacy Room 1,RM0195,BED00972,Available,EQ0098,Pharmacy Equipment
+HF010,Pharmacy,DEP098,Pharmacy Room 1,RM0195,BED00973,Available,EQ0098,Pharmacy Equipment
+HF010,Pharmacy,DEP098,Pharmacy Room 1,RM0195,BED00974,Available,EQ0098,Pharmacy Equipment
+HF010,Pharmacy,DEP098,Pharmacy Room 1,RM0195,BED00975,Available,EQ0098,Pharmacy Equipment
+HF011,Pharmacy,DEP108,Pharmacy Room 1,RM0215,BED01071,Available,EQ0108,Pharmacy Equipment
+HF011,Pharmacy,DEP108,Pharmacy Room 1,RM0215,BED01072,Available,EQ0108,Pharmacy Equipment
+HF011,Pharmacy,DEP108,Pharmacy Room 1,RM0215,BED01073,Available,EQ0108,Pharmacy Equipment
+HF011,Pharmacy,DEP108,Pharmacy Room 1,RM0215,BED01074,Available,EQ0108,Pharmacy Equipment
+HF011,Pharmacy,DEP108,Pharmacy Room 1,RM0215,BED01075,Available,EQ0108,Pharmacy Equipment
+HF012,Pharmacy,DEP118,Pharmacy Room 1,RM0235,BED01171,Available,EQ0118,Pharmacy Equipment
+HF012,Pharmacy,DEP118,Pharmacy Room 1,RM0235,BED01172,Available,EQ0118,Pharmacy Equipment
+HF012,Pharmacy,DEP118,Pharmacy Room 1,RM0235,BED01173,Available,EQ0118,Pharmacy Equipment
+HF012,Pharmacy,DEP118,Pharmacy Room 1,RM0235,BED01174,Available,EQ0118,Pharmacy Equipment
+HF012,Pharmacy,DEP118,Pharmacy Room 1,RM0235,BED01175,Available,EQ0118,Pharmacy Equipment
+HF013,Pharmacy,DEP128,Pharmacy Room 1,RM0255,BED01271,Available,EQ0128,Pharmacy Equipment
+HF013,Pharmacy,DEP128,Pharmacy Room 1,RM0255,BED01272,Available,EQ0128,Pharmacy Equipment
+HF013,Pharmacy,DEP128,Pharmacy Room 1,RM0255,BED01273,Available,EQ0128,Pharmacy Equipment
+HF013,Pharmacy,DEP128,Pharmacy Room 1,RM0255,BED01274,Available,EQ0128,Pharmacy Equipment
+HF013,Pharmacy,DEP128,Pharmacy Room 1,RM0255,BED01275,Available,EQ0128,Pharmacy Equipment
+HF014,Pharmacy,DEP138,Pharmacy Room 1,RM0275,BED01371,Available,EQ0138,Pharmacy Equipment
+HF014,Pharmacy,DEP138,Pharmacy Room 1,RM0275,BED01372,Available,EQ0138,Pharmacy Equipment
+HF014,Pharmacy,DEP138,Pharmacy Room 1,RM0275,BED01373,Available,EQ0138,Pharmacy Equipment
+HF014,Pharmacy,DEP138,Pharmacy Room 1,RM0275,BED01374,Available,EQ0138,Pharmacy Equipment
+HF014,Pharmacy,DEP138,Pharmacy Room 1,RM0275,BED01375,Available,EQ0138,Pharmacy Equipment
+HF015,Pharmacy,DEP148,Pharmacy Room 1,RM0295,BED01471,Available,EQ0148,Pharmacy Equipment
+HF015,Pharmacy,DEP148,Pharmacy Room 1,RM0295,BED01472,Available,EQ0148,Pharmacy Equipment
+HF015,Pharmacy,DEP148,Pharmacy Room 1,RM0295,BED01473,Available,EQ0148,Pharmacy Equipment
+HF015,Pharmacy,DEP148,Pharmacy Room 1,RM0295,BED01474,Available,EQ0148,Pharmacy Equipment
+HF015,Pharmacy,DEP148,Pharmacy Room 1,RM0295,BED01475,Available,EQ0148,Pharmacy Equipment
+HF016,Pharmacy,DEP158,Pharmacy Room 1,RM0315,BED01571,Available,EQ0158,Pharmacy Equipment
+HF016,Pharmacy,DEP158,Pharmacy Room 1,RM0315,BED01572,Available,EQ0158,Pharmacy Equipment
+HF016,Pharmacy,DEP158,Pharmacy Room 1,RM0315,BED01573,Available,EQ0158,Pharmacy Equipment
+HF016,Pharmacy,DEP158,Pharmacy Room 1,RM0315,BED01574,Available,EQ0158,Pharmacy Equipment
+HF016,Pharmacy,DEP158,Pharmacy Room 1,RM0315,BED01575,Available,EQ0158,Pharmacy Equipment
+HF017,Pharmacy,DEP168,Pharmacy Room 1,RM0335,BED01671,Available,EQ0168,Pharmacy Equipment
+HF017,Pharmacy,DEP168,Pharmacy Room 1,RM0335,BED01672,Available,EQ0168,Pharmacy Equipment
+HF017,Pharmacy,DEP168,Pharmacy Room 1,RM0335,BED01673,Available,EQ0168,Pharmacy Equipment
+HF017,Pharmacy,DEP168,Pharmacy Room 1,RM0335,BED01674,Available,EQ0168,Pharmacy Equipment
+HF017,Pharmacy,DEP168,Pharmacy Room 1,RM0335,BED01675,Available,EQ0168,Pharmacy Equipment
+HF018,Pharmacy,DEP178,Pharmacy Room 1,RM0355,BED01771,Available,EQ0178,Pharmacy Equipment
+HF018,Pharmacy,DEP178,Pharmacy Room 1,RM0355,BED01772,Available,EQ0178,Pharmacy Equipment
+HF018,Pharmacy,DEP178,Pharmacy Room 1,RM0355,BED01773,Available,EQ0178,Pharmacy Equipment
+HF018,Pharmacy,DEP178,Pharmacy Room 1,RM0355,BED01774,Available,EQ0178,Pharmacy Equipment
+HF018,Pharmacy,DEP178,Pharmacy Room 1,RM0355,BED01775,Available,EQ0178,Pharmacy Equipment
+HF019,Pharmacy,DEP188,Pharmacy Room 1,RM0375,BED01871,Available,EQ0188,Pharmacy Equipment
+HF019,Pharmacy,DEP188,Pharmacy Room 1,RM0375,BED01872,Available,EQ0188,Pharmacy Equipment
+HF019,Pharmacy,DEP188,Pharmacy Room 1,RM0375,BED01873,Available,EQ0188,Pharmacy Equipment
+HF019,Pharmacy,DEP188,Pharmacy Room 1,RM0375,BED01874,Available,EQ0188,Pharmacy Equipment
+HF019,Pharmacy,DEP188,Pharmacy Room 1,RM0375,BED01875,Available,EQ0188,Pharmacy Equipment
+HF020,Pharmacy,DEP198,Pharmacy Room 1,RM0395,BED01971,Available,EQ0198,Pharmacy Equipment
+HF020,Pharmacy,DEP198,Pharmacy Room 1,RM0395,BED01972,Available,EQ0198,Pharmacy Equipment
+HF020,Pharmacy,DEP198,Pharmacy Room 1,RM0395,BED01973,Available,EQ0198,Pharmacy Equipment
+HF020,Pharmacy,DEP198,Pharmacy Room 1,RM0395,BED01974,Available,EQ0198,Pharmacy Equipment
+HF020,Pharmacy,DEP198,Pharmacy Room 1,RM0395,BED01975,Available,EQ0198,Pharmacy Equipment
+HF001,ICU,DEP009,ICU Room 1,RM0017,BED00081,Available,EQ0009,ICU Equipment
+HF001,ICU,DEP009,ICU Room 1,RM0017,BED00082,Available,EQ0009,ICU Equipment
+HF001,ICU,DEP009,ICU Room 1,RM0017,BED00083,Available,EQ0009,ICU Equipment
+HF001,ICU,DEP009,ICU Room 1,RM0017,BED00084,Available,EQ0009,ICU Equipment
+HF001,ICU,DEP009,ICU Room 1,RM0017,BED00085,Available,EQ0009,ICU Equipment
+HF002,ICU,DEP019,ICU Room 1,RM0037,BED00181,Available,EQ0019,ICU Equipment
+HF002,ICU,DEP019,ICU Room 1,RM0037,BED00182,Available,EQ0019,ICU Equipment
+HF002,ICU,DEP019,ICU Room 1,RM0037,BED00183,Available,EQ0019,ICU Equipment
+HF002,ICU,DEP019,ICU Room 1,RM0037,BED00184,Available,EQ0019,ICU Equipment
+HF002,ICU,DEP019,ICU Room 1,RM0037,BED00185,Available,EQ0019,ICU Equipment
+HF003,ICU,DEP029,ICU Room 1,RM0057,BED00281,Available,EQ0029,ICU Equipment
+HF003,ICU,DEP029,ICU Room 1,RM0057,BED00282,Available,EQ0029,ICU Equipment
+HF003,ICU,DEP029,ICU Room 1,RM0057,BED00283,Available,EQ0029,ICU Equipment
+HF003,ICU,DEP029,ICU Room 1,RM0057,BED00284,Available,EQ0029,ICU Equipment
+HF003,ICU,DEP029,ICU Room 1,RM0057,BED00285,Available,EQ0029,ICU Equipment
+HF004,ICU,DEP039,ICU Room 1,RM0077,BED00381,Available,EQ0039,ICU Equipment
+HF004,ICU,DEP039,ICU Room 1,RM0077,BED00382,Available,EQ0039,ICU Equipment
+HF004,ICU,DEP039,ICU Room 1,RM0077,BED00383,Available,EQ0039,ICU Equipment
+HF004,ICU,DEP039,ICU Room 1,RM0077,BED00384,Available,EQ0039,ICU Equipment
+HF004,ICU,DEP039,ICU Room 1,RM0077,BED00385,Available,EQ0039,ICU Equipment
+HF005,ICU,DEP049,ICU Room 1,RM0097,BED00481,Available,EQ0049,ICU Equipment
+HF005,ICU,DEP049,ICU Room 1,RM0097,BED00482,Available,EQ0049,ICU Equipment
+HF005,ICU,DEP049,ICU Room 1,RM0097,BED00483,Available,EQ0049,ICU Equipment
+HF005,ICU,DEP049,ICU Room 1,RM0097,BED00484,Available,EQ0049,ICU Equipment
+HF005,ICU,DEP049,ICU Room 1,RM0097,BED00485,Available,EQ0049,ICU Equipment
+HF006,ICU,DEP059,ICU Room 1,RM0117,BED00581,Available,EQ0059,ICU Equipment
+HF006,ICU,DEP059,ICU Room 1,RM0117,BED00582,Available,EQ0059,ICU Equipment
+HF006,ICU,DEP059,ICU Room 1,RM0117,BED00583,Available,EQ0059,ICU Equipment
+HF006,ICU,DEP059,ICU Room 1,RM0117,BED00584,Available,EQ0059,ICU Equipment
+HF006,ICU,DEP059,ICU Room 1,RM0117,BED00585,Available,EQ0059,ICU Equipment
+HF007,ICU,DEP069,ICU Room 1,RM0137,BED00681,Available,EQ0069,ICU Equipment
+HF007,ICU,DEP069,ICU Room 1,RM0137,BED00682,Available,EQ0069,ICU Equipment
+HF007,ICU,DEP069,ICU Room 1,RM0137,BED00683,Available,EQ0069,ICU Equipment
+HF007,ICU,DEP069,ICU Room 1,RM0137,BED00684,Available,EQ0069,ICU Equipment
+HF007,ICU,DEP069,ICU Room 1,RM0137,BED00685,Available,EQ0069,ICU Equipment
+HF008,ICU,DEP079,ICU Room 1,RM0157,BED00781,Available,EQ0079,ICU Equipment
+HF008,ICU,DEP079,ICU Room 1,RM0157,BED00782,Available,EQ0079,ICU Equipment
+HF008,ICU,DEP079,ICU Room 1,RM0157,BED00783,Available,EQ0079,ICU Equipment
+HF008,ICU,DEP079,ICU Room 1,RM0157,BED00784,Available,EQ0079,ICU Equipment
+HF008,ICU,DEP079,ICU Room 1,RM0157,BED00785,Available,EQ0079,ICU Equipment
+HF009,ICU,DEP089,ICU Room 1,RM0177,BED00881,Available,EQ0089,ICU Equipment
+HF009,ICU,DEP089,ICU Room 1,RM0177,BED00882,Available,EQ0089,ICU Equipment
+HF009,ICU,DEP089,ICU Room 1,RM0177,BED00883,Available,EQ0089,ICU Equipment
+HF009,ICU,DEP089,ICU Room 1,RM0177,BED00884,Available,EQ0089,ICU Equipment
+HF009,ICU,DEP089,ICU Room 1,RM0177,BED00885,Available,EQ0089,ICU Equipment
+HF010,ICU,DEP099,ICU Room 1,RM0197,BED00981,Available,EQ0099,ICU Equipment
+HF010,ICU,DEP099,ICU Room 1,RM0197,BED00982,Available,EQ0099,ICU Equipment
+HF010,ICU,DEP099,ICU Room 1,RM0197,BED00983,Available,EQ0099,ICU Equipment
+HF010,ICU,DEP099,ICU Room 1,RM0197,BED00984,Available,EQ0099,ICU Equipment
+HF010,ICU,DEP099,ICU Room 1,RM0197,BED00985,Available,EQ0099,ICU Equipment
+HF011,ICU,DEP109,ICU Room 1,RM0217,BED01081,Available,EQ0109,ICU Equipment
+HF011,ICU,DEP109,ICU Room 1,RM0217,BED01082,Available,EQ0109,ICU Equipment
+HF011,ICU,DEP109,ICU Room 1,RM0217,BED01083,Available,EQ0109,ICU Equipment
+HF011,ICU,DEP109,ICU Room 1,RM0217,BED01084,Available,EQ0109,ICU Equipment
+HF011,ICU,DEP109,ICU Room 1,RM0217,BED01085,Available,EQ0109,ICU Equipment
+HF012,ICU,DEP119,ICU Room 1,RM0237,BED01181,Available,EQ0119,ICU Equipment
+HF012,ICU,DEP119,ICU Room 1,RM0237,BED01182,Available,EQ0119,ICU Equipment
+HF012,ICU,DEP119,ICU Room 1,RM0237,BED01183,Available,EQ0119,ICU Equipment
+HF012,ICU,DEP119,ICU Room 1,RM0237,BED01184,Available,EQ0119,ICU Equipment
+HF012,ICU,DEP119,ICU Room 1,RM0237,BED01185,Available,EQ0119,ICU Equipment
+HF013,ICU,DEP129,ICU Room 1,RM0257,BED01281,Available,EQ0129,ICU Equipment
+HF013,ICU,DEP129,ICU Room 1,RM0257,BED01282,Available,EQ0129,ICU Equipment
+HF013,ICU,DEP129,ICU Room 1,RM0257,BED01283,Available,EQ0129,ICU Equipment
+HF013,ICU,DEP129,ICU Room 1,RM0257,BED01284,Available,EQ0129,ICU Equipment
+HF013,ICU,DEP129,ICU Room 1,RM0257,BED01285,Available,EQ0129,ICU Equipment
+HF014,ICU,DEP139,ICU Room 1,RM0277,BED01381,Available,EQ0139,ICU Equipment
+HF014,ICU,DEP139,ICU Room 1,RM0277,BED01382,Available,EQ0139,ICU Equipment
+HF014,ICU,DEP139,ICU Room 1,RM0277,BED01383,Available,EQ0139,ICU Equipment
+HF014,ICU,DEP139,ICU Room 1,RM0277,BED01384,Available,EQ0139,ICU Equipment
+HF014,ICU,DEP139,ICU Room 1,RM0277,BED01385,Available,EQ0139,ICU Equipment
+HF015,ICU,DEP149,ICU Room 1,RM0297,BED01481,Available,EQ0149,ICU Equipment
+HF015,ICU,DEP149,ICU Room 1,RM0297,BED01482,Available,EQ0149,ICU Equipment
+HF015,ICU,DEP149,ICU Room 1,RM0297,BED01483,Available,EQ0149,ICU Equipment
+HF015,ICU,DEP149,ICU Room 1,RM0297,BED01484,Available,EQ0149,ICU Equipment
+HF015,ICU,DEP149,ICU Room 1,RM0297,BED01485,Available,EQ0149,ICU Equipment
+HF016,ICU,DEP159,ICU Room 1,RM0317,BED01581,Available,EQ0159,ICU Equipment
+HF016,ICU,DEP159,ICU Room 1,RM0317,BED01582,Available,EQ0159,ICU Equipment
+HF016,ICU,DEP159,ICU Room 1,RM0317,BED01583,Available,EQ0159,ICU Equipment
+HF016,ICU,DEP159,ICU Room 1,RM0317,BED01584,Available,EQ0159,ICU Equipment
+HF016,ICU,DEP159,ICU Room 1,RM0317,BED01585,Available,EQ0159,ICU Equipment
+HF017,ICU,DEP169,ICU Room 1,RM0337,BED01681,Available,EQ0169,ICU Equipment
+HF017,ICU,DEP169,ICU Room 1,RM0337,BED01682,Available,EQ0169,ICU Equipment
+HF017,ICU,DEP169,ICU Room 1,RM0337,BED01683,Available,EQ0169,ICU Equipment
+HF017,ICU,DEP169,ICU Room 1,RM0337,BED01684,Available,EQ0169,ICU Equipment
+HF017,ICU,DEP169,ICU Room 1,RM0337,BED01685,Available,EQ0169,ICU Equipment
+HF018,ICU,DEP179,ICU Room 1,RM0357,BED01781,Available,EQ0179,ICU Equipment
+HF018,ICU,DEP179,ICU Room 1,RM0357,BED01782,Available,EQ0179,ICU Equipment
+HF018,ICU,DEP179,ICU Room 1,RM0357,BED01783,Available,EQ0179,ICU Equipment
+HF018,ICU,DEP179,ICU Room 1,RM0357,BED01784,Available,EQ0179,ICU Equipment
+HF018,ICU,DEP179,ICU Room 1,RM0357,BED01785,Available,EQ0179,ICU Equipment
+HF019,ICU,DEP189,ICU Room 1,RM0377,BED01881,Available,EQ0189,ICU Equipment
+HF019,ICU,DEP189,ICU Room 1,RM0377,BED01882,Available,EQ0189,ICU Equipment
+HF019,ICU,DEP189,ICU Room 1,RM0377,BED01883,Available,EQ0189,ICU Equipment
+HF019,ICU,DEP189,ICU Room 1,RM0377,BED01884,Available,EQ0189,ICU Equipment
+HF019,ICU,DEP189,ICU Room 1,RM0377,BED01885,Available,EQ0189,ICU Equipment
+HF020,ICU,DEP199,ICU Room 1,RM0397,BED01981,Available,EQ0199,ICU Equipment
+HF020,ICU,DEP199,ICU Room 1,RM0397,BED01982,Available,EQ0199,ICU Equipment
+HF020,ICU,DEP199,ICU Room 1,RM0397,BED01983,Available,EQ0199,ICU Equipment
+HF020,ICU,DEP199,ICU Room 1,RM0397,BED01984,Available,EQ0199,ICU Equipment
+HF020,ICU,DEP199,ICU Room 1,RM0397,BED01985,Available,EQ0199,ICU Equipment
+HF001,ICU,DEP009,ICU Room 2,RM0018,BED00086,Available,EQ0009,ICU Equipment
+HF001,ICU,DEP009,ICU Room 2,RM0018,BED00087,Available,EQ0009,ICU Equipment
+HF001,ICU,DEP009,ICU Room 2,RM0018,BED00088,Available,EQ0009,ICU Equipment
+HF001,ICU,DEP009,ICU Room 2,RM0018,BED00089,Available,EQ0009,ICU Equipment
+HF001,ICU,DEP009,ICU Room 2,RM0018,BED00090,Available,EQ0009,ICU Equipment
+HF002,ICU,DEP019,ICU Room 2,RM0038,BED00186,Available,EQ0019,ICU Equipment
+HF002,ICU,DEP019,ICU Room 2,RM0038,BED00187,Available,EQ0019,ICU Equipment
+HF002,ICU,DEP019,ICU Room 2,RM0038,BED00188,Available,EQ0019,ICU Equipment
+HF002,ICU,DEP019,ICU Room 2,RM0038,BED00189,Available,EQ0019,ICU Equipment
+HF002,ICU,DEP019,ICU Room 2,RM0038,BED00190,Available,EQ0019,ICU Equipment
+HF003,ICU,DEP029,ICU Room 2,RM0058,BED00286,Available,EQ0029,ICU Equipment
+HF003,ICU,DEP029,ICU Room 2,RM0058,BED00287,Available,EQ0029,ICU Equipment
+HF003,ICU,DEP029,ICU Room 2,RM0058,BED00288,Available,EQ0029,ICU Equipment
+HF003,ICU,DEP029,ICU Room 2,RM0058,BED00289,Available,EQ0029,ICU Equipment
+HF003,ICU,DEP029,ICU Room 2,RM0058,BED00290,Available,EQ0029,ICU Equipment
+HF004,ICU,DEP039,ICU Room 2,RM0078,BED00386,Available,EQ0039,ICU Equipment
+HF004,ICU,DEP039,ICU Room 2,RM0078,BED00387,Available,EQ0039,ICU Equipment
+HF004,ICU,DEP039,ICU Room 2,RM0078,BED00388,Available,EQ0039,ICU Equipment
+HF004,ICU,DEP039,ICU Room 2,RM0078,BED00389,Available,EQ0039,ICU Equipment
+HF004,ICU,DEP039,ICU Room 2,RM0078,BED00390,Available,EQ0039,ICU Equipment
+HF005,ICU,DEP049,ICU Room 2,RM0098,BED00486,Available,EQ0049,ICU Equipment
+HF005,ICU,DEP049,ICU Room 2,RM0098,BED00487,Available,EQ0049,ICU Equipment
+HF005,ICU,DEP049,ICU Room 2,RM0098,BED00488,Available,EQ0049,ICU Equipment
+HF005,ICU,DEP049,ICU Room 2,RM0098,BED00489,Available,EQ0049,ICU Equipment
+HF005,ICU,DEP049,ICU Room 2,RM0098,BED00490,Available,EQ0049,ICU Equipment
+HF006,ICU,DEP059,ICU Room 2,RM0118,BED00586,Available,EQ0059,ICU Equipment
+HF006,ICU,DEP059,ICU Room 2,RM0118,BED00587,Available,EQ0059,ICU Equipment
+HF006,ICU,DEP059,ICU Room 2,RM0118,BED00588,Available,EQ0059,ICU Equipment
+HF006,ICU,DEP059,ICU Room 2,RM0118,BED00589,Available,EQ0059,ICU Equipment
+HF006,ICU,DEP059,ICU Room 2,RM0118,BED00590,Available,EQ0059,ICU Equipment
+HF007,ICU,DEP069,ICU Room 2,RM0138,BED00686,Available,EQ0069,ICU Equipment
+HF007,ICU,DEP069,ICU Room 2,RM0138,BED00687,Available,EQ0069,ICU Equipment
+HF007,ICU,DEP069,ICU Room 2,RM0138,BED00688,Available,EQ0069,ICU Equipment
+HF007,ICU,DEP069,ICU Room 2,RM0138,BED00689,Available,EQ0069,ICU Equipment
+HF007,ICU,DEP069,ICU Room 2,RM0138,BED00690,Available,EQ0069,ICU Equipment
+HF008,ICU,DEP079,ICU Room 2,RM0158,BED00786,Available,EQ0079,ICU Equipment
+HF008,ICU,DEP079,ICU Room 2,RM0158,BED00787,Available,EQ0079,ICU Equipment
+HF008,ICU,DEP079,ICU Room 2,RM0158,BED00788,Available,EQ0079,ICU Equipment
+HF008,ICU,DEP079,ICU Room 2,RM0158,BED00789,Available,EQ0079,ICU Equipment
+HF008,ICU,DEP079,ICU Room 2,RM0158,BED00790,Available,EQ0079,ICU Equipment
+HF009,ICU,DEP089,ICU Room 2,RM0178,BED00886,Available,EQ0089,ICU Equipment
+HF009,ICU,DEP089,ICU Room 2,RM0178,BED00887,Available,EQ0089,ICU Equipment
+HF009,ICU,DEP089,ICU Room 2,RM0178,BED00888,Available,EQ0089,ICU Equipment
+HF009,ICU,DEP089,ICU Room 2,RM0178,BED00889,Available,EQ0089,ICU Equipment
+HF009,ICU,DEP089,ICU Room 2,RM0178,BED00890,Available,EQ0089,ICU Equipment
+HF010,ICU,DEP099,ICU Room 2,RM0198,BED00986,Available,EQ0099,ICU Equipment
+HF010,ICU,DEP099,ICU Room 2,RM0198,BED00987,Available,EQ0099,ICU Equipment
+HF010,ICU,DEP099,ICU Room 2,RM0198,BED00988,Available,EQ0099,ICU Equipment
+HF010,ICU,DEP099,ICU Room 2,RM0198,BED00989,Available,EQ0099,ICU Equipment
+HF010,ICU,DEP099,ICU Room 2,RM0198,BED00990,Available,EQ0099,ICU Equipment
+HF011,ICU,DEP109,ICU Room 2,RM0218,BED01086,Available,EQ0109,ICU Equipment
+HF011,ICU,DEP109,ICU Room 2,RM0218,BED01087,Available,EQ0109,ICU Equipment
+HF011,ICU,DEP109,ICU Room 2,RM0218,BED01088,Available,EQ0109,ICU Equipment
+HF011,ICU,DEP109,ICU Room 2,RM0218,BED01089,Available,EQ0109,ICU Equipment
+HF011,ICU,DEP109,ICU Room 2,RM0218,BED01090,Available,EQ0109,ICU Equipment
+HF012,ICU,DEP119,ICU Room 2,RM0238,BED01186,Available,EQ0119,ICU Equipment
+HF012,ICU,DEP119,ICU Room 2,RM0238,BED01187,Available,EQ0119,ICU Equipment
+HF012,ICU,DEP119,ICU Room 2,RM0238,BED01188,Available,EQ0119,ICU Equipment
+HF012,ICU,DEP119,ICU Room 2,RM0238,BED01189,Available,EQ0119,ICU Equipment
+HF012,ICU,DEP119,ICU Room 2,RM0238,BED01190,Available,EQ0119,ICU Equipment
+HF013,ICU,DEP129,ICU Room 2,RM0258,BED01286,Available,EQ0129,ICU Equipment
+HF013,ICU,DEP129,ICU Room 2,RM0258,BED01287,Available,EQ0129,ICU Equipment
+HF013,ICU,DEP129,ICU Room 2,RM0258,BED01288,Available,EQ0129,ICU Equipment
+HF013,ICU,DEP129,ICU Room 2,RM0258,BED01289,Available,EQ0129,ICU Equipment
+HF013,ICU,DEP129,ICU Room 2,RM0258,BED01290,Available,EQ0129,ICU Equipment
+HF014,ICU,DEP139,ICU Room 2,RM0278,BED01386,Available,EQ0139,ICU Equipment
+HF014,ICU,DEP139,ICU Room 2,RM0278,BED01387,Available,EQ0139,ICU Equipment
+HF014,ICU,DEP139,ICU Room 2,RM0278,BED01388,Available,EQ0139,ICU Equipment
+HF014,ICU,DEP139,ICU Room 2,RM0278,BED01389,Available,EQ0139,ICU Equipment
+HF014,ICU,DEP139,ICU Room 2,RM0278,BED01390,Available,EQ0139,ICU Equipment
+HF015,ICU,DEP149,ICU Room 2,RM0298,BED01486,Available,EQ0149,ICU Equipment
+HF015,ICU,DEP149,ICU Room 2,RM0298,BED01487,Available,EQ0149,ICU Equipment
+HF015,ICU,DEP149,ICU Room 2,RM0298,BED01488,Available,EQ0149,ICU Equipment
+HF015,ICU,DEP149,ICU Room 2,RM0298,BED01489,Available,EQ0149,ICU Equipment
+HF015,ICU,DEP149,ICU Room 2,RM0298,BED01490,Available,EQ0149,ICU Equipment
+HF016,ICU,DEP159,ICU Room 2,RM0318,BED01586,Available,EQ0159,ICU Equipment
+HF016,ICU,DEP159,ICU Room 2,RM0318,BED01587,Available,EQ0159,ICU Equipment
+HF016,ICU,DEP159,ICU Room 2,RM0318,BED01588,Available,EQ0159,ICU Equipment
+HF016,ICU,DEP159,ICU Room 2,RM0318,BED01589,Available,EQ0159,ICU Equipment
+HF016,ICU,DEP159,ICU Room 2,RM0318,BED01590,Available,EQ0159,ICU Equipment
+HF017,ICU,DEP169,ICU Room 2,RM0338,BED01686,Available,EQ0169,ICU Equipment
+HF017,ICU,DEP169,ICU Room 2,RM0338,BED01687,Available,EQ0169,ICU Equipment
+HF017,ICU,DEP169,ICU Room 2,RM0338,BED01688,Available,EQ0169,ICU Equipment
+HF017,ICU,DEP169,ICU Room 2,RM0338,BED01689,Available,EQ0169,ICU Equipment
+HF017,ICU,DEP169,ICU Room 2,RM0338,BED01690,Available,EQ0169,ICU Equipment
+HF018,ICU,DEP179,ICU Room 2,RM0358,BED01786,Available,EQ0179,ICU Equipment
+HF018,ICU,DEP179,ICU Room 2,RM0358,BED01787,Available,EQ0179,ICU Equipment
+HF018,ICU,DEP179,ICU Room 2,RM0358,BED01788,Available,EQ0179,ICU Equipment
+HF018,ICU,DEP179,ICU Room 2,RM0358,BED01789,Available,EQ0179,ICU Equipment
+HF018,ICU,DEP179,ICU Room 2,RM0358,BED01790,Available,EQ0179,ICU Equipment
+HF019,ICU,DEP189,ICU Room 2,RM0378,BED01886,Available,EQ0189,ICU Equipment
+HF019,ICU,DEP189,ICU Room 2,RM0378,BED01887,Available,EQ0189,ICU Equipment
+HF019,ICU,DEP189,ICU Room 2,RM0378,BED01888,Available,EQ0189,ICU Equipment
+HF019,ICU,DEP189,ICU Room 2,RM0378,BED01889,Available,EQ0189,ICU Equipment
+HF019,ICU,DEP189,ICU Room 2,RM0378,BED01890,Available,EQ0189,ICU Equipment
+HF020,ICU,DEP199,ICU Room 2,RM0398,BED01986,Available,EQ0199,ICU Equipment
+HF020,ICU,DEP199,ICU Room 2,RM0398,BED01987,Available,EQ0199,ICU Equipment
+HF020,ICU,DEP199,ICU Room 2,RM0398,BED01988,Available,EQ0199,ICU Equipment
+HF020,ICU,DEP199,ICU Room 2,RM0398,BED01989,Available,EQ0199,ICU Equipment
+HF020,ICU,DEP199,ICU Room 2,RM0398,BED01990,Available,EQ0199,ICU Equipment
+HF001,Cardiology,DEP010,Cardiology Room 2,RM0020,BED00096,Available,EQ0010,Cardiology Equipment
+HF001,Cardiology,DEP010,Cardiology Room 2,RM0020,BED00097,Available,EQ0010,Cardiology Equipment
+HF001,Cardiology,DEP010,Cardiology Room 2,RM0020,BED00098,Available,EQ0010,Cardiology Equipment
+HF001,Cardiology,DEP010,Cardiology Room 2,RM0020,BED00099,Available,EQ0010,Cardiology Equipment
+HF001,Cardiology,DEP010,Cardiology Room 2,RM0020,BED00100,Available,EQ0010,Cardiology Equipment
+HF002,Cardiology,DEP020,Cardiology Room 2,RM0040,BED00196,Available,EQ0020,Cardiology Equipment
+HF002,Cardiology,DEP020,Cardiology Room 2,RM0040,BED00197,Available,EQ0020,Cardiology Equipment
+HF002,Cardiology,DEP020,Cardiology Room 2,RM0040,BED00198,Available,EQ0020,Cardiology Equipment
+HF002,Cardiology,DEP020,Cardiology Room 2,RM0040,BED00199,Available,EQ0020,Cardiology Equipment
+HF002,Cardiology,DEP020,Cardiology Room 2,RM0040,BED00200,Available,EQ0020,Cardiology Equipment
+HF003,Cardiology,DEP030,Cardiology Room 2,RM0060,BED00296,Available,EQ0030,Cardiology Equipment
+HF003,Cardiology,DEP030,Cardiology Room 2,RM0060,BED00297,Available,EQ0030,Cardiology Equipment
+HF003,Cardiology,DEP030,Cardiology Room 2,RM0060,BED00298,Available,EQ0030,Cardiology Equipment
+HF003,Cardiology,DEP030,Cardiology Room 2,RM0060,BED00299,Available,EQ0030,Cardiology Equipment
+HF003,Cardiology,DEP030,Cardiology Room 2,RM0060,BED00300,Available,EQ0030,Cardiology Equipment
+HF004,Cardiology,DEP040,Cardiology Room 2,RM0080,BED00396,Available,EQ0040,Cardiology Equipment
+HF004,Cardiology,DEP040,Cardiology Room 2,RM0080,BED00397,Available,EQ0040,Cardiology Equipment
+HF004,Cardiology,DEP040,Cardiology Room 2,RM0080,BED00398,Available,EQ0040,Cardiology Equipment
+HF004,Cardiology,DEP040,Cardiology Room 2,RM0080,BED00399,Available,EQ0040,Cardiology Equipment
+HF004,Cardiology,DEP040,Cardiology Room 2,RM0080,BED00400,Available,EQ0040,Cardiology Equipment
+HF005,Cardiology,DEP050,Cardiology Room 2,RM0100,BED00496,Available,EQ0050,Cardiology Equipment
+HF005,Cardiology,DEP050,Cardiology Room 2,RM0100,BED00497,Available,EQ0050,Cardiology Equipment
+HF005,Cardiology,DEP050,Cardiology Room 2,RM0100,BED00498,Available,EQ0050,Cardiology Equipment
+HF005,Cardiology,DEP050,Cardiology Room 2,RM0100,BED00499,Available,EQ0050,Cardiology Equipment
+HF005,Cardiology,DEP050,Cardiology Room 2,RM0100,BED00500,Available,EQ0050,Cardiology Equipment
+HF006,Cardiology,DEP060,Cardiology Room 2,RM0120,BED00596,Available,EQ0060,Cardiology Equipment
+HF006,Cardiology,DEP060,Cardiology Room 2,RM0120,BED00597,Available,EQ0060,Cardiology Equipment
+HF006,Cardiology,DEP060,Cardiology Room 2,RM0120,BED00598,Available,EQ0060,Cardiology Equipment
+HF006,Cardiology,DEP060,Cardiology Room 2,RM0120,BED00599,Available,EQ0060,Cardiology Equipment
+HF006,Cardiology,DEP060,Cardiology Room 2,RM0120,BED00600,Available,EQ0060,Cardiology Equipment
+HF007,Cardiology,DEP070,Cardiology Room 2,RM0140,BED00696,Available,EQ0070,Cardiology Equipment
+HF007,Cardiology,DEP070,Cardiology Room 2,RM0140,BED00697,Available,EQ0070,Cardiology Equipment
+HF007,Cardiology,DEP070,Cardiology Room 2,RM0140,BED00698,Available,EQ0070,Cardiology Equipment
+HF007,Cardiology,DEP070,Cardiology Room 2,RM0140,BED00699,Available,EQ0070,Cardiology Equipment
+HF007,Cardiology,DEP070,Cardiology Room 2,RM0140,BED00700,Available,EQ0070,Cardiology Equipment
+HF008,Cardiology,DEP080,Cardiology Room 2,RM0160,BED00796,Available,EQ0080,Cardiology Equipment
+HF008,Cardiology,DEP080,Cardiology Room 2,RM0160,BED00797,Available,EQ0080,Cardiology Equipment
+HF008,Cardiology,DEP080,Cardiology Room 2,RM0160,BED00798,Available,EQ0080,Cardiology Equipment
+HF008,Cardiology,DEP080,Cardiology Room 2,RM0160,BED00799,Available,EQ0080,Cardiology Equipment
+HF008,Cardiology,DEP080,Cardiology Room 2,RM0160,BED00800,Available,EQ0080,Cardiology Equipment
+HF009,Cardiology,DEP090,Cardiology Room 2,RM0180,BED00896,Available,EQ0090,Cardiology Equipment
+HF009,Cardiology,DEP090,Cardiology Room 2,RM0180,BED00897,Available,EQ0090,Cardiology Equipment
+HF009,Cardiology,DEP090,Cardiology Room 2,RM0180,BED00898,Available,EQ0090,Cardiology Equipment
+HF009,Cardiology,DEP090,Cardiology Room 2,RM0180,BED00899,Available,EQ0090,Cardiology Equipment
+HF009,Cardiology,DEP090,Cardiology Room 2,RM0180,BED00900,Available,EQ0090,Cardiology Equipment
+HF010,Cardiology,DEP100,Cardiology Room 2,RM0200,BED00996,Available,EQ0100,Cardiology Equipment
+HF010,Cardiology,DEP100,Cardiology Room 2,RM0200,BED00997,Available,EQ0100,Cardiology Equipment
+HF010,Cardiology,DEP100,Cardiology Room 2,RM0200,BED00998,Available,EQ0100,Cardiology Equipment
+HF010,Cardiology,DEP100,Cardiology Room 2,RM0200,BED00999,Available,EQ0100,Cardiology Equipment
+HF010,Cardiology,DEP100,Cardiology Room 2,RM0200,BED01000,Available,EQ0100,Cardiology Equipment
+HF011,Cardiology,DEP110,Cardiology Room 2,RM0220,BED01096,Available,EQ0110,Cardiology Equipment
+HF011,Cardiology,DEP110,Cardiology Room 2,RM0220,BED01097,Available,EQ0110,Cardiology Equipment
+HF011,Cardiology,DEP110,Cardiology Room 2,RM0220,BED01098,Available,EQ0110,Cardiology Equipment
+HF011,Cardiology,DEP110,Cardiology Room 2,RM0220,BED01099,Available,EQ0110,Cardiology Equipment
+HF011,Cardiology,DEP110,Cardiology Room 2,RM0220,BED01100,Available,EQ0110,Cardiology Equipment
+HF012,Cardiology,DEP120,Cardiology Room 2,RM0240,BED01196,Available,EQ0120,Cardiology Equipment
+HF012,Cardiology,DEP120,Cardiology Room 2,RM0240,BED01197,Available,EQ0120,Cardiology Equipment
+HF012,Cardiology,DEP120,Cardiology Room 2,RM0240,BED01198,Available,EQ0120,Cardiology Equipment
+HF012,Cardiology,DEP120,Cardiology Room 2,RM0240,BED01199,Available,EQ0120,Cardiology Equipment
+HF012,Cardiology,DEP120,Cardiology Room 2,RM0240,BED01200,Available,EQ0120,Cardiology Equipment
+HF013,Cardiology,DEP130,Cardiology Room 2,RM0260,BED01296,Available,EQ0130,Cardiology Equipment
+HF013,Cardiology,DEP130,Cardiology Room 2,RM0260,BED01297,Available,EQ0130,Cardiology Equipment
+HF013,Cardiology,DEP130,Cardiology Room 2,RM0260,BED01298,Available,EQ0130,Cardiology Equipment
+HF013,Cardiology,DEP130,Cardiology Room 2,RM0260,BED01299,Available,EQ0130,Cardiology Equipment
+HF013,Cardiology,DEP130,Cardiology Room 2,RM0260,BED01300,Available,EQ0130,Cardiology Equipment
+HF014,Cardiology,DEP140,Cardiology Room 2,RM0280,BED01396,Available,EQ0140,Cardiology Equipment
+HF014,Cardiology,DEP140,Cardiology Room 2,RM0280,BED01397,Available,EQ0140,Cardiology Equipment
+HF014,Cardiology,DEP140,Cardiology Room 2,RM0280,BED01398,Available,EQ0140,Cardiology Equipment
+HF014,Cardiology,DEP140,Cardiology Room 2,RM0280,BED01399,Available,EQ0140,Cardiology Equipment
+HF014,Cardiology,DEP140,Cardiology Room 2,RM0280,BED01400,Available,EQ0140,Cardiology Equipment
+HF015,Cardiology,DEP150,Cardiology Room 2,RM0300,BED01496,Available,EQ0150,Cardiology Equipment
+HF015,Cardiology,DEP150,Cardiology Room 2,RM0300,BED01497,Available,EQ0150,Cardiology Equipment
+HF015,Cardiology,DEP150,Cardiology Room 2,RM0300,BED01498,Available,EQ0150,Cardiology Equipment
+HF015,Cardiology,DEP150,Cardiology Room 2,RM0300,BED01499,Available,EQ0150,Cardiology Equipment
+HF015,Cardiology,DEP150,Cardiology Room 2,RM0300,BED01500,Available,EQ0150,Cardiology Equipment
+HF016,Cardiology,DEP160,Cardiology Room 2,RM0320,BED01596,Available,EQ0160,Cardiology Equipment
+HF016,Cardiology,DEP160,Cardiology Room 2,RM0320,BED01597,Available,EQ0160,Cardiology Equipment
+HF016,Cardiology,DEP160,Cardiology Room 2,RM0320,BED01598,Available,EQ0160,Cardiology Equipment
+HF016,Cardiology,DEP160,Cardiology Room 2,RM0320,BED01599,Available,EQ0160,Cardiology Equipment
+HF016,Cardiology,DEP160,Cardiology Room 2,RM0320,BED01600,Available,EQ0160,Cardiology Equipment
+HF017,Cardiology,DEP170,Cardiology Room 2,RM0340,BED01696,Available,EQ0170,Cardiology Equipment
+HF017,Cardiology,DEP170,Cardiology Room 2,RM0340,BED01697,Available,EQ0170,Cardiology Equipment
+HF017,Cardiology,DEP170,Cardiology Room 2,RM0340,BED01698,Available,EQ0170,Cardiology Equipment
+HF017,Cardiology,DEP170,Cardiology Room 2,RM0340,BED01699,Available,EQ0170,Cardiology Equipment
+HF017,Cardiology,DEP170,Cardiology Room 2,RM0340,BED01700,Available,EQ0170,Cardiology Equipment
+HF018,Cardiology,DEP180,Cardiology Room 2,RM0360,BED01796,Available,EQ0180,Cardiology Equipment
+HF018,Cardiology,DEP180,Cardiology Room 2,RM0360,BED01797,Available,EQ0180,Cardiology Equipment
+HF018,Cardiology,DEP180,Cardiology Room 2,RM0360,BED01798,Available,EQ0180,Cardiology Equipment
+HF018,Cardiology,DEP180,Cardiology Room 2,RM0360,BED01799,Available,EQ0180,Cardiology Equipment
+HF018,Cardiology,DEP180,Cardiology Room 2,RM0360,BED01800,Available,EQ0180,Cardiology Equipment
+HF019,Cardiology,DEP190,Cardiology Room 2,RM0380,BED01896,Available,EQ0190,Cardiology Equipment
+HF019,Cardiology,DEP190,Cardiology Room 2,RM0380,BED01897,Available,EQ0190,Cardiology Equipment
+HF019,Cardiology,DEP190,Cardiology Room 2,RM0380,BED01898,Available,EQ0190,Cardiology Equipment
+HF019,Cardiology,DEP190,Cardiology Room 2,RM0380,BED01899,Available,EQ0190,Cardiology Equipment
+HF019,Cardiology,DEP190,Cardiology Room 2,RM0380,BED01900,Available,EQ0190,Cardiology Equipment
+HF020,Cardiology,DEP200,Cardiology Room 2,RM0400,BED01996,Available,EQ0200,Cardiology Equipment
+HF020,Cardiology,DEP200,Cardiology Room 2,RM0400,BED01997,Available,EQ0200,Cardiology Equipment
+HF020,Cardiology,DEP200,Cardiology Room 2,RM0400,BED01998,Available,EQ0200,Cardiology Equipment
+HF020,Cardiology,DEP200,Cardiology Room 2,RM0400,BED01999,Available,EQ0200,Cardiology Equipment
+HF020,Cardiology,DEP200,Cardiology Room 2,RM0400,BED02000,Available,EQ0200,Cardiology Equipment
+HF001,Cardiology,DEP010,Cardiology Room 1,RM0019,BED00091,Available,EQ0010,Cardiology Equipment
+HF001,Cardiology,DEP010,Cardiology Room 1,RM0019,BED00092,Available,EQ0010,Cardiology Equipment
+HF001,Cardiology,DEP010,Cardiology Room 1,RM0019,BED00093,Available,EQ0010,Cardiology Equipment
+HF001,Cardiology,DEP010,Cardiology Room 1,RM0019,BED00094,Available,EQ0010,Cardiology Equipment
+HF001,Cardiology,DEP010,Cardiology Room 1,RM0019,BED00095,Available,EQ0010,Cardiology Equipment
+HF002,Cardiology,DEP020,Cardiology Room 1,RM0039,BED00191,Available,EQ0020,Cardiology Equipment
+HF002,Cardiology,DEP020,Cardiology Room 1,RM0039,BED00192,Available,EQ0020,Cardiology Equipment
+HF002,Cardiology,DEP020,Cardiology Room 1,RM0039,BED00193,Available,EQ0020,Cardiology Equipment
+HF002,Cardiology,DEP020,Cardiology Room 1,RM0039,BED00194,Available,EQ0020,Cardiology Equipment
+HF002,Cardiology,DEP020,Cardiology Room 1,RM0039,BED00195,Available,EQ0020,Cardiology Equipment
+HF003,Cardiology,DEP030,Cardiology Room 1,RM0059,BED00291,Available,EQ0030,Cardiology Equipment
+HF003,Cardiology,DEP030,Cardiology Room 1,RM0059,BED00292,Available,EQ0030,Cardiology Equipment
+HF003,Cardiology,DEP030,Cardiology Room 1,RM0059,BED00293,Available,EQ0030,Cardiology Equipment
+HF003,Cardiology,DEP030,Cardiology Room 1,RM0059,BED00294,Available,EQ0030,Cardiology Equipment
+HF003,Cardiology,DEP030,Cardiology Room 1,RM0059,BED00295,Available,EQ0030,Cardiology Equipment
+HF004,Cardiology,DEP040,Cardiology Room 1,RM0079,BED00391,Available,EQ0040,Cardiology Equipment
+HF004,Cardiology,DEP040,Cardiology Room 1,RM0079,BED00392,Available,EQ0040,Cardiology Equipment
+HF004,Cardiology,DEP040,Cardiology Room 1,RM0079,BED00393,Available,EQ0040,Cardiology Equipment
+HF004,Cardiology,DEP040,Cardiology Room 1,RM0079,BED00394,Available,EQ0040,Cardiology Equipment
+HF004,Cardiology,DEP040,Cardiology Room 1,RM0079,BED00395,Available,EQ0040,Cardiology Equipment
+HF005,Cardiology,DEP050,Cardiology Room 1,RM0099,BED00491,Available,EQ0050,Cardiology Equipment
+HF005,Cardiology,DEP050,Cardiology Room 1,RM0099,BED00492,Available,EQ0050,Cardiology Equipment
+HF005,Cardiology,DEP050,Cardiology Room 1,RM0099,BED00493,Available,EQ0050,Cardiology Equipment
+HF005,Cardiology,DEP050,Cardiology Room 1,RM0099,BED00494,Available,EQ0050,Cardiology Equipment
+HF005,Cardiology,DEP050,Cardiology Room 1,RM0099,BED00495,Available,EQ0050,Cardiology Equipment
+HF006,Cardiology,DEP060,Cardiology Room 1,RM0119,BED00591,Available,EQ0060,Cardiology Equipment
+HF006,Cardiology,DEP060,Cardiology Room 1,RM0119,BED00592,Available,EQ0060,Cardiology Equipment
+HF006,Cardiology,DEP060,Cardiology Room 1,RM0119,BED00593,Available,EQ0060,Cardiology Equipment
+HF006,Cardiology,DEP060,Cardiology Room 1,RM0119,BED00594,Available,EQ0060,Cardiology Equipment
+HF006,Cardiology,DEP060,Cardiology Room 1,RM0119,BED00595,Available,EQ0060,Cardiology Equipment
+HF007,Cardiology,DEP070,Cardiology Room 1,RM0139,BED00691,Available,EQ0070,Cardiology Equipment
+HF007,Cardiology,DEP070,Cardiology Room 1,RM0139,BED00692,Available,EQ0070,Cardiology Equipment
+HF007,Cardiology,DEP070,Cardiology Room 1,RM0139,BED00693,Available,EQ0070,Cardiology Equipment
+HF007,Cardiology,DEP070,Cardiology Room 1,RM0139,BED00694,Available,EQ0070,Cardiology Equipment
+HF007,Cardiology,DEP070,Cardiology Room 1,RM0139,BED00695,Available,EQ0070,Cardiology Equipment
+HF008,Cardiology,DEP080,Cardiology Room 1,RM0159,BED00791,Available,EQ0080,Cardiology Equipment
+HF008,Cardiology,DEP080,Cardiology Room 1,RM0159,BED00792,Available,EQ0080,Cardiology Equipment
+HF008,Cardiology,DEP080,Cardiology Room 1,RM0159,BED00793,Available,EQ0080,Cardiology Equipment
+HF008,Cardiology,DEP080,Cardiology Room 1,RM0159,BED00794,Available,EQ0080,Cardiology Equipment
+HF008,Cardiology,DEP080,Cardiology Room 1,RM0159,BED00795,Available,EQ0080,Cardiology Equipment
+HF009,Cardiology,DEP090,Cardiology Room 1,RM0179,BED00891,Available,EQ0090,Cardiology Equipment
+HF009,Cardiology,DEP090,Cardiology Room 1,RM0179,BED00892,Available,EQ0090,Cardiology Equipment
+HF009,Cardiology,DEP090,Cardiology Room 1,RM0179,BED00893,Available,EQ0090,Cardiology Equipment
+HF009,Cardiology,DEP090,Cardiology Room 1,RM0179,BED00894,Available,EQ0090,Cardiology Equipment
+HF009,Cardiology,DEP090,Cardiology Room 1,RM0179,BED00895,Available,EQ0090,Cardiology Equipment
+HF010,Cardiology,DEP100,Cardiology Room 1,RM0199,BED00991,Available,EQ0100,Cardiology Equipment
+HF010,Cardiology,DEP100,Cardiology Room 1,RM0199,BED00992,Available,EQ0100,Cardiology Equipment
+HF010,Cardiology,DEP100,Cardiology Room 1,RM0199,BED00993,Available,EQ0100,Cardiology Equipment
+HF010,Cardiology,DEP100,Cardiology Room 1,RM0199,BED00994,Available,EQ0100,Cardiology Equipment
+HF010,Cardiology,DEP100,Cardiology Room 1,RM0199,BED00995,Available,EQ0100,Cardiology Equipment
+HF011,Cardiology,DEP110,Cardiology Room 1,RM0219,BED01091,Available,EQ0110,Cardiology Equipment
+HF011,Cardiology,DEP110,Cardiology Room 1,RM0219,BED01092,Available,EQ0110,Cardiology Equipment
+HF011,Cardiology,DEP110,Cardiology Room 1,RM0219,BED01093,Available,EQ0110,Cardiology Equipment
+HF011,Cardiology,DEP110,Cardiology Room 1,RM0219,BED01094,Available,EQ0110,Cardiology Equipment
+HF011,Cardiology,DEP110,Cardiology Room 1,RM0219,BED01095,Available,EQ0110,Cardiology Equipment
+HF012,Cardiology,DEP120,Cardiology Room 1,RM0239,BED01191,Available,EQ0120,Cardiology Equipment
+HF012,Cardiology,DEP120,Cardiology Room 1,RM0239,BED01192,Available,EQ0120,Cardiology Equipment
+HF012,Cardiology,DEP120,Cardiology Room 1,RM0239,BED01193,Available,EQ0120,Cardiology Equipment
+HF012,Cardiology,DEP120,Cardiology Room 1,RM0239,BED01194,Available,EQ0120,Cardiology Equipment
+HF012,Cardiology,DEP120,Cardiology Room 1,RM0239,BED01195,Available,EQ0120,Cardiology Equipment
+HF013,Cardiology,DEP130,Cardiology Room 1,RM0259,BED01291,Available,EQ0130,Cardiology Equipment
+HF013,Cardiology,DEP130,Cardiology Room 1,RM0259,BED01292,Available,EQ0130,Cardiology Equipment
+HF013,Cardiology,DEP130,Cardiology Room 1,RM0259,BED01293,Available,EQ0130,Cardiology Equipment
+HF013,Cardiology,DEP130,Cardiology Room 1,RM0259,BED01294,Available,EQ0130,Cardiology Equipment
+HF013,Cardiology,DEP130,Cardiology Room 1,RM0259,BED01295,Available,EQ0130,Cardiology Equipment
+HF014,Cardiology,DEP140,Cardiology Room 1,RM0279,BED01391,Available,EQ0140,Cardiology Equipment
+HF014,Cardiology,DEP140,Cardiology Room 1,RM0279,BED01392,Available,EQ0140,Cardiology Equipment
+HF014,Cardiology,DEP140,Cardiology Room 1,RM0279,BED01393,Available,EQ0140,Cardiology Equipment
+HF014,Cardiology,DEP140,Cardiology Room 1,RM0279,BED01394,Available,EQ0140,Cardiology Equipment
+HF014,Cardiology,DEP140,Cardiology Room 1,RM0279,BED01395,Available,EQ0140,Cardiology Equipment
+HF015,Cardiology,DEP150,Cardiology Room 1,RM0299,BED01491,Available,EQ0150,Cardiology Equipment
+HF015,Cardiology,DEP150,Cardiology Room 1,RM0299,BED01492,Available,EQ0150,Cardiology Equipment
+HF015,Cardiology,DEP150,Cardiology Room 1,RM0299,BED01493,Available,EQ0150,Cardiology Equipment
+HF015,Cardiology,DEP150,Cardiology Room 1,RM0299,BED01494,Available,EQ0150,Cardiology Equipment
+HF015,Cardiology,DEP150,Cardiology Room 1,RM0299,BED01495,Available,EQ0150,Cardiology Equipment
+HF016,Cardiology,DEP160,Cardiology Room 1,RM0319,BED01591,Available,EQ0160,Cardiology Equipment
+HF016,Cardiology,DEP160,Cardiology Room 1,RM0319,BED01592,Available,EQ0160,Cardiology Equipment
+HF016,Cardiology,DEP160,Cardiology Room 1,RM0319,BED01593,Available,EQ0160,Cardiology Equipment
+HF016,Cardiology,DEP160,Cardiology Room 1,RM0319,BED01594,Available,EQ0160,Cardiology Equipment
+HF016,Cardiology,DEP160,Cardiology Room 1,RM0319,BED01595,Available,EQ0160,Cardiology Equipment
+HF017,Cardiology,DEP170,Cardiology Room 1,RM0339,BED01691,Available,EQ0170,Cardiology Equipment
+HF017,Cardiology,DEP170,Cardiology Room 1,RM0339,BED01692,Available,EQ0170,Cardiology Equipment
+HF017,Cardiology,DEP170,Cardiology Room 1,RM0339,BED01693,Available,EQ0170,Cardiology Equipment
+HF017,Cardiology,DEP170,Cardiology Room 1,RM0339,BED01694,Available,EQ0170,Cardiology Equipment
+HF017,Cardiology,DEP170,Cardiology Room 1,RM0339,BED01695,Available,EQ0170,Cardiology Equipment
+HF018,Cardiology,DEP180,Cardiology Room 1,RM0359,BED01791,Available,EQ0180,Cardiology Equipment
+HF018,Cardiology,DEP180,Cardiology Room 1,RM0359,BED01792,Available,EQ0180,Cardiology Equipment
+HF018,Cardiology,DEP180,Cardiology Room 1,RM0359,BED01793,Available,EQ0180,Cardiology Equipment
+HF018,Cardiology,DEP180,Cardiology Room 1,RM0359,BED01794,Available,EQ0180,Cardiology Equipment
+HF018,Cardiology,DEP180,Cardiology Room 1,RM0359,BED01795,Available,EQ0180,Cardiology Equipment
+HF019,Cardiology,DEP190,Cardiology Room 1,RM0379,BED01891,Available,EQ0190,Cardiology Equipment
+HF019,Cardiology,DEP190,Cardiology Room 1,RM0379,BED01892,Available,EQ0190,Cardiology Equipment
+HF019,Cardiology,DEP190,Cardiology Room 1,RM0379,BED01893,Available,EQ0190,Cardiology Equipment
+HF019,Cardiology,DEP190,Cardiology Room 1,RM0379,BED01894,Available,EQ0190,Cardiology Equipment
+HF019,Cardiology,DEP190,Cardiology Room 1,RM0379,BED01895,Available,EQ0190,Cardiology Equipment
+HF020,Cardiology,DEP200,Cardiology Room 1,RM0399,BED01991,Available,EQ0200,Cardiology Equipment
+HF020,Cardiology,DEP200,Cardiology Room 1,RM0399,BED01992,Available,EQ0200,Cardiology Equipment
+HF020,Cardiology,DEP200,Cardiology Room 1,RM0399,BED01993,Available,EQ0200,Cardiology Equipment
+HF020,Cardiology,DEP200,Cardiology Room 1,RM0399,BED01994,Available,EQ0200,Cardiology Equipment
+HF020,Cardiology,DEP200,Cardiology Room 1,RM0399,BED01995,Available,EQ0200,Cardiology Equipment
